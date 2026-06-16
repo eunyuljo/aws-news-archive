@@ -1,15 +1,11 @@
 ---
 title: "S3"
-parent: Services
+parent: Tags
+nav_exclude: false
 ---
 
-# S3 — AWS 뉴스
+# 태그: S3
 
-총 **1건** | 최근 업데이트: 2026-06-16
-
----
-
-
-## 2024
+총 1건
 
 - [Amazon S3 now supports conditional writes for object creation](../../news/2024/08/2024-08-15_amazon-s3-now-supports-conditional-writes-for-object-creation.md) `2024-08-15`

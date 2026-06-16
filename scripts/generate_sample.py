@@ -13,6 +13,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 from fetch_aws_news import (
     write_news_file, update_service_index,
     update_global_service_index, update_readme,
+    update_tag_indexes, detect_service,
 )
 
 SAMPLE_ITEMS = [
@@ -131,19 +132,23 @@ SAMPLE_ITEMS = [
 
 
 def main():
-    from fetch_aws_news import detect_service
-
     service_items: dict[str, list[dict]] = {}
+    all_items_with_service: list[dict] = []
+
     for item in SAMPLE_ITEMS:
         service = detect_service(item["title"], item["description"])
-        service_items.setdefault(service, []).append(item)
-        write_news_file(item, service)
+        item_with_service = {**item, "service": service}
+        service_items.setdefault(service, []).append(item_with_service)
+        all_items_with_service.append(item_with_service)
+        # force=True で既存ファイルも上書き（frontmatter更新のため）
+        write_news_file(item, service, force=True)
 
     for service, items in service_items.items():
         update_service_index(service, items)
 
     service_counts = {s: len(i) for s, i in service_items.items()}
     update_global_service_index(service_counts)
+    update_tag_indexes(all_items_with_service)
     update_readme(service_counts, len(SAMPLE_ITEMS), len(SAMPLE_ITEMS))
     print(f"샘플 데이터 {len(SAMPLE_ITEMS)}건 생성 완료")
 

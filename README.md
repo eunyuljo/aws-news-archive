@@ -12,6 +12,9 @@ aws-news-archive/
 ├── services/
 │   ├── index.md                        # 서비스 목록
 │   └── <서비스명>/index.md             # 서비스별 뉴스 목록
+├── tags/
+│   ├── index.md                        # 태그 목록
+│   └── <태그명>/index.md               # 태그별 뉴스 목록
 └── scripts/
     └── fetch_aws_news.py               # 수집 스크립트
 ```
@@ -20,7 +23,7 @@ aws-news-archive/
 
 - **전체 뉴스:** 10건
 - **수집 서비스:** 8개
-- **마지막 업데이트:** 2026-06-16 13:09 UTC
+- **마지막 업데이트:** 2026-06-16 13:18 UTC
 
 ## 많이 업데이트된 서비스 TOP 5
 
@@ -35,6 +38,10 @@ aws-news-archive/
 ## 전체 서비스 목록
 
 [서비스 인덱스 보기](./services/index.md)
+
+## 태그 목록
+
+[태그 인덱스 보기](./tags/index.md)
 
 ## 자동화
 

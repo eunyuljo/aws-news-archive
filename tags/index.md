@@ -1,17 +1,15 @@
 ---
-title: Services
-nav_order: 2
+title: Tags
+nav_order: 3
 has_children: true
 ---
 
-# AWS 서비스별 뉴스 인덱스
+# 태그 목록
 
-최근 업데이트: 2026-06-16
-
----
-
-| 서비스 | 뉴스 수 |
-|--------|---------|
+| 태그 | 건수 |
+|------|------|
+| [2024](./2024/index.md) | 10 |
+| [performance](./performance/index.md) | 3 |
 | [EKS](./EKS/index.md) | 2 |
 | [RDS](./RDS/index.md) | 2 |
 | [Bedrock](./Bedrock/index.md) | 1 |
@@ -20,3 +18,6 @@ has_children: true
 | [Lambda](./Lambda/index.md) | 1 |
 | [S3](./S3/index.md) | 1 |
 | [SageMaker](./SageMaker/index.md) | 1 |
+| [ai-ml](./ai-ml/index.md) | 1 |
+| [new-region](./new-region/index.md) | 1 |
+| [security](./security/index.md) | 1 |

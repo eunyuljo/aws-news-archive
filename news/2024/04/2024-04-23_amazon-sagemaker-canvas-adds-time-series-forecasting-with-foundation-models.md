@@ -3,6 +3,8 @@ title: "Amazon SageMaker Canvas adds time series forecasting with Foundation Mod
 date: "2024-04-23"
 service: "SageMaker"
 link: "https://aws.amazon.com/about-aws/whats-new/2024/04/sagemaker-canvas-time-series-foundation-models/"
+tags: ["SageMaker", "2024", "ai-ml"]
+nav_exclude: true
 ---
 
 # Amazon SageMaker Canvas adds time series forecasting with Foundation Models
@@ -14,3 +16,7 @@ link: "https://aws.amazon.com/about-aws/whats-new/2024/04/sagemaker-canvas-time-
 ## 내용
 
 Amazon SageMaker Canvas now supports time series forecasting using Foundation Models including Amazon Chronos. This enables you to generate accurate forecasts without requiring any ML expertise.
+
+## 한국어 요약
+
+번역 미지원

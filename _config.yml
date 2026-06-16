@@ -1,0 +1,22 @@
+title: AWS News Archive
+description: AWS What's New 피드를 서비스별로 자동 정리한 아카이브
+remote_theme: just-the-docs/just-the-docs@v0.10.0
+url: "https://eunyuljo.github.io"
+baseurl: "/aws-news-archive"
+
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  rel_url: true
+
+aux_links:
+  "GitHub": "https://github.com/eunyuljo/aws-news-archive"
+aux_links_new_tab: true
+
+footer_content: "AWS News Archive | GitHub Actions로 자동 수집"
+
+plugins:
+  - jekyll-seo-tag

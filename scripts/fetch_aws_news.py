@@ -6,6 +6,8 @@ AWS What's New RSS 피드를 수집하여 서비스별로 분류·저장하는 �
   news/YYYY/MM/YYYY-MM-DD_<slug>.md      — 개별 뉴스 파일
   services/<service>/index.md            — 서비스별 인덱스
   services/index.md                      — 전체 서비스 목록
+  tags/<tag>/index.md                    — 태그별 인덱스
+  tags/index.md                          — 전체 태그 목록
   README.md                              — 루트 요약
 """
 
@@ -13,7 +15,6 @@ import os
 import re
 import json
 import hashlib
-import textwrap
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from pathlib import Path
@@ -157,6 +158,43 @@ def detect_service(title: str, description: str) -> str:
     return "General"
 
 
+def detect_tags(title: str, description: str, service: str, year: str) -> list[str]:
+    tags = [service, year]
+    text = (title + " " + description).lower()
+    if any(k in text for k in ["generally available", "now available", "launched", "launch"]):
+        tags.append("GA")
+    if "preview" in text:
+        tags.append("preview")
+    if any(k in text for k in ["price reduction", "cost", "lower cost", "cheaper", "price"]):
+        tags.append("price-reduction")
+    if any(k in text for k in ["new region", "additional region", "availability zone", "region"]):
+        tags.append("new-region")
+    if any(k in text for k in ["performance", "faster", "speed", "latency", "throughput"]):
+        tags.append("performance")
+    if any(k in text for k in ["security", "encryption", "compliance", "iam", "kms", "vulnerability"]):
+        tags.append("security")
+    if any(k in text for k in ["machine learning", "artificial intelligence", " ai ", "ml model", "inference", "foundation model", "llm", "generative"]):
+        tags.append("ai-ml")
+    return list(dict.fromkeys(tags))
+
+
+def translate_to_korean(text: str) -> str | None:
+    """TRANSLATE_TO_KO=true 환경변수 + boto3 + AWS 자격증명이 있을 때만 동작"""
+    if os.environ.get("TRANSLATE_TO_KO", "").lower() != "true":
+        return None
+    try:
+        import boto3
+        client = boto3.client("translate", region_name="us-east-1")
+        result = client.translate_text(
+            Text=text[:5000],
+            SourceLanguageCode="en",
+            TargetLanguageCode="ko"
+        )
+        return result["TranslatedText"]
+    except Exception:
+        return None
+
+
 def slugify(title: str) -> str:
     slug = title.lower()
     slug = re.sub(r"[^\w\s-]", "", slug)
@@ -176,30 +214,46 @@ def news_file_path(item: dict) -> Path:
     return BASE_DIR / "news" / d.strftime("%Y") / d.strftime("%m") / filename
 
 
-def write_news_file(item: dict, service: str) -> Path:
+def write_news_file(item: dict, service: str, force: bool = False) -> Path:
     path = news_file_path(item)
     path.parent.mkdir(parents=True, exist_ok=True)
-    if path.exists():
+    if path.exists() and not force:
         return path  # 이미 존재하면 덮어쓰지 않음
 
-    content = textwrap.dedent(f"""\
-        ---
-        title: "{item['title'].replace('"', "'")}"
-        date: "{item['pub_date'].strftime('%Y-%m-%d')}"
-        service: "{service}"
-        link: "{item['link']}"
-        ---
+    year = item["pub_date"].strftime("%Y")
+    tags = detect_tags(item["title"], item["description"], service, year)
+    tags_yaml = json.dumps(tags)
 
-        # {item['title']}
+    # 한국어 번역 시도
+    ko_summary = translate_to_korean(item["description"])
+    if ko_summary:
+        ko_section = f"## 한국어 요약\n\n{ko_summary}\n"
+    else:
+        ko_section = "## 한국어 요약\n\n번역 미지원\n"
 
-        **날짜:** {item['pub_date'].strftime('%Y년 %m월 %d일')}
-        **서비스:** {service}
-        **링크:** {item['link']}
-
-        ## 내용
-
-        {item['description']}
-    """)
+    lines = [
+        "---",
+        f'title: "{item["title"].replace(chr(34), chr(39))}"',
+        f'date: "{item["pub_date"].strftime("%Y-%m-%d")}"',
+        f'service: "{service}"',
+        f'link: "{item["link"]}"',
+        f"tags: {tags_yaml}",
+        "nav_exclude: true",
+        "---",
+        "",
+        f"# {item['title']}",
+        "",
+        f"**날짜:** {item['pub_date'].strftime('%Y년 %m월 %d일')}",
+        f"**서비스:** {service}",
+        f"**링크:** {item['link']}",
+        "",
+        "## 내용",
+        "",
+        item["description"],
+        "",
+        ko_section,
+    ]
+    content = "\n".join(lines)
     path.write_text(content, encoding="utf-8")
     return path
 
@@ -209,9 +263,20 @@ def update_service_index(service: str, items: list[dict]) -> None:
     svc_dir.mkdir(parents=True, exist_ok=True)
 
     sorted_items = sorted(items, key=lambda x: x["pub_date"], reverse=True)
-    lines = [f"# {service} — AWS 뉴스\n"]
-    lines.append(f"총 **{len(sorted_items)}건** | 최근 업데이트: {datetime.now(tz=timezone.utc).strftime('%Y-%m-%d')}\n")
-    lines.append("---\n")
+
+    lines = [
+        "---",
+        f'title: "{service}"',
+        "parent: Services",
+        "---",
+        "",
+        f"# {service} — AWS 뉴스",
+        "",
+        f"총 **{len(sorted_items)}건** | 최근 업데이트: {datetime.now(tz=timezone.utc).strftime('%Y-%m-%d')}",
+        "",
+        "---",
+        "",
+    ]
 
     current_year = None
     for item in sorted_items:
@@ -230,15 +295,90 @@ def update_global_service_index(service_counts: dict[str, int]) -> None:
     path = BASE_DIR / "services" / "index.md"
     sorted_services = sorted(service_counts.items(), key=lambda x: (-x[1], x[0]))
 
-    lines = ["# AWS 서비스별 뉴스 인덱스\n"]
-    lines.append(f"최근 업데이트: {datetime.now(tz=timezone.utc).strftime('%Y-%m-%d')}\n")
-    lines.append("---\n")
-    lines.append("| 서비스 | 뉴스 수 |")
-    lines.append("|--------|---------|")
+    lines = [
+        "---",
+        "title: Services",
+        "nav_order: 2",
+        "has_children: true",
+        "---",
+        "",
+        "# AWS 서비스별 뉴스 인덱스",
+        "",
+        f"최근 업데이트: {datetime.now(tz=timezone.utc).strftime('%Y-%m-%d')}",
+        "",
+        "---",
+        "",
+        "| 서비스 | 뉴스 수 |",
+        "|--------|---------|",
+    ]
     for service, count in sorted_services:
         lines.append(f"| [{service}](./{service}/index.md) | {count} |")
 
     path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+
+def update_tag_indexes(all_items: list[dict]) -> None:
+    """태그별 인덱스 파일 생성."""
+    tags_dir = BASE_DIR / "tags"
+    tags_dir.mkdir(parents=True, exist_ok=True)
+
+    # 각 item에 태그 계산
+    tag_items: dict[str, list[dict]] = {}
+    for item in all_items:
+        service = item.get("service", "General")
+        year = item["pub_date"].strftime("%Y")
+        tags = detect_tags(item["title"], item["description"], service, year)
+        for tag in tags:
+            tag_items.setdefault(tag, []).append(item)
+
+    # 태그별 index.md 생성
+    for tag, items in tag_items.items():
+        tag_dir = tags_dir / tag
+        tag_dir.mkdir(parents=True, exist_ok=True)
+        sorted_items = sorted(items, key=lambda x: x["pub_date"], reverse=True)
+
+        lines = [
+            "---",
+            f'title: "{tag}"',
+            "parent: Tags",
+            "nav_exclude: false",
+            "---",
+            "",
+            f"# 태그: {tag}",
+            "",
+            f"총 {len(sorted_items)}건",
+            "",
+        ]
+        for item in sorted_items:
+            date_str = item["pub_date"].strftime("%Y-%m-%d")
+            news_path = news_file_path(item)
+            rel_path = os.path.relpath(news_path, tag_dir)
+            item_service = item.get("service", "General")
+            item_year = item["pub_date"].strftime("%Y")
+            item_tags = detect_tags(item["title"], item["description"], item_service, item_year)
+            tag_labels = " ".join(f"[{t}]" for t in item_tags if t not in (item_service, item_year))
+            lines.append(f"- [{item['title']}]({rel_path}) `{date_str}` {tag_labels}".rstrip())
+
+        (tag_dir / "index.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+    # tags/index.md 생성
+    sorted_tags = sorted(tag_items.items(), key=lambda x: (-len(x[1]), x[0]))
+    index_lines = [
+        "---",
+        "title: Tags",
+        "nav_order: 3",
+        "has_children: true",
+        "---",
+        "",
+        "# 태그 목록",
+        "",
+        "| 태그 | 건수 |",
+        "|------|------|",
+    ]
+    for tag, items in sorted_tags:
+        index_lines.append(f"| [{tag}](./{tag}/index.md) | {len(items)} |")
+
+    (tags_dir / "index.md").write_text("\n".join(index_lines) + "\n", encoding="utf-8")
 
 
 def update_readme(service_counts: dict[str, int], total: int, new_count: int) -> None:
@@ -257,6 +397,9 @@ def update_readme(service_counts: dict[str, int], total: int, new_count: int) ->
         "├── services/",
         "│   ├── index.md                        # 서비스 목록",
         "│   └── <서비스명>/index.md             # 서비스별 뉴스 목록",
+        "├── tags/",
+        "│   ├── index.md                        # 태그 목록",
+        "│   └── <태그명>/index.md               # 태그별 뉴스 목록",
         "└── scripts/",
         "    └── fetch_aws_news.py               # 수집 스크립트",
         "```\n",
@@ -273,6 +416,8 @@ def update_readme(service_counts: dict[str, int], total: int, new_count: int) ->
 
     lines.append("\n## 전체 서비스 목록\n")
     lines.append("[서비스 인덱스 보기](./services/index.md)\n")
+    lines.append("## 태그 목록\n")
+    lines.append("[태그 인덱스 보기](./tags/index.md)\n")
     lines.append("## 자동화\n")
     lines.append("GitHub Actions (`.github/workflows/fetch-news.yml`)가 매일 UTC 09:00에 실행됩니다.\n")
 
@@ -308,10 +453,13 @@ def main() -> None:
     # 서비스별 분류
     service_items: dict[str, list[dict]] = {}
     new_count = 0
+    all_items_with_service: list[dict] = []
 
     for item in items:
         service = detect_service(item["title"], item["description"])
-        service_items.setdefault(service, []).append(item)
+        item_with_service = {**item, "service": service}
+        service_items.setdefault(service, []).append(item_with_service)
+        all_items_with_service.append(item_with_service)
 
         if item["link"] not in existing_links:
             write_news_file(item, service)
@@ -323,9 +471,10 @@ def main() -> None:
     for service, svc_items in service_items.items():
         update_service_index(service, svc_items)
 
-    # 전체 서비스 인덱스 및 README 업데이트
+    # 전체 서비스 인덱스, 태그 인덱스, README 업데이트
     service_counts = {svc: len(itms) for svc, itms in service_items.items()}
     update_global_service_index(service_counts)
+    update_tag_indexes(all_items_with_service)
     update_readme(service_counts, len(items), new_count)
 
     print("인덱스 및 README 업데이트 완료")
