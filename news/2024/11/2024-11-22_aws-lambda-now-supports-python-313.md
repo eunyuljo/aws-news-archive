@@ -17,6 +17,6 @@ nav_exclude: true
 
 AWS Lambda now supports creating and updating functions using Python 3.13. Python 3.13 includes improvements to the typing module, a new REPL, and performance improvements.
 
-## 한국어 요약
+## 핵심 요약
 
-번역 미지원
+요약 미지원

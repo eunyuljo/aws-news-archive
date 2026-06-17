@@ -195,6 +195,52 @@ def translate_to_korean(text: str) -> str | None:
         return None
 
 
+def summarize_with_bedrock(title: str, description: str) -> dict | None:
+    """SUMMARIZE_WITH_AI=true 환경변수 + boto3 + Bedrock 자격증명이 있을 때만 동작.
+
+    Amazon Bedrock의 Claude 모델로 한국어 요약과 핵심 포인트를 생성한다.
+    반환: {"summary": str, "highlights": list[str]} 또는 실패 시 None
+    """
+    if os.environ.get("SUMMARIZE_WITH_AI", "").lower() != "true":
+        return None
+    try:
+        import boto3
+
+        client = boto3.client(
+            "bedrock-runtime",
+            region_name=os.environ.get("AWS_REGION", "us-east-1"),
+        )
+        prompt = (
+            "다음 AWS 공식 뉴스를 한국어로 요약해줘.\n\n"
+            f"제목: {title}\n"
+            f"내용: {description}\n\n"
+            "아래 JSON 형식으로만 응답하고 다른 텍스트는 포함하지 마:\n"
+            '{"summary": "2~3문장 한국어 요약", '
+            '"highlights": ["핵심 포인트1", "핵심 포인트2", "핵심 포인트3"]}'
+        )
+        body = json.dumps(
+            {
+                "anthropic_version": "bedrock-2023-05-31",
+                "max_tokens": 500,
+                "messages": [{"role": "user", "content": prompt}],
+            }
+        )
+        response = client.invoke_model(
+            modelId=os.environ.get(
+                "BEDROCK_MODEL_ID", "anthropic.claude-3-haiku-20240307-v1:0"
+            ),
+            body=body,
+        )
+        result = json.loads(response["body"].read())
+        text = result["content"][0]["text"]
+        match = re.search(r"\{.*\}", text, re.DOTALL)
+        if match:
+            return json.loads(match.group())
+    except Exception:
+        pass
+    return None
+
+
 def slugify(title: str) -> str:
     slug = title.lower()
     slug = re.sub(r"[^\w\s-]", "", slug)
@@ -224,12 +270,21 @@ def write_news_file(item: dict, service: str, force: bool = False) -> Path:
     tags = detect_tags(item["title"], item["description"], service, year)
     tags_yaml = json.dumps(tags)
 
-    # 한국어 번역 시도
-    ko_summary = translate_to_korean(item["description"])
-    if ko_summary:
-        ko_section = f"## 한국어 요약\n\n{ko_summary}\n"
+    # AI 요약(Bedrock) 우선 시도, 실패 시 단순 번역으로 폴백
+    ai_result = summarize_with_bedrock(item["title"], item["description"])
+    if ai_result and ai_result.get("summary"):
+        summary_text = ai_result["summary"]
+        highlights = ai_result.get("highlights") or []
     else:
-        ko_section = "## 한국어 요약\n\n번역 미지원\n"
+        summary_text = translate_to_korean(item["description"]) or "요약 미지원"
+        highlights = []
+
+    summary_section_lines = ["## 핵심 요약", "", summary_text]
+    if highlights:
+        summary_section_lines += ["", "## 주요 포인트", ""]
+        summary_section_lines += [f"- {h}" for h in highlights]
+    summary_section_lines.append("")
+    summary_section = "\n".join(summary_section_lines)
 
     lines = [
         "---",
@@ -251,7 +306,7 @@ def write_news_file(item: dict, service: str, force: bool = False) -> Path:
         "",
         item["description"],
         "",
-        ko_section,
+        summary_section,
     ]
     content = "\n".join(lines)
     path.write_text(content, encoding="utf-8")
@@ -420,6 +475,17 @@ def update_readme(service_counts: dict[str, int], total: int, new_count: int) ->
     lines.append("[태그 인덱스 보기](./tags/index.md)\n")
     lines.append("## 자동화\n")
     lines.append("GitHub Actions (`.github/workflows/fetch-news.yml`)가 매일 UTC 09:00에 실행됩니다.\n")
+    lines.append("각 뉴스 파일에는 원문과 함께 **핵심 요약**, **주요 포인트**가 포함됩니다.\n")
+    lines.append("## AI 요약 활성화 (선택)\n")
+    lines.append(
+        "기본값은 단순 영→한 기계 번역(또는 미지원)입니다. "
+        "Amazon Bedrock으로 실제 핵심 요약과 주요 포인트 강조를 받으려면 "
+        "저장소 Settings → Secrets and variables → Actions에서 아래 항목을 설정하세요.\n"
+    )
+    lines.append("- `AWS_SUMMARIZE_ENABLED` (secret) = `true`")
+    lines.append("- `AWS_ACCESS_KEY_ID`, `AWS_SECRET_ACCESS_KEY` (secret) — `bedrock:InvokeModel` 권한 필요")
+    lines.append("- `BEDROCK_MODEL_ID` (variable, 선택) — 기본값 `anthropic.claude-3-haiku-20240307-v1:0`")
+    lines.append("- `AWS_REGION` (variable, 선택) — 기본값 `us-east-1`\n")
 
     path.write_text("\n".join(lines) + "\n", encoding="utf-8")
 

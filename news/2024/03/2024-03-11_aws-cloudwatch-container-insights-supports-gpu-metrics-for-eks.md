@@ -17,6 +17,6 @@ nav_exclude: true
 
 Amazon CloudWatch Container Insights now supports GPU metrics for Amazon EKS. You can now monitor GPU utilization, memory usage, and temperature for GPU-enabled workloads running on Amazon EKS.
 
-## 한국어 요약
+## 핵심 요약
 
-번역 미지원
+요약 미지원

@@ -17,6 +17,6 @@ nav_exclude: true
 
 Amazon CloudFront now supports HTTP/3 with QUIC in all edge locations globally. HTTP/3 can improve performance by reducing connection establishment time and eliminating head-of-line blocking.
 
-## 한국어 요약
+## 핵심 요약
 
-번역 미지원
+요약 미지원

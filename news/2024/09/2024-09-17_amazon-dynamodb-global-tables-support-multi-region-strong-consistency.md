@@ -17,6 +17,6 @@ nav_exclude: true
 
 Amazon DynamoDB global tables now support multi-Region strong consistency (MRSC), enabling you to perform strongly consistent reads from any of the AWS Regions where your DynamoDB global table is replicated.
 
-## 한국어 요약
+## 핵심 요약
 
-번역 미지원
+요약 미지원

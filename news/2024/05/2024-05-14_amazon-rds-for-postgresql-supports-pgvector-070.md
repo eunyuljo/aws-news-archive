@@ -17,6 +17,6 @@ nav_exclude: true
 
 Amazon RDS for PostgreSQL now supports the pgvector extension version 0.7.0. pgvector is an open-source extension for vector similarity search. The new version includes performance improvements for HNSW indexing.
 
-## 한국어 요약
+## 핵심 요약
 
-번역 미지원
+요약 미지원

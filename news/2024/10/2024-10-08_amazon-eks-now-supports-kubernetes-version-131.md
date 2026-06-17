@@ -17,6 +17,6 @@ nav_exclude: true
 
 Amazon EKS now supports Kubernetes version 1.31. Kubernetes 1.31 includes several new features and bug fixes. Notable changes include AppArmor support graduating to stable and pod failure policy for jobs graduating to stable.
 
-## 한국어 요약
+## 핵심 요약
 
-번역 미지원
+요약 미지원

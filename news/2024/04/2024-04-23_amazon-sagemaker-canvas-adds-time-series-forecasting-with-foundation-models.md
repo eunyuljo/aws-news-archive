@@ -17,6 +17,6 @@ nav_exclude: true
 
 Amazon SageMaker Canvas now supports time series forecasting using Foundation Models including Amazon Chronos. This enables you to generate accurate forecasts without requiring any ML expertise.
 
-## 한국어 요약
+## 핵심 요약
 
-번역 미지원
+요약 미지원

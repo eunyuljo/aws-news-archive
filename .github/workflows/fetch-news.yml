@@ -37,9 +37,12 @@ jobs:
 
       - name: Fetch AWS news
         env:
+          SUMMARIZE_WITH_AI: ${{ secrets.AWS_SUMMARIZE_ENABLED || 'false' }}
+          BEDROCK_MODEL_ID: ${{ vars.BEDROCK_MODEL_ID || 'anthropic.claude-3-haiku-20240307-v1:0' }}
           TRANSLATE_TO_KO: ${{ secrets.AWS_TRANSLATE_ENABLED || 'false' }}
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_REGION: ${{ vars.AWS_REGION || 'us-east-1' }}
         run: python scripts/fetch_aws_news.py
 
       - name: Check for changes

@@ -23,7 +23,7 @@ aws-news-archive/
 
 - **전체 뉴스:** 10건
 - **수집 서비스:** 8개
-- **마지막 업데이트:** 2026-06-16 13:18 UTC
+- **마지막 업데이트:** 2026-06-17 00:31 UTC
 
 ## 많이 업데이트된 서비스 TOP 5
 
@@ -46,4 +46,15 @@ aws-news-archive/
 ## 자동화
 
 GitHub Actions (`.github/workflows/fetch-news.yml`)가 매일 UTC 09:00에 실행됩니다.
+
+각 뉴스 파일에는 원문과 함께 **핵심 요약**, **주요 포인트**가 포함됩니다.
+
+## AI 요약 활성화 (선택)
+
+기본값은 단순 영→한 기계 번역(또는 미지원)입니다. Amazon Bedrock으로 실제 핵심 요약과 주요 포인트 강조를 받으려면 저장소 Settings → Secrets and variables → Actions에서 아래 항목을 설정하세요.
+
+- `AWS_SUMMARIZE_ENABLED` (secret) = `true`
+- `AWS_ACCESS_KEY_ID`, `AWS_SECRET_ACCESS_KEY` (secret) — `bedrock:InvokeModel` 권한 필요
+- `BEDROCK_MODEL_ID` (variable, 선택) — 기본값 `anthropic.claude-3-haiku-20240307-v1:0`
+- `AWS_REGION` (variable, 선택) — 기본값 `us-east-1`
 

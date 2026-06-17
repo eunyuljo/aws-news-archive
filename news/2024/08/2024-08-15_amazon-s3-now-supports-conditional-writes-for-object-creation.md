@@ -17,6 +17,6 @@ nav_exclude: true
 
 Amazon S3 now supports conditional writes that allow you to prevent objects from being overwritten. You can now add a precondition to your S3 PUT or COPY request so that the operation only succeeds if the object doesn't already exist in the bucket.
 
-## 한국어 요약
+## 핵심 요약
 
-번역 미지원
+요약 미지원

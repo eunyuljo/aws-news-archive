@@ -17,6 +17,6 @@ nav_exclude: true
 
 AWS Identity and Access Management (IAM) now supports passkeys as a multi-factor authentication (MFA) method for both root and IAM users. Passkeys are more secure than traditional passwords and resistant to phishing.
 
-## 한국어 요약
+## 핵심 요약
 
-번역 미지원
+요약 미지원
