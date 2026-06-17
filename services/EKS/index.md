@@ -10,7 +10,7 @@ parent: Services
 ---
 
 
-## 2024
+## 2026
 
-- [Amazon EKS now supports Kubernetes version 1.31](../../news/2024/10/2024-10-08_amazon-eks-now-supports-kubernetes-version-131.md) `2024-10-08`
-- [AWS CloudWatch Container Insights supports GPU metrics for EKS](../../news/2024/03/2024-03-11_aws-cloudwatch-container-insights-supports-gpu-metrics-for-eks.md) `2024-03-11`
+- [AWS Backup support for Amazon EKS is now available in the AWS European Sovereign Cloud (Germany) Region](../../news/2026/06/2026-06-17_aws-backup-support-for-amazon-eks-is-now-available-in-the-aws-european-sovereign.md) `2026-06-17`
+- [AWS Partners can now accelerate co-sell deals with express private offers](../../news/2026/06/2026-06-17_aws-partners-can-now-accelerate-co-sell-deals-with-express-private-offers.md) `2026-06-17`

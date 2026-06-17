@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS CloudFront announces HTTP/3 support in all edge locations](../../news/2024/07/2024-07-02_aws-cloudfront-announces-http3-support-in-all-edge-locations.md) `2024-07-02` [performance]
+- [AWS WAF announces AI traffic monetization](../../news/2026/06/2026-06-17_aws-waf-announces-ai-traffic-monetization.md) `2026-06-17` [price-reduction] [ai-ml]

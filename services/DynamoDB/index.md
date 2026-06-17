@@ -5,11 +5,12 @@ parent: Services
 
 # DynamoDB — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-06-17
+총 **2건** | 최근 업데이트: 2026-06-17
 
 ---
 
 
-## 2024
+## 2026
 
-- [Amazon DynamoDB global tables support multi-Region strong consistency](../../news/2024/09/2024-09-17_amazon-dynamodb-global-tables-support-multi-region-strong-consistency.md) `2024-09-17`
+- [AWS Databases on Vercel now available in additional AWS Regions](../../news/2026/06/2026-06-17_aws-databases-on-vercel-now-available-in-additional-aws-regions.md) `2026-06-17`
+- [AWS Compute Optimizer now supports idle recommendations for six additional resource types](../../news/2026/06/2026-06-17_aws-compute-optimizer-now-supports-idle-recommendations-for-six-additional-resou.md) `2026-06-17`

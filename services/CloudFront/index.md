@@ -10,6 +10,6 @@ parent: Services
 ---
 
 
-## 2024
+## 2026
 
-- [AWS CloudFront announces HTTP/3 support in all edge locations](../../news/2024/07/2024-07-02_aws-cloudfront-announces-http3-support-in-all-edge-locations.md) `2024-07-02`
+- [AWS WAF announces AI traffic monetization](../../news/2026/06/2026-06-17_aws-waf-announces-ai-traffic-monetization.md) `2026-06-17`
