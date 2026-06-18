@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS WAF announces AI traffic monetization](../../news/2026/06/2026-06-17_aws-waf-announces-ai-traffic-monetization.md) `2026-06-17` [price-reduction] [ai-ml]
+- [AWS WAF announces AI traffic monetization](../../news/2026/06/2026-06-18_aws-waf-announces-ai-traffic-monetization.md) `2026-06-18` [price-reduction] [ai-ml]

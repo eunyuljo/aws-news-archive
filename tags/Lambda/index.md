@@ -8,7 +8,7 @@ nav_exclude: false
 
 총 4건
 
-- [The AWS MCP Server now supports cross-account and cross-role access](../../news/2026/06/2026-06-17_the-aws-mcp-server-now-supports-cross-account-and-cross-role-access.md) `2026-06-17` [new-region] [performance] [security] [ai-ml]
-- [AWS Lambda Managed Instances expands to additional AWS Regions](../../news/2026/06/2026-06-17_aws-lambda-managed-instances-expands-to-additional-aws-regions.md) `2026-06-17` [GA] [price-reduction] [new-region] [performance]
-- [Amazon CloudWatch Application Signals now supports infrastructure, logs, and traces context for faster troubleshooting](../../news/2026/06/2026-06-17_amazon-cloudwatch-application-signals-now-supports-infrastructure-logs-and-trace.md) `2026-06-17` [new-region] [performance]
-- [AWS Lambda Managed Instances now supports Tag Propagation for Managed Resources](../../news/2026/06/2026-06-17_aws-lambda-managed-instances-now-supports-tag-propagation-for-managed-resources.md) `2026-06-17` [GA] [price-reduction] [new-region] [security]
+- [Amazon CloudWatch Application Signals now supports infrastructure, logs, and traces context for faster troubleshooting](../../news/2026/06/2026-06-18_amazon-cloudwatch-application-signals-now-supports-infrastructure-logs-and-trace.md) `2026-06-18` [new-region] [performance]
+- [AWS Lambda Managed Instances now supports Tag Propagation for Managed Resources](../../news/2026/06/2026-06-18_aws-lambda-managed-instances-now-supports-tag-propagation-for-managed-resources.md) `2026-06-18` [GA] [price-reduction] [new-region] [security]
+- [AWS launches a new continuous modernization capability in AWS Transform that provides autonomous tech debt analysis and remediation at scale](../../news/2026/06/2026-06-18_aws-launches-a-new-continuous-modernization-capability-in-aws-transform-that-pro.md) `2026-06-18` [GA] [preview] [new-region] [security] [ai-ml]
+- [Amazon Bedrock AgentCore introduces new optimization capabilities to continuously improve agents in production](../../news/2026/06/2026-06-18_amazon-bedrock-agentcore-introduces-new-optimization-capabilities-to-continuousl.md) `2026-06-18` [GA] [preview] [new-region]
