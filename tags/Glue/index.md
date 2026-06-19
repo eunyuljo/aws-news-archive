@@ -8,5 +8,5 @@ nav_exclude: false
 
 총 2건
 
-- [Amazon Quick announces autonomous agents, multi-dataset analytics, and redesigned activity feed](../../news/2026/06/2026-06-18_amazon-quick-announces-autonomous-agents-multi-dataset-analytics-and-redesigned-.md) `2026-06-18` [GA] [security] [ai-ml]
-- [AWS Glue Interactive Sessions now support Spark Connect for interactive workloads](../../news/2026/06/2026-06-18_aws-glue-interactive-sessions-now-support-spark-connect-for-interactive-workload.md) `2026-06-18`
+- [Amazon Quick announces autonomous agents, multi-dataset analytics, and redesigned activity feed](../../news/2026/06/2026-06-19_amazon-quick-announces-autonomous-agents-multi-dataset-analytics-and-redesigned-.md) `2026-06-19` [GA] [security] [ai-ml]
+- [AWS Glue Interactive Sessions now support Spark Connect for interactive workloads](../../news/2026/06/2026-06-19_aws-glue-interactive-sessions-now-support-spark-connect-for-interactive-workload.md) `2026-06-19`

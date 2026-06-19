@@ -5,11 +5,11 @@ parent: Services
 
 # OpenSearch — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-06-18
+총 **1건** | 최근 업데이트: 2026-06-19
 
 ---
 
 
 ## 2026
 
-- [Amazon OpenSearch Service launches MCP Apps for agentic observability](../../news/2026/06/2026-06-18_amazon-opensearch-service-launches-mcp-apps-for-agentic-observability.md) `2026-06-18`
+- [Amazon OpenSearch Service launches MCP Apps for agentic observability](../../news/2026/06/2026-06-19_amazon-opensearch-service-launches-mcp-apps-for-agentic-observability.md) `2026-06-19`
