@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Secrets Manager introduces safe secrets handling in the Agent Toolkit for AWS](../../news/2026/06/2026-06-19_aws-secrets-manager-introduces-safe-secrets-handling-in-the-agent-toolkit-for-aw.md) `2026-06-19` [new-region] [ai-ml]
+- [AWS Secrets Manager introduces safe secrets handling in the Agent Toolkit for AWS](../../news/2026/06/2026-06-20_aws-secrets-manager-introduces-safe-secrets-handling-in-the-agent-toolkit-for-aw.md) `2026-06-20` [new-region] [ai-ml]

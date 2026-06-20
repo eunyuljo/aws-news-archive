@@ -6,18 +6,18 @@ has_children: true
 
 # AWS 서비스별 뉴스 인덱스
 
-최근 업데이트: 2026-06-19
+최근 업데이트: 2026-06-20
 
 ---
 
 | 서비스 | 뉴스 수 |
 |--------|---------|
 | [RDS](./RDS/index.md) | 20 |
-| [EC2](./EC2/index.md) | 14 |
+| [EC2](./EC2/index.md) | 13 |
 | [S3](./S3/index.md) | 11 |
-| [Bedrock](./Bedrock/index.md) | 6 |
-| [CloudWatch](./CloudWatch/index.md) | 6 |
-| [General](./General/index.md) | 6 |
+| [CloudWatch](./CloudWatch/index.md) | 7 |
+| [General](./General/index.md) | 7 |
+| [Bedrock](./Bedrock/index.md) | 5 |
 | [Config](./Config/index.md) | 5 |
 | [Lambda](./Lambda/index.md) | 5 |
 | [EBS](./EBS/index.md) | 3 |
