@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Introducing AWS Continuum for security at machine speed](../../news/2026/06/2026-06-21_introducing-aws-continuum-for-security-at-machine-speed.md) `2026-06-21` [GA] [preview] [price-reduction] [new-region] [performance] [security]
+- [Introducing AWS Continuum for security at machine speed](../../news/2026/06/2026-06-22_introducing-aws-continuum-for-security-at-machine-speed.md) `2026-06-22` [GA] [preview] [price-reduction] [new-region] [performance] [security]

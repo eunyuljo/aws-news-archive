@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon OpenSearch Service launches MCP Apps for agentic observability](../../news/2026/06/2026-06-21_amazon-opensearch-service-launches-mcp-apps-for-agentic-observability.md) `2026-06-21` [GA] [new-region] [performance] [ai-ml]
+- [Amazon OpenSearch Service launches MCP Apps for agentic observability](../../news/2026/06/2026-06-22_amazon-opensearch-service-launches-mcp-apps-for-agentic-observability.md) `2026-06-22` [GA] [new-region] [performance] [ai-ml]
