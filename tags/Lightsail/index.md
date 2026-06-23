@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Lightsail is now available in three additional AWS Regions](../../news/2026/06/2026-06-22_amazon-lightsail-is-now-available-in-three-additional-aws-regions.md) `2026-06-22` [GA] [new-region] [performance]
+- [Amazon Lightsail is now available in three additional AWS Regions](../../news/2026/06/2026-06-23_amazon-lightsail-is-now-available-in-three-additional-aws-regions.md) `2026-06-23` [GA] [new-region] [performance]

@@ -6,6 +6,7 @@ nav_exclude: false
 
 # 태그: VPC
 
-총 1건
+총 2건
 
-- [Amazon MQ for RabbitMQ now supports private networking connectivity](../../news/2026/06/2026-06-22_amazon-mq-for-rabbitmq-now-supports-private-networking-connectivity.md) `2026-06-22` [new-region] [security]
+- [Amazon MQ for RabbitMQ now supports private networking connectivity](../../news/2026/06/2026-06-23_amazon-mq-for-rabbitmq-now-supports-private-networking-connectivity.md) `2026-06-23` [new-region] [security]
+- [AWS Network Firewall updates default drop action for improved connection reliability](../../news/2026/06/2026-06-23_aws-network-firewall-updates-default-drop-action-for-improved-connection-reliabi.md) `2026-06-23` [new-region]

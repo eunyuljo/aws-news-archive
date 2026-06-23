@@ -6,8 +6,7 @@ nav_exclude: false
 
 # 태그: ECS
 
-총 3건
+총 2건
 
-- [Amazon ECS Managed Daemons now support inter-task visibility and communication](../../news/2026/06/2026-06-22_amazon-ecs-managed-daemons-now-support-inter-task-visibility-and-communication.md) `2026-06-22` [GA] [price-reduction] [new-region] [security]
-- [Amazon ECS Express Mode is now available in AWS GovCloud (US) Regions](../../news/2026/06/2026-06-22_amazon-ecs-express-mode-is-now-available-in-aws-govcloud-us-regions.md) `2026-06-22` [GA] [new-region]
-- [AWS Security Agent announces support for Threat Modeling](../../news/2026/06/2026-06-22_aws-security-agent-announces-support-for-threat-modeling.md) `2026-06-22` [preview] [price-reduction] [new-region] [security] [ai-ml]
+- [Amazon ECS Express Mode is now available in AWS GovCloud (US) Regions](../../news/2026/06/2026-06-23_amazon-ecs-express-mode-is-now-available-in-aws-govcloud-us-regions.md) `2026-06-23` [GA] [new-region]
+- [AWS Security Agent announces support for Threat Modeling](../../news/2026/06/2026-06-23_aws-security-agent-announces-support-for-threat-modeling.md) `2026-06-23` [preview] [price-reduction] [new-region] [security] [ai-ml]

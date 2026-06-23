@@ -5,11 +5,11 @@ parent: Services
 
 # SystemsManager — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-06-22
+총 **1건** | 최근 업데이트: 2026-06-23
 
 ---
 
 
 ## 2026
 
-- [AWS Transform for mainframe now delivers a traceable reimagine workflow](../../news/2026/06/2026-06-22_aws-transform-for-mainframe-now-delivers-a-traceable-reimagine-workflow.md) `2026-06-22`
+- [AWS Transform for mainframe now delivers a traceable reimagine workflow](../../news/2026/06/2026-06-23_aws-transform-for-mainframe-now-delivers-a-traceable-reimagine-workflow.md) `2026-06-23`

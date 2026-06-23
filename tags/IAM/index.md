@@ -6,6 +6,7 @@ nav_exclude: false
 
 # 태그: IAM
 
-총 1건
+총 2건
 
-- [AWS Management Console Private Access now works without internet connectivity](../../news/2026/06/2026-06-22_aws-management-console-private-access-now-works-without-internet-connectivity.md) `2026-06-22` [GA] [new-region] [security]
+- [AWS Management Console Private Access now works without internet connectivity](../../news/2026/06/2026-06-23_aws-management-console-private-access-now-works-without-internet-connectivity.md) `2026-06-23` [GA] [new-region] [security]
+- [AWS IAM Identity Center now supports separate quotas for AWS accounts and applications](../../news/2026/06/2026-06-23_aws-iam-identity-center-now-supports-separate-quotas-for-aws-accounts-and-applic.md) `2026-06-23` [new-region] [security]

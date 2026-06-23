@@ -8,5 +8,5 @@ nav_exclude: false
 
 총 2건
 
-- [AWS announces Amazon Connect Customer Services Competency](../../news/2026/06/2026-06-22_aws-announces-amazon-connect-customer-services-competency.md) `2026-06-22` [ai-ml]
-- [AWS Security Agent adds Kiro Power, Claude Code, simulated validations and new integrations support](../../news/2026/06/2026-06-22_aws-security-agent-adds-kiro-power-claude-code-simulated-validations-and-new-int.md) `2026-06-22` [new-region] [security]
+- [AWS announces Amazon Connect Customer Services Competency](../../news/2026/06/2026-06-23_aws-announces-amazon-connect-customer-services-competency.md) `2026-06-23` [ai-ml]
+- [AWS Security Agent adds Kiro Power, Claude Code, simulated validations and new integrations support](../../news/2026/06/2026-06-23_aws-security-agent-adds-kiro-power-claude-code-simulated-validations-and-new-int.md) `2026-06-23` [new-region] [security]
