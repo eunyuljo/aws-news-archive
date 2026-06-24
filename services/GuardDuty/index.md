@@ -5,11 +5,11 @@ parent: Services
 
 # GuardDuty — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-06-23
+총 **1건** | 최근 업데이트: 2026-06-24
 
 ---
 
 
 ## 2026
 
-- [Introducing AWS Continuum for security at machine speed](../../news/2026/06/2026-06-23_introducing-aws-continuum-for-security-at-machine-speed.md) `2026-06-23`
+- [Introducing AWS Continuum for security at machine speed](../../news/2026/06/2026-06-24_introducing-aws-continuum-for-security-at-machine-speed.md) `2026-06-24`
