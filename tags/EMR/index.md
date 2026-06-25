@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Run Interactive Workloads on Amazon EMR Serverless with Spark Connect](../../news/2026/06/2026-06-18_run-interactive-workloads-on-amazon-emr-serverless-with-spark-connect.md) `2026-06-18` [price-reduction] [new-region]
+- [Amazon EMR Serverless now supports live configuration updates without application restarts](../../news/2026/06/2026-06-25_amazon-emr-serverless-now-supports-live-configuration-updates-without-applicatio.md) `2026-06-25` [new-region]

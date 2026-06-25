@@ -8,8 +8,8 @@ nav_exclude: false
 
 총 5건
 
-- [AWS Lambda Managed Instances now supports Tag Propagation for Managed Resources](../../news/2026/06/2026-06-24_aws-lambda-managed-instances-now-supports-tag-propagation-for-managed-resources.md) `2026-06-24` [GA] [price-reduction] [new-region] [security]
-- [AWS launches a new continuous modernization capability in AWS Transform that provides autonomous tech debt analysis and remediation at scale](../../news/2026/06/2026-06-24_aws-launches-a-new-continuous-modernization-capability-in-aws-transform-that-pro.md) `2026-06-24` [GA] [preview] [new-region] [security] [ai-ml]
-- [Amazon Bedrock AgentCore introduces new optimization capabilities to continuously improve agents in production](../../news/2026/06/2026-06-24_amazon-bedrock-agentcore-introduces-new-optimization-capabilities-to-continuousl.md) `2026-06-24` [GA] [preview] [new-region]
-- [Amazon SNS now supports sending SMS in the Asia Pacific (Seoul) Region](../../news/2026/06/2026-06-24_amazon-sns-now-supports-sending-sms-in-the-asia-pacific-seoul-region.md) `2026-06-24` [GA] [new-region]
-- [AWS introduces Lambda MicroVMs for isolated execution of user and AI-generated code](../../news/2026/06/2026-06-24_aws-introduces-lambda-microvms-for-isolated-execution-of-user-and-ai-generated-c.md) `2026-06-24` [GA] [new-region] [performance] [security] [ai-ml]
+- [AWS Lambda Managed Instances now supports Tag Propagation for Managed Resources](../../news/2026/06/2026-06-25_aws-lambda-managed-instances-now-supports-tag-propagation-for-managed-resources.md) `2026-06-25` [GA] [price-reduction] [new-region] [security]
+- [AWS launches a new continuous modernization capability in AWS Transform that provides autonomous tech debt analysis and remediation at scale](../../news/2026/06/2026-06-25_aws-launches-a-new-continuous-modernization-capability-in-aws-transform-that-pro.md) `2026-06-25` [GA] [preview] [new-region] [security] [ai-ml]
+- [Amazon Bedrock AgentCore introduces new optimization capabilities to continuously improve agents in production](../../news/2026/06/2026-06-25_amazon-bedrock-agentcore-introduces-new-optimization-capabilities-to-continuousl.md) `2026-06-25` [GA] [preview] [new-region]
+- [Amazon SNS now supports sending SMS in the Asia Pacific (Seoul) Region](../../news/2026/06/2026-06-25_amazon-sns-now-supports-sending-sms-in-the-asia-pacific-seoul-region.md) `2026-06-25` [GA] [new-region]
+- [AWS introduces Lambda MicroVMs for isolated execution of user and AI-generated code](../../news/2026/06/2026-06-25_aws-introduces-lambda-microvms-for-isolated-execution-of-user-and-ai-generated-c.md) `2026-06-25` [GA] [new-region] [performance] [security] [ai-ml]
