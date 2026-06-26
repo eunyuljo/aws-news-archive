@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Redshift reduces manual snapshot cost for Serverless and RG instances](../../news/2026/06/2026-06-17_amazon-redshift-reduces-manual-snapshot-cost-for-serverless-and-rg-instances.md) `2026-06-17` [price-reduction] [new-region]
+- [Amazon Redshift adds Reserved Instance upfront pricing options for RG instances](../../news/2026/06/2026-06-26_amazon-redshift-adds-reserved-instance-upfront-pricing-options-for-rg-instances.md) `2026-06-26` [GA] [price-reduction] [new-region] [ai-ml]
