@@ -8,5 +8,5 @@ nav_exclude: false
 
 총 2건
 
-- [Amazon MQ for RabbitMQ now supports private networking connectivity](../../news/2026/06/2026-06-26_amazon-mq-for-rabbitmq-now-supports-private-networking-connectivity.md) `2026-06-26` [new-region] [security]
-- [AWS Network Firewall updates default drop action for improved connection reliability](../../news/2026/06/2026-06-26_aws-network-firewall-updates-default-drop-action-for-improved-connection-reliabi.md) `2026-06-26` [new-region]
+- [Amazon MQ for RabbitMQ now supports private networking connectivity](../../news/2026/06/2026-06-27_amazon-mq-for-rabbitmq-now-supports-private-networking-connectivity.md) `2026-06-27` [new-region] [security]
+- [AWS Network Firewall updates default drop action for improved connection reliability](../../news/2026/06/2026-06-27_aws-network-firewall-updates-default-drop-action-for-improved-connection-reliabi.md) `2026-06-27` [new-region]

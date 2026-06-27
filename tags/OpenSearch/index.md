@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon OpenSearch Ingestion now available in AWS Europe (Paris) Region](../../news/2026/06/2026-06-26_amazon-opensearch-ingestion-now-available-in-aws-europe-paris-region.md) `2026-06-26` [GA] [new-region]
+- [Amazon OpenSearch Ingestion now available in AWS Europe (Paris) Region](../../news/2026/06/2026-06-27_amazon-opensearch-ingestion-now-available-in-aws-europe-paris-region.md) `2026-06-27` [GA] [new-region]
