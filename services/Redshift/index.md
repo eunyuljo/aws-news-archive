@@ -5,11 +5,11 @@ parent: Services
 
 # Redshift — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-06-27
+총 **1건** | 최근 업데이트: 2026-06-28
 
 ---
 
 
 ## 2026
 
-- [Amazon Redshift adds Reserved Instance upfront pricing options for RG instances](../../news/2026/06/2026-06-27_amazon-redshift-adds-reserved-instance-upfront-pricing-options-for-rg-instances.md) `2026-06-27`
+- [Amazon Redshift adds Reserved Instance upfront pricing options for RG instances](../../news/2026/06/2026-06-28_amazon-redshift-adds-reserved-instance-upfront-pricing-options-for-rg-instances.md) `2026-06-28`

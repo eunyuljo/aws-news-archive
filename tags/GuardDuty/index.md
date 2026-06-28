@@ -8,5 +8,5 @@ nav_exclude: false
 
 총 2건
 
-- [Introducing AWS Continuum for security at machine speed](../../news/2026/06/2026-06-27_introducing-aws-continuum-for-security-at-machine-speed.md) `2026-06-27` [GA] [preview] [price-reduction] [new-region] [performance] [security]
-- [Amazon GuardDuty AI-powered investigations accelerate threat response (Preview)](../../news/2026/06/2026-06-27_amazon-guardduty-ai-powered-investigations-accelerate-threat-response-preview.md) `2026-06-27` [preview] [new-region] [security]
+- [Introducing AWS Continuum for security at machine speed](../../news/2026/06/2026-06-28_introducing-aws-continuum-for-security-at-machine-speed.md) `2026-06-28` [GA] [preview] [price-reduction] [new-region] [performance] [security]
+- [Amazon GuardDuty AI-powered investigations accelerate threat response (Preview)](../../news/2026/06/2026-06-28_amazon-guardduty-ai-powered-investigations-accelerate-threat-response-preview.md) `2026-06-28` [preview] [new-region] [security]

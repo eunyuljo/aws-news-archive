@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Transform for mainframe now delivers a traceable reimagine workflow](../../news/2026/06/2026-06-27_aws-transform-for-mainframe-now-delivers-a-traceable-reimagine-workflow.md) `2026-06-27` [GA] [new-region]
+- [AWS Transform for mainframe now delivers a traceable reimagine workflow](../../news/2026/06/2026-06-28_aws-transform-for-mainframe-now-delivers-a-traceable-reimagine-workflow.md) `2026-06-28` [GA] [new-region]

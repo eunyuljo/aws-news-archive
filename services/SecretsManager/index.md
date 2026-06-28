@@ -5,11 +5,11 @@ parent: Services
 
 # SecretsManager — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-06-27
+총 **1건** | 최근 업데이트: 2026-06-28
 
 ---
 
 
 ## 2026
 
-- [AWS Secrets Manager introduces safe secrets handling in the Agent Toolkit for AWS](../../news/2026/06/2026-06-27_aws-secrets-manager-introduces-safe-secrets-handling-in-the-agent-toolkit-for-aw.md) `2026-06-27`
+- [AWS Secrets Manager introduces safe secrets handling in the Agent Toolkit for AWS](../../news/2026/06/2026-06-28_aws-secrets-manager-introduces-safe-secrets-handling-in-the-agent-toolkit-for-aw.md) `2026-06-28`
