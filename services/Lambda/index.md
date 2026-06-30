@@ -5,13 +5,13 @@ parent: Services
 
 # Lambda — AWS 뉴스
 
-총 **3건** | 최근 업데이트: 2026-06-29
+총 **3건** | 최근 업데이트: 2026-06-30
 
 ---
 
 
 ## 2026
 
-- [Amazon Bedrock AgentCore introduces new optimization capabilities to continuously improve agents in production](../../news/2026/06/2026-06-29_amazon-bedrock-agentcore-introduces-new-optimization-capabilities-to-continuousl.md) `2026-06-29`
-- [Amazon SNS now supports sending SMS in the Asia Pacific (Seoul) Region](../../news/2026/06/2026-06-29_amazon-sns-now-supports-sending-sms-in-the-asia-pacific-seoul-region.md) `2026-06-29`
-- [AWS introduces Lambda MicroVMs for isolated execution of user and AI-generated code](../../news/2026/06/2026-06-29_aws-introduces-lambda-microvms-for-isolated-execution-of-user-and-ai-generated-c.md) `2026-06-29`
+- [Amazon Bedrock AgentCore introduces new optimization capabilities to continuously improve agents in production](../../news/2026/06/2026-06-30_amazon-bedrock-agentcore-introduces-new-optimization-capabilities-to-continuousl.md) `2026-06-30`
+- [Amazon SNS now supports sending SMS in the Asia Pacific (Seoul) Region](../../news/2026/06/2026-06-30_amazon-sns-now-supports-sending-sms-in-the-asia-pacific-seoul-region.md) `2026-06-30`
+- [AWS introduces Lambda MicroVMs for isolated execution of user and AI-generated code](../../news/2026/06/2026-06-30_aws-introduces-lambda-microvms-for-isolated-execution-of-user-and-ai-generated-c.md) `2026-06-30`

@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon EMR Serverless now supports live configuration updates without application restarts](../../news/2026/06/2026-06-29_amazon-emr-serverless-now-supports-live-configuration-updates-without-applicatio.md) `2026-06-29` [new-region]
+- [Amazon EMR Serverless now supports live configuration updates without application restarts](../../news/2026/06/2026-06-30_amazon-emr-serverless-now-supports-live-configuration-updates-without-applicatio.md) `2026-06-30` [new-region]
