@@ -5,11 +5,11 @@ parent: Services
 
 # KMS — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-06-30
+총 **1건** | 최근 업데이트: 2026-07-01
 
 ---
 
 
 ## 2026
 
-- [Amazon Cognito now supports customer managed key for encryption at rest](../../news/2026/06/2026-06-30_amazon-cognito-now-supports-customer-managed-key-for-encryption-at-rest.md) `2026-06-30`
+- [Amazon Cognito now supports customer managed key for encryption at rest](../../news/2026/07/2026-07-01_amazon-cognito-now-supports-customer-managed-key-for-encryption-at-rest.md) `2026-07-01`

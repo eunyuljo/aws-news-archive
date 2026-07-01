@@ -5,11 +5,11 @@ parent: Services
 
 # CloudFront — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-06-24
+총 **1건** | 최근 업데이트: 2026-07-01
 
 ---
 
 
 ## 2026
 
-- [AWS WAF announces AI traffic monetization](../../news/2026/06/2026-06-24_aws-waf-announces-ai-traffic-monetization.md) `2026-06-24`
+- [AWS CloudFormation and CDK express mode speeds up infrastructure deployments by up to 4x](../../news/2026/07/2026-07-01_aws-cloudformation-and-cdk-express-mode-speeds-up-infrastructure-deployments-by-.md) `2026-07-01`

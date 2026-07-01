@@ -6,8 +6,7 @@ nav_exclude: false
 
 # 태그: Connect
 
-총 3건
+총 2건
 
-- [AWS Security Agent adds Kiro Power, Claude Code, simulated validations and new integrations support](../../news/2026/06/2026-06-30_aws-security-agent-adds-kiro-power-claude-code-simulated-validations-and-new-int.md) `2026-06-30` [new-region] [security]
-- [Claude Tag is now available in beta via Claude Enterprise in AWS Marketplace](../../news/2026/06/2026-06-30_claude-tag-is-now-available-in-beta-via-claude-enterprise-in-aws-marketplace.md) `2026-06-30` [GA] [security]
-- [AWS IoT Device SDK for Swift is now generally available](../../news/2026/06/2026-06-30_aws-iot-device-sdk-for-swift-is-now-generally-available.md) `2026-06-30` [GA] [security]
+- [Claude Tag is now available in beta via Claude Enterprise in AWS Marketplace](../../news/2026/07/2026-07-01_claude-tag-is-now-available-in-beta-via-claude-enterprise-in-aws-marketplace.md) `2026-07-01` [GA] [security]
+- [AWS IoT Device SDK for Swift is now generally available](../../news/2026/07/2026-07-01_aws-iot-device-sdk-for-swift-is-now-generally-available.md) `2026-07-01` [GA] [security]

@@ -6,6 +6,7 @@ nav_exclude: false
 
 # 태그: ElastiCache
 
-총 1건
+총 2건
 
-- [Amazon ElastiCache now supports Valkey 9.1](../../news/2026/06/2026-06-30_amazon-elasticache-now-supports-valkey-91.md) `2026-06-30` [GA] [performance]
+- [Amazon ElastiCache now supports Valkey 9.1](../../news/2026/07/2026-07-01_amazon-elasticache-now-supports-valkey-91.md) `2026-07-01` [GA] [performance]
+- [Amazon ElastiCache T4g nodes now available in additional AWS Regions](../../news/2026/07/2026-07-01_amazon-elasticache-t4g-nodes-now-available-in-additional-aws-regions.md) `2026-07-01` [GA] [new-region] [performance]

@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS WAF announces AI traffic monetization](../../news/2026/06/2026-06-24_aws-waf-announces-ai-traffic-monetization.md) `2026-06-24` [price-reduction] [ai-ml]
+- [AWS CloudFormation and CDK express mode speeds up infrastructure deployments by up to 4x](../../news/2026/07/2026-07-01_aws-cloudformation-and-cdk-express-mode-speeds-up-infrastructure-deployments-by-.md) `2026-07-01` [new-region] [performance] [ai-ml]

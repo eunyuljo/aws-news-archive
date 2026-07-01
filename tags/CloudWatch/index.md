@@ -8,8 +8,8 @@ nav_exclude: false
 
 총 5건
 
-- [Amazon CloudWatch introduces native OpenTelemetry metrics with PromQL querying and per-GB pricing](../../news/2026/06/2026-06-30_amazon-cloudwatch-introduces-native-opentelemetry-metrics-with-promql-querying-a.md) `2026-06-30` [new-region]
-- [AWS Transform now supports model-to-model migration assessment for generative AI workloads](../../news/2026/06/2026-06-30_aws-transform-now-supports-model-to-model-migration-assessment-for-generative-ai.md) `2026-06-30` [price-reduction] [new-region] [security] [ai-ml]
-- [Amazon SageMaker AI Announces New observability capability For Inference Endpoints](../../news/2026/06/2026-06-30_amazon-sagemaker-ai-announces-new-observability-capability-for-inference-endpoin.md) `2026-06-30` [new-region] [performance] [security] [ai-ml]
-- [Amazon CloudWatch Synthetics now supports multilocation canaries](../../news/2026/06/2026-06-30_amazon-cloudwatch-synthetics-now-supports-multilocation-canaries.md) `2026-06-30` [new-region] [performance]
-- [Amazon CloudWatch Logs supports managed syslog ingestion](../../news/2026/06/2026-06-30_amazon-cloudwatch-logs-supports-managed-syslog-ingestion.md) `2026-06-30` [GA] [new-region] [security]
+- [Amazon SageMaker AI Announces New observability capability For Inference Endpoints](../../news/2026/07/2026-07-01_amazon-sagemaker-ai-announces-new-observability-capability-for-inference-endpoin.md) `2026-07-01` [new-region] [performance] [security] [ai-ml]
+- [Amazon CloudWatch Synthetics now supports multilocation canaries](../../news/2026/07/2026-07-01_amazon-cloudwatch-synthetics-now-supports-multilocation-canaries.md) `2026-07-01` [new-region] [performance]
+- [Amazon CloudWatch Logs supports managed syslog ingestion](../../news/2026/07/2026-07-01_amazon-cloudwatch-logs-supports-managed-syslog-ingestion.md) `2026-07-01` [GA] [new-region] [security]
+- [Amazon CloudWatch pipelines now supports processing and enriching OpenTelemetry metrics](../../news/2026/07/2026-07-01_amazon-cloudwatch-pipelines-now-supports-processing-and-enriching-opentelemetry-.md) `2026-07-01` [price-reduction] [new-region]
+- [Amazon CloudWatch Logs enriches log events with AWS resource tags](../../news/2026/07/2026-07-01_amazon-cloudwatch-logs-enriches-log-events-with-aws-resource-tags.md) `2026-07-01` [price-reduction] [new-region]
