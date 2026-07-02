@@ -6,6 +6,9 @@ nav_exclude: false
 
 # 태그: ECS
 
-총 1건
+총 4건
 
-- [AWS Security Agent announces support for Threat Modeling](../../news/2026/06/2026-06-30_aws-security-agent-announces-support-for-threat-modeling.md) `2026-06-30` [preview] [price-reduction] [new-region] [security] [ai-ml]
+- [Amazon ECS Express Mode now supports custom task definitions](../../news/2026/07/2026-07-02_amazon-ecs-express-mode-now-supports-custom-task-definitions.md) `2026-07-02` [new-region] [security]
+- [Amazon ECS now supports configurable deployment circuit breaker settings](../../news/2026/07/2026-07-02_amazon-ecs-now-supports-configurable-deployment-circuit-breaker-settings.md) `2026-07-02` [GA] [new-region] [performance]
+- [Amazon ECS now provides real-time deployment observability in the AWS Management Console](../../news/2026/07/2026-07-02_amazon-ecs-now-provides-real-time-deployment-observability-in-the-aws-management.md) `2026-07-02` [GA] [new-region] [performance]
+- [ECS Service Connect now supports Zone-Aware routing](../../news/2026/07/2026-07-02_ecs-service-connect-now-supports-zone-aware-routing.md) `2026-07-02` [GA] [price-reduction] [new-region] [performance]

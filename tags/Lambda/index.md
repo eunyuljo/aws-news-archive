@@ -6,8 +6,7 @@ nav_exclude: false
 
 # 태그: Lambda
 
-총 3건
+총 2건
 
-- [Amazon Bedrock AgentCore introduces new optimization capabilities to continuously improve agents in production](../../news/2026/07/2026-07-01_amazon-bedrock-agentcore-introduces-new-optimization-capabilities-to-continuousl.md) `2026-07-01` [GA] [preview] [new-region]
-- [Amazon SNS now supports sending SMS in the Asia Pacific (Seoul) Region](../../news/2026/07/2026-07-01_amazon-sns-now-supports-sending-sms-in-the-asia-pacific-seoul-region.md) `2026-07-01` [GA] [new-region]
-- [AWS introduces Lambda MicroVMs for isolated execution of user and AI-generated code](../../news/2026/07/2026-07-01_aws-introduces-lambda-microvms-for-isolated-execution-of-user-and-ai-generated-c.md) `2026-07-01` [GA] [new-region] [performance] [security] [ai-ml]
+- [AWS introduces Lambda MicroVMs for isolated execution of user and AI-generated code](../../news/2026/07/2026-07-02_aws-introduces-lambda-microvms-for-isolated-execution-of-user-and-ai-generated-c.md) `2026-07-02` [GA] [new-region] [performance] [security] [ai-ml]
+- [AWS AppConfig launches managed experimentation tools for A/B testing](../../news/2026/07/2026-07-02_aws-appconfig-launches-managed-experimentation-tools-for-ab-testing.md) `2026-07-02` [GA] [ai-ml]
