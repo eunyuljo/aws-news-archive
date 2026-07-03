@@ -6,8 +6,9 @@ nav_exclude: false
 
 # 태그: Connect
 
-총 3건
+총 4건
 
-- [Claude Tag is now available in beta via Claude Enterprise in AWS Marketplace](../../news/2026/07/2026-07-02_claude-tag-is-now-available-in-beta-via-claude-enterprise-in-aws-marketplace.md) `2026-07-02` [GA] [security]
-- [AWS IoT Device SDK for Swift is now generally available](../../news/2026/07/2026-07-02_aws-iot-device-sdk-for-swift-is-now-generally-available.md) `2026-07-02` [GA] [security]
-- [AWS Partner Central now supports AWS Marketplace listings for co-selling](../../news/2026/07/2026-07-02_aws-partner-central-now-supports-aws-marketplace-listings-for-co-selling.md) `2026-07-02` [GA] [ai-ml]
+- [Claude Tag is now available in beta via Claude Enterprise in AWS Marketplace](../../news/2026/07/2026-07-03_claude-tag-is-now-available-in-beta-via-claude-enterprise-in-aws-marketplace.md) `2026-07-03` [GA] [security]
+- [AWS IoT Device SDK for Swift is now generally available](../../news/2026/07/2026-07-03_aws-iot-device-sdk-for-swift-is-now-generally-available.md) `2026-07-03` [GA] [security]
+- [Amazon Connect Customer now supports rule based redaction for agent screen recording](../../news/2026/07/2026-07-03_amazon-connect-customer-now-supports-rule-based-redaction-for-agent-screen-recor.md) `2026-07-03` [new-region] [security]
+- [AWS Partner Central now supports AWS Marketplace listings for co-selling](../../news/2026/07/2026-07-03_aws-partner-central-now-supports-aws-marketplace-listings-for-co-selling.md) `2026-07-03` [GA] [ai-ml]

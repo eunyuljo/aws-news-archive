@@ -5,12 +5,12 @@ parent: Services
 
 # OpenSearch — AWS 뉴스
 
-총 **2건** | 최근 업데이트: 2026-07-02
+총 **2건** | 최근 업데이트: 2026-07-03
 
 ---
 
 
 ## 2026
 
-- [Amazon OpenSearch Ingestion now available in AWS Europe (Paris) Region](../../news/2026/07/2026-07-02_amazon-opensearch-ingestion-now-available-in-aws-europe-paris-region.md) `2026-07-02`
-- [Amazon OpenSearch Service optimized for log analytics](../../news/2026/07/2026-07-02_amazon-opensearch-service-optimized-for-log-analytics.md) `2026-07-02`
+- [Amazon OpenSearch Ingestion now available in AWS Europe (Paris) Region](../../news/2026/07/2026-07-03_amazon-opensearch-ingestion-now-available-in-aws-europe-paris-region.md) `2026-07-03`
+- [Amazon OpenSearch Service optimized for log analytics](../../news/2026/07/2026-07-03_amazon-opensearch-service-optimized-for-log-analytics.md) `2026-07-03`
