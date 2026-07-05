@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Redshift adds Reserved Instance upfront pricing options for RG instances](../../news/2026/07/2026-07-04_amazon-redshift-adds-reserved-instance-upfront-pricing-options-for-rg-instances.md) `2026-07-04` [GA] [price-reduction] [new-region] [ai-ml]
+- [Amazon Redshift adds Reserved Instance upfront pricing options for RG instances](../../news/2026/07/2026-07-05_amazon-redshift-adds-reserved-instance-upfront-pricing-options-for-rg-instances.md) `2026-07-05` [GA] [price-reduction] [new-region] [ai-ml]

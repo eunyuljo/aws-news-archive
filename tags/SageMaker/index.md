@@ -8,7 +8,7 @@ nav_exclude: false
 
 총 4건
 
-- [Amazon MWAA Serverless now supports shared VPC configurations](../../news/2026/07/2026-07-04_amazon-mwaa-serverless-now-supports-shared-vpc-configurations.md) `2026-07-04` [GA] [new-region]
-- [AWS Service Availability Updates](../../news/2026/07/2026-07-04_aws-service-availability-updates.md) `2026-07-04` [GA] [ai-ml]
-- [Amazon SageMaker AI now supports serverless model customization for Gemma 4 models](../../news/2026/07/2026-07-04_amazon-sagemaker-ai-now-supports-serverless-model-customization-for-gemma-4-mode.md) `2026-07-04` [GA] [performance] [ai-ml]
-- [Amazon SageMaker AI cuts generative AI inference scale-out time by up to half with automatic container image caching](../../news/2026/07/2026-07-04_amazon-sagemaker-ai-cuts-generative-ai-inference-scale-out-time-by-up-to-half-wi.md) `2026-07-04` [GA] [new-region] [performance] [ai-ml]
+- [Amazon MWAA Serverless now supports shared VPC configurations](../../news/2026/07/2026-07-05_amazon-mwaa-serverless-now-supports-shared-vpc-configurations.md) `2026-07-05` [GA] [new-region]
+- [AWS Service Availability Updates](../../news/2026/07/2026-07-05_aws-service-availability-updates.md) `2026-07-05` [GA] [ai-ml]
+- [Amazon SageMaker AI now supports serverless model customization for Gemma 4 models](../../news/2026/07/2026-07-05_amazon-sagemaker-ai-now-supports-serverless-model-customization-for-gemma-4-mode.md) `2026-07-05` [GA] [performance] [ai-ml]
+- [Amazon SageMaker AI cuts generative AI inference scale-out time by up to half with automatic container image caching](../../news/2026/07/2026-07-05_amazon-sagemaker-ai-cuts-generative-ai-inference-scale-out-time-by-up-to-half-wi.md) `2026-07-05` [GA] [new-region] [performance] [ai-ml]
