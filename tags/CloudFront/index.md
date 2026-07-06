@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS CloudFormation and CDK express mode speeds up infrastructure deployments by up to 4x](../../news/2026/07/2026-07-05_aws-cloudformation-and-cdk-express-mode-speeds-up-infrastructure-deployments-by-.md) `2026-07-05` [new-region] [performance] [ai-ml]
+- [AWS CloudFormation and CDK express mode speeds up infrastructure deployments by up to 4x](../../news/2026/07/2026-07-06_aws-cloudformation-and-cdk-express-mode-speeds-up-infrastructure-deployments-by-.md) `2026-07-06` [new-region] [performance] [ai-ml]
