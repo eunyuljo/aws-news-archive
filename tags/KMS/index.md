@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Cognito now supports customer managed key for encryption at rest](../../news/2026/07/2026-07-06_amazon-cognito-now-supports-customer-managed-key-for-encryption-at-rest.md) `2026-07-06` [price-reduction] [security]
+- [Amazon Cognito now supports customer managed key for encryption at rest](../../news/2026/07/2026-07-07_amazon-cognito-now-supports-customer-managed-key-for-encryption-at-rest.md) `2026-07-07` [price-reduction] [security]

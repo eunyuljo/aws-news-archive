@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Secrets Manager introduces safe secrets handling in the Agent Toolkit for AWS](../../news/2026/06/2026-06-30_aws-secrets-manager-introduces-safe-secrets-handling-in-the-agent-toolkit-for-aw.md) `2026-06-30` [new-region] [ai-ml]
+- [AWS Secrets Manager adds managed external secrets support for Paddle and GitLab](../../news/2026/07/2026-07-07_aws-secrets-manager-adds-managed-external-secrets-support-for-paddle-and-gitlab.md) `2026-07-07` [GA] [new-region]

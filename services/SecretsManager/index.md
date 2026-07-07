@@ -5,11 +5,11 @@ parent: Services
 
 # SecretsManager — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-06-30
+총 **1건** | 최근 업데이트: 2026-07-07
 
 ---
 
 
 ## 2026
 
-- [AWS Secrets Manager introduces safe secrets handling in the Agent Toolkit for AWS](../../news/2026/06/2026-06-30_aws-secrets-manager-introduces-safe-secrets-handling-in-the-agent-toolkit-for-aw.md) `2026-06-30`
+- [AWS Secrets Manager adds managed external secrets support for Paddle and GitLab](../../news/2026/07/2026-07-07_aws-secrets-manager-adds-managed-external-secrets-support-for-paddle-and-gitlab.md) `2026-07-07`
