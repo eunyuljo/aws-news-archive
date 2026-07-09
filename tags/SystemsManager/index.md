@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon GameLift Streams introduces secure terminal access for stream sessions](../../news/2026/07/2026-07-08_amazon-gamelift-streams-introduces-secure-terminal-access-for-stream-sessions.md) `2026-07-08` [price-reduction] [new-region]
+- [Amazon GameLift Streams introduces secure terminal access for stream sessions](../../news/2026/07/2026-07-09_amazon-gamelift-streams-introduces-secure-terminal-access-for-stream-sessions.md) `2026-07-09` [price-reduction] [new-region]
