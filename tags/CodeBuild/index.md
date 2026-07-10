@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS CodeBuild now supports Amazon Linux 2023 for on-demand build hosts](../../news/2026/07/2026-07-09_aws-codebuild-now-supports-amazon-linux-2023-for-on-demand-build-hosts.md) `2026-07-09` [GA] [new-region]
+- [AWS CodeBuild now supports Amazon Linux 2023 for on-demand build hosts](../../news/2026/07/2026-07-10_aws-codebuild-now-supports-amazon-linux-2023-for-on-demand-build-hosts.md) `2026-07-10` [GA] [new-region]

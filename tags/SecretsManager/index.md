@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Secrets Manager adds managed external secrets support for Paddle and GitLab](../../news/2026/07/2026-07-09_aws-secrets-manager-adds-managed-external-secrets-support-for-paddle-and-gitlab.md) `2026-07-09` [GA] [new-region]
+- [AWS Secrets Manager adds managed external secrets support for Paddle and GitLab](../../news/2026/07/2026-07-10_aws-secrets-manager-adds-managed-external-secrets-support-for-paddle-and-gitlab.md) `2026-07-10` [GA] [new-region]
