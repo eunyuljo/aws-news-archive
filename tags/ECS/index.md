@@ -8,6 +8,6 @@ nav_exclude: false
 
 총 3건
 
-- [Amazon ECS Express Mode now supports custom task definitions](../../news/2026/07/2026-07-11_amazon-ecs-express-mode-now-supports-custom-task-definitions.md) `2026-07-11` [new-region] [security]
-- [Amazon ECS now supports configurable deployment circuit breaker settings](../../news/2026/07/2026-07-11_amazon-ecs-now-supports-configurable-deployment-circuit-breaker-settings.md) `2026-07-11` [GA] [new-region] [performance]
-- [Amazon ECS now provides real-time deployment observability in the AWS Management Console](../../news/2026/07/2026-07-11_amazon-ecs-now-provides-real-time-deployment-observability-in-the-aws-management.md) `2026-07-11` [GA] [new-region] [performance]
+- [Amazon ECS Express Mode now supports custom task definitions](../../news/2026/07/2026-07-12_amazon-ecs-express-mode-now-supports-custom-task-definitions.md) `2026-07-12` [new-region] [security]
+- [Amazon ECS now supports configurable deployment circuit breaker settings](../../news/2026/07/2026-07-12_amazon-ecs-now-supports-configurable-deployment-circuit-breaker-settings.md) `2026-07-12` [GA] [new-region] [performance]
+- [Amazon ECS now provides real-time deployment observability in the AWS Management Console](../../news/2026/07/2026-07-12_amazon-ecs-now-provides-real-time-deployment-observability-in-the-aws-management.md) `2026-07-12` [GA] [new-region] [performance]

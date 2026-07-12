@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon GameLift Servers announces DDoS Protection client SDKs for C# and Unity](../../news/2026/07/2026-07-11_amazon-gamelift-servers-announces-ddos-protection-client-sdks-for-c-and-unity.md) `2026-07-11` [price-reduction] [performance]
+- [Amazon GameLift Servers announces DDoS Protection client SDKs for C# and Unity](../../news/2026/07/2026-07-12_amazon-gamelift-servers-announces-ddos-protection-client-sdks-for-c-and-unity.md) `2026-07-12` [price-reduction] [performance]
