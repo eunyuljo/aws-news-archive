@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon ElastiCache T4g nodes now available in additional AWS Regions](../../news/2026/07/2026-07-13_amazon-elasticache-t4g-nodes-now-available-in-additional-aws-regions.md) `2026-07-13` [GA] [new-region] [performance]
+- [Amazon ElastiCache T4g nodes now available in additional AWS Regions](../../news/2026/07/2026-07-14_amazon-elasticache-t4g-nodes-now-available-in-additional-aws-regions.md) `2026-07-14` [GA] [new-region] [performance]

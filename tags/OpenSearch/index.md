@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon OpenSearch Service optimized for log analytics](../../news/2026/07/2026-07-13_amazon-opensearch-service-optimized-for-log-analytics.md) `2026-07-13` [price-reduction] [new-region] [performance] [security] [ai-ml]
+- [Amazon OpenSearch Service optimized for log analytics](../../news/2026/07/2026-07-14_amazon-opensearch-service-optimized-for-log-analytics.md) `2026-07-14` [price-reduction] [new-region] [performance] [security] [ai-ml]
