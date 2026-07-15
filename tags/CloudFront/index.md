@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS CloudFormation and CDK express mode speeds up infrastructure deployments by up to 4x](../../news/2026/07/2026-07-14_aws-cloudformation-and-cdk-express-mode-speeds-up-infrastructure-deployments-by-.md) `2026-07-14` [new-region] [performance] [ai-ml]
+- [Amazon CloudFront Functions now supports logging to CloudFront access logs](../../news/2026/07/2026-07-15_amazon-cloudfront-functions-now-supports-logging-to-cloudfront-access-logs.md) `2026-07-15` [GA]

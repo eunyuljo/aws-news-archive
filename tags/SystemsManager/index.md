@@ -8,5 +8,5 @@ nav_exclude: false
 
 총 2건
 
-- [Amazon GameLift Streams introduces secure terminal access for stream sessions](../../news/2026/07/2026-07-14_amazon-gamelift-streams-introduces-secure-terminal-access-for-stream-sessions.md) `2026-07-14` [price-reduction] [new-region]
-- [AWS DMS Schema Conversion now supports AI agent automation](../../news/2026/07/2026-07-14_aws-dms-schema-conversion-now-supports-ai-agent-automation.md) `2026-07-14` [GA] [new-region] [ai-ml]
+- [Amazon GameLift Streams introduces secure terminal access for stream sessions](../../news/2026/07/2026-07-15_amazon-gamelift-streams-introduces-secure-terminal-access-for-stream-sessions.md) `2026-07-15` [price-reduction] [new-region]
+- [AWS DMS Schema Conversion now supports AI agent automation](../../news/2026/07/2026-07-15_aws-dms-schema-conversion-now-supports-ai-agent-automation.md) `2026-07-15` [GA] [new-region] [ai-ml]

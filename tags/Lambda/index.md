@@ -6,9 +6,10 @@ nav_exclude: false
 
 # 태그: Lambda
 
-총 4건
+총 5건
 
-- [AWS AppConfig launches managed experimentation tools for A/B testing](../../news/2026/07/2026-07-14_aws-appconfig-launches-managed-experimentation-tools-for-ab-testing.md) `2026-07-14` [GA] [ai-ml]
-- [Amazon Aurora DSQL change data capture (CDC) Is now generally available](../../news/2026/07/2026-07-14_amazon-aurora-dsql-change-data-capture-cdc-is-now-generally-available.md) `2026-07-14` [GA] [new-region] [performance]
-- [AWS Config now supports 191 additional managed rules](../../news/2026/07/2026-07-14_aws-config-now-supports-191-additional-managed-rules.md) `2026-07-14` [GA] [new-region] [security] [ai-ml]
-- [Amazon Timestream for InfluxDB now publishes database state change events to Amazon EventBridge](../../news/2026/07/2026-07-14_amazon-timestream-for-influxdb-now-publishes-database-state-change-events-to-ama.md) `2026-07-14` [new-region] [security]
+- [AWS AppConfig launches managed experimentation tools for A/B testing](../../news/2026/07/2026-07-15_aws-appconfig-launches-managed-experimentation-tools-for-ab-testing.md) `2026-07-15` [GA] [ai-ml]
+- [Amazon Aurora DSQL change data capture (CDC) Is now generally available](../../news/2026/07/2026-07-15_amazon-aurora-dsql-change-data-capture-cdc-is-now-generally-available.md) `2026-07-15` [GA] [new-region] [performance]
+- [AWS Config now supports 191 additional managed rules](../../news/2026/07/2026-07-15_aws-config-now-supports-191-additional-managed-rules.md) `2026-07-15` [GA] [new-region] [security] [ai-ml]
+- [Amazon Timestream for InfluxDB now publishes database state change events to Amazon EventBridge](../../news/2026/07/2026-07-15_amazon-timestream-for-influxdb-now-publishes-database-state-change-events-to-ama.md) `2026-07-15` [new-region] [security]
+- [AWS Lambda console provides a one-click setup prompt for coding agents](../../news/2026/07/2026-07-15_aws-lambda-console-provides-a-one-click-setup-prompt-for-coding-agents.md) `2026-07-15` [new-region]
