@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon OpenSearch Service optimized for log analytics](../../news/2026/07/2026-07-15_amazon-opensearch-service-optimized-for-log-analytics.md) `2026-07-15` [price-reduction] [new-region] [performance] [security] [ai-ml]
+- [Amazon OpenSearch Service now supports the Agent Toolkit for AWS with a curated skill](../../news/2026/07/2026-07-16_amazon-opensearch-service-now-supports-the-agent-toolkit-for-aws-with-a-curated-.md) `2026-07-16` [new-region] [ai-ml]
