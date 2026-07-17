@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Security Agent now available in Asia Pacific (Mumbai), Asia Pacific (Singapore), and South America (São Paulo)](../../news/2026/07/2026-07-15_aws-security-agent-now-available-in-asia-pacific-mumbai-asia-pacific-singapore-a.md) `2026-07-15` [GA] [preview] [new-region] [security]
+- [PostgreSQL 19 Beta 2 is now available in Amazon RDS Database Preview Environment](../../news/2026/07/2026-07-17_postgresql-19-beta-2-is-now-available-in-amazon-rds-database-preview-environment.md) `2026-07-17` [GA] [preview] [price-reduction] [new-region]

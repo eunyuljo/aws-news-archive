@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon EMR Serverless now supports larger worker sizes to run more compute and memory intensive workloads](../../news/2026/07/2026-07-16_amazon-emr-serverless-now-supports-larger-worker-sizes-to-run-more-compute-and-m.md) `2026-07-16` [price-reduction] [new-region] [performance]
+- [Amazon EMR Serverless now supports larger worker sizes to run more compute and memory intensive workloads](../../news/2026/07/2026-07-17_amazon-emr-serverless-now-supports-larger-worker-sizes-to-run-more-compute-and-m.md) `2026-07-17` [price-reduction] [new-region] [performance]

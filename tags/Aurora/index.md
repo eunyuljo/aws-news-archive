@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Aurora DSQL is now available in Europe (Spain)](../../news/2026/07/2026-07-16_amazon-aurora-dsql-is-now-available-in-europe-spain.md) `2026-07-16` [GA] [new-region]
+- [Amazon Aurora DSQL is now available in Europe (Spain)](../../news/2026/07/2026-07-17_amazon-aurora-dsql-is-now-available-in-europe-spain.md) `2026-07-17` [GA] [new-region]
