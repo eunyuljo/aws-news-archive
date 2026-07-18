@@ -1,0 +1,26 @@
+---
+title: "Amazon GameLift Streams now supports IAM role credentials for stream sessions"
+date: "2026-07-18"
+service: "S3"
+link: "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-gamelift-streams-iam/"
+tags: ["S3", "2026", "GA", "new-region", "security"]
+nav_exclude: true
+---
+
+# Amazon GameLift Streams now supports IAM role credentials for stream sessions
+
+**날짜:** 2026년 07월 18일
+**서비스:** S3
+**링크:** https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-gamelift-streams-iam/
+
+## 내용
+
+Amazon GameLift Streams now supports assigning an IAM role to a stream session, enabling your application to securely access resources in your AWS account, such as Amazon S3 buckets and DynamoDB tables. With this launch, you can pass a RoleArn parameter when starting a stream session, and your application automatically receives short-lived, auto-refreshing AWS credentials through the standard AWS SDK credential resolution chain — no application code changes required. 
+Previously, customers who needed their streamed applications to access AWS services had to embed long-lived access keys in application bundles or pass them as environment variables, creating security and operational challenges. Now, Amazon GameLift Streams handles credential vending and automatic refresh using the same container credential provider mechanism trusted by Amazon ECS task roles and Amazon EKS Pod Identity. Role misconfigurations are validated at session start, surfacing clear errors immediately rather than during runtime. 
+You can also configure IAM roles directly in the Amazon GameLift Streams console, which provides a pre-filled trust policy template to simplify role setup. 
+IAM role support for stream sessions is available in all AWS Regions where Amazon GameLift Streams is available. 
+To learn more, see Session Credentials Setup in the Amazon GameLift Streams Developer Guide:&nbsp;https://docs.aws.amazon.com/gameliftstreams/latest/developerguide/session-credentials-setup.html&nbsp;
+
+## 핵심 요약
+
+요약 미지원
