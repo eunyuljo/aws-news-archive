@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon CloudFront Functions now supports logging to CloudFront access logs](../../news/2026/07/2026-07-18_amazon-cloudfront-functions-now-supports-logging-to-cloudfront-access-logs.md) `2026-07-18` [GA]
+- [Amazon CloudFront Functions now supports logging to CloudFront access logs](../../news/2026/07/2026-07-19_amazon-cloudfront-functions-now-supports-logging-to-cloudfront-access-logs.md) `2026-07-19` [GA]
