@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Partner Central introduces Partner Lead Prospecting](../../news/2026/07/2026-07-19_aws-partner-central-introduces-partner-lead-prospecting.md) `2026-07-19` [GA] [performance]
+- [AWS Partner Central introduces Partner Lead Prospecting](../../news/2026/07/2026-07-20_aws-partner-central-introduces-partner-lead-prospecting.md) `2026-07-20` [GA] [performance]

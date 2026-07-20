@@ -5,11 +5,11 @@ parent: Services
 
 # CloudFront — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-07-19
+총 **1건** | 최근 업데이트: 2026-07-20
 
 ---
 
 
 ## 2026
 
-- [Amazon CloudFront Functions now supports logging to CloudFront access logs](../../news/2026/07/2026-07-19_amazon-cloudfront-functions-now-supports-logging-to-cloudfront-access-logs.md) `2026-07-19`
+- [Amazon CloudFront Functions now supports logging to CloudFront access logs](../../news/2026/07/2026-07-20_amazon-cloudfront-functions-now-supports-logging-to-cloudfront-access-logs.md) `2026-07-20`
