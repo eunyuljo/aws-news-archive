@@ -5,11 +5,11 @@ parent: Services
 
 # Personalize — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-07-20
+총 **1건** | 최근 업데이트: 2026-07-21
 
 ---
 
 
 ## 2026
 
-- [AWS Partner Central introduces Partner Lead Prospecting](../../news/2026/07/2026-07-20_aws-partner-central-introduces-partner-lead-prospecting.md) `2026-07-20`
+- [AWS Partner Central introduces Partner Lead Prospecting](../../news/2026/07/2026-07-21_aws-partner-central-introduces-partner-lead-prospecting.md) `2026-07-21`

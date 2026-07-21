@@ -6,7 +6,9 @@ nav_exclude: false
 
 # 태그: CloudWatch
 
-총 2건
+총 4건
 
-- [Amazon CloudWatch Logs announces intelligent tiering for storage](../../news/2026/07/2026-07-20_amazon-cloudwatch-logs-announces-intelligent-tiering-for-storage.md) `2026-07-20` [GA] [price-reduction] [new-region]
-- [Amazon CloudWatch Logs Insights adds 25 new query commands and functions](../../news/2026/07/2026-07-20_amazon-cloudwatch-logs-insights-adds-25-new-query-commands-and-functions.md) `2026-07-20` [GA] [new-region] [ai-ml]
+- [Amazon CloudWatch Logs announces intelligent tiering for storage](../../news/2026/07/2026-07-21_amazon-cloudwatch-logs-announces-intelligent-tiering-for-storage.md) `2026-07-21` [GA] [price-reduction] [new-region]
+- [Amazon CloudWatch Logs Insights adds 25 new query commands and functions](../../news/2026/07/2026-07-21_amazon-cloudwatch-logs-insights-adds-25-new-query-commands-and-functions.md) `2026-07-21` [GA] [new-region] [ai-ml]
+- [Amazon CloudWatch Synthetics now supports customer managed encryption keys](../../news/2026/07/2026-07-21_amazon-cloudwatch-synthetics-now-supports-customer-managed-encryption-keys.md) `2026-07-21` [new-region] [security]
+- [Amazon CloudWatch announces coding agent insights](../../news/2026/07/2026-07-21_amazon-cloudwatch-announces-coding-agent-insights.md) `2026-07-21` [GA] [price-reduction] [new-region] [performance] [ai-ml]
