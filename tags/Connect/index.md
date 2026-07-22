@@ -6,8 +6,7 @@ nav_exclude: false
 
 # 태그: Connect
 
-총 3건
+총 2건
 
-- [Amazon Connect Customer now supports forecasting, planning, and scheduling for Tasks and Emails](../../news/2026/07/2026-07-21_amazon-connect-customer-now-supports-forecasting-planning-and-scheduling-for-tas.md) `2026-07-21` [new-region]
-- [AWS Client VPN extends availability to four additional AWS Regions](../../news/2026/07/2026-07-21_aws-client-vpn-extends-availability-to-four-additional-aws-regions.md) `2026-07-21` [GA] [new-region]
-- [AWS Partner Central subsidiary connections now support qualification sharing](../../news/2026/07/2026-07-21_aws-partner-central-subsidiary-connections-now-support-qualification-sharing.md) `2026-07-21` [new-region] [ai-ml]
+- [AWS Client VPN extends availability to four additional AWS Regions](../../news/2026/07/2026-07-22_aws-client-vpn-extends-availability-to-four-additional-aws-regions.md) `2026-07-22` [GA] [new-region]
+- [AWS Partner Central subsidiary connections now support qualification sharing](../../news/2026/07/2026-07-22_aws-partner-central-subsidiary-connections-now-support-qualification-sharing.md) `2026-07-22` [new-region] [ai-ml]
