@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [OpenAI GPT-5.6 Sol, Terra, and Luna now generally available on Amazon Bedrock](../../news/2026/07/2026-07-22_openai-gpt-56-sol-terra-and-luna-now-generally-available-on-amazon-bedrock.md) `2026-07-22` [GA] [price-reduction] [new-region] [performance] [security] [ai-ml]
+- [OpenAI GPT-5.6 Sol, Terra, and Luna now generally available on Amazon Bedrock](../../news/2026/07/2026-07-23_openai-gpt-56-sol-terra-and-luna-now-generally-available-on-amazon-bedrock.md) `2026-07-23` [GA] [price-reduction] [new-region] [performance] [security] [ai-ml]

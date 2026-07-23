@@ -6,7 +6,7 @@ has_children: true
 
 # AWS 서비스별 뉴스 인덱스
 
-최근 업데이트: 2026-07-22
+최근 업데이트: 2026-07-23
 
 ---
 
@@ -14,14 +14,14 @@ has_children: true
 |--------|---------|
 | [EC2](./EC2/index.md) | 21 |
 | [RDS](./RDS/index.md) | 14 |
+| [General](./General/index.md) | 11 |
 | [S3](./S3/index.md) | 11 |
-| [General](./General/index.md) | 10 |
-| [SageMaker](./SageMaker/index.md) | 7 |
-| [Config](./Config/index.md) | 6 |
-| [Lambda](./Lambda/index.md) | 6 |
+| [Config](./Config/index.md) | 7 |
+| [Lambda](./Lambda/index.md) | 7 |
+| [SageMaker](./SageMaker/index.md) | 6 |
 | [CloudWatch](./CloudWatch/index.md) | 4 |
-| [IAM](./IAM/index.md) | 4 |
 | [SystemsManager](./SystemsManager/index.md) | 4 |
+| [IAM](./IAM/index.md) | 3 |
 | [Connect](./Connect/index.md) | 2 |
 | [EKS](./EKS/index.md) | 2 |
 | [Aurora](./Aurora/index.md) | 1 |
@@ -31,5 +31,4 @@ has_children: true
 | [DocumentDB](./DocumentDB/index.md) | 1 |
 | [EBS](./EBS/index.md) | 1 |
 | [OpenSearch](./OpenSearch/index.md) | 1 |
-| [Personalize](./Personalize/index.md) | 1 |
 | [Redshift](./Redshift/index.md) | 1 |

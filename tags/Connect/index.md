@@ -8,5 +8,5 @@ nav_exclude: false
 
 총 2건
 
-- [AWS Client VPN extends availability to four additional AWS Regions](../../news/2026/07/2026-07-22_aws-client-vpn-extends-availability-to-four-additional-aws-regions.md) `2026-07-22` [GA] [new-region]
-- [AWS Partner Central subsidiary connections now support qualification sharing](../../news/2026/07/2026-07-22_aws-partner-central-subsidiary-connections-now-support-qualification-sharing.md) `2026-07-22` [new-region] [ai-ml]
+- [AWS Direct Connect announces 100G expansion in Lima, Peru](../../news/2026/07/2026-07-23_aws-direct-connect-announces-100g-expansion-in-lima-peru.md) `2026-07-23` [new-region] [security]
+- [AWS Network Load Balancer now supports Listener Rules for custom traffic routing](../../news/2026/07/2026-07-23_aws-network-load-balancer-now-supports-listener-rules-for-custom-traffic-routing.md) `2026-07-23` [new-region]

@@ -10,21 +10,21 @@ has_children: true
 |------|------|
 | [2026](./2026/index.md) | 100 |
 | [new-region](./new-region/index.md) | 86 |
-| [GA](./GA/index.md) | 55 |
-| [performance](./performance/index.md) | 44 |
-| [ai-ml](./ai-ml/index.md) | 27 |
-| [price-reduction](./price-reduction/index.md) | 26 |
-| [security](./security/index.md) | 24 |
+| [GA](./GA/index.md) | 57 |
+| [performance](./performance/index.md) | 41 |
+| [price-reduction](./price-reduction/index.md) | 29 |
+| [security](./security/index.md) | 25 |
+| [ai-ml](./ai-ml/index.md) | 23 |
 | [EC2](./EC2/index.md) | 21 |
 | [RDS](./RDS/index.md) | 14 |
+| [General](./General/index.md) | 11 |
 | [S3](./S3/index.md) | 11 |
-| [General](./General/index.md) | 10 |
-| [SageMaker](./SageMaker/index.md) | 7 |
-| [Config](./Config/index.md) | 6 |
-| [Lambda](./Lambda/index.md) | 6 |
+| [Config](./Config/index.md) | 7 |
+| [Lambda](./Lambda/index.md) | 7 |
+| [SageMaker](./SageMaker/index.md) | 6 |
 | [CloudWatch](./CloudWatch/index.md) | 4 |
-| [IAM](./IAM/index.md) | 4 |
 | [SystemsManager](./SystemsManager/index.md) | 4 |
+| [IAM](./IAM/index.md) | 3 |
 | [Connect](./Connect/index.md) | 2 |
 | [EKS](./EKS/index.md) | 2 |
 | [preview](./preview/index.md) | 2 |
@@ -35,5 +35,4 @@ has_children: true
 | [DocumentDB](./DocumentDB/index.md) | 1 |
 | [EBS](./EBS/index.md) | 1 |
 | [OpenSearch](./OpenSearch/index.md) | 1 |
-| [Personalize](./Personalize/index.md) | 1 |
 | [Redshift](./Redshift/index.md) | 1 |
