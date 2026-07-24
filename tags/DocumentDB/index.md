@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon DocumentDB (with MongoDB compatibility) adds support for 46 new MongoDB operators in version 8.0.1](../../news/2026/07/2026-07-23_amazon-documentdb-with-mongodb-compatibility-adds-support-for-46-new-mongodb-ope.md) `2026-07-23` [new-region]
+- [Amazon DocumentDB (with MongoDB compatibility) adds support for 46 new MongoDB operators in version 8.0.1](../../news/2026/07/2026-07-24_amazon-documentdb-with-mongodb-compatibility-adds-support-for-46-new-mongodb-ope.md) `2026-07-24` [new-region]
