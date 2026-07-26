@@ -8,5 +8,5 @@ nav_exclude: false
 
 총 2건
 
-- [Claude Sonnet 5 is now available on Amazon Bedrock in AWS GovCloud (US)](../../news/2026/07/2026-07-25_claude-sonnet-5-is-now-available-on-amazon-bedrock-in-aws-govcloud-us.md) `2026-07-25` [GA] [price-reduction] [new-region] [performance] [ai-ml]
-- [Claude Opus 5 is now available on AWS](../../news/2026/07/2026-07-25_claude-opus-5-is-now-available-on-aws.md) `2026-07-25` [GA] [new-region]
+- [Claude Sonnet 5 is now available on Amazon Bedrock in AWS GovCloud (US)](../../news/2026/07/2026-07-26_claude-sonnet-5-is-now-available-on-amazon-bedrock-in-aws-govcloud-us.md) `2026-07-26` [GA] [price-reduction] [new-region] [performance] [ai-ml]
+- [Claude Opus 5 is now available on AWS](../../news/2026/07/2026-07-26_claude-opus-5-is-now-available-on-aws.md) `2026-07-26` [GA] [new-region]

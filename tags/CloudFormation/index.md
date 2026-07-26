@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon MQ now supports configurable storage for RabbitMQ brokers](../../news/2026/07/2026-07-25_amazon-mq-now-supports-configurable-storage-for-rabbitmq-brokers.md) `2026-07-25` [new-region]
+- [Amazon MQ now supports configurable storage for RabbitMQ brokers](../../news/2026/07/2026-07-26_amazon-mq-now-supports-configurable-storage-for-rabbitmq-brokers.md) `2026-07-26` [new-region]

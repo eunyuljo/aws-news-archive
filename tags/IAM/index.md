@@ -8,5 +8,5 @@ nav_exclude: false
 
 총 2건
 
-- [AWS IAM Identity Center achieves FedRAMP Class C Certification](../../news/2026/07/2026-07-25_aws-iam-identity-center-achieves-fedramp-class-c-certification.md) `2026-07-25` [new-region] [security]
-- [Selectively log network activity events by identity in AWS CloudTrail](../../news/2026/07/2026-07-25_selectively-log-network-activity-events-by-identity-in-aws-cloudtrail.md) `2026-07-25` [GA] [price-reduction] [new-region] [security]
+- [AWS IAM Identity Center achieves FedRAMP Class C Certification](../../news/2026/07/2026-07-26_aws-iam-identity-center-achieves-fedramp-class-c-certification.md) `2026-07-26` [new-region] [security]
+- [Selectively log network activity events by identity in AWS CloudTrail](../../news/2026/07/2026-07-26_selectively-log-network-activity-events-by-identity-in-aws-cloudtrail.md) `2026-07-26` [GA] [price-reduction] [new-region] [security]

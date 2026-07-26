@@ -10,15 +10,15 @@ has_children: true
 |------|------|
 | [2026](./2026/index.md) | 100 |
 | [new-region](./new-region/index.md) | 90 |
-| [GA](./GA/index.md) | 56 |
-| [performance](./performance/index.md) | 43 |
-| [price-reduction](./price-reduction/index.md) | 35 |
+| [GA](./GA/index.md) | 57 |
+| [performance](./performance/index.md) | 44 |
+| [price-reduction](./price-reduction/index.md) | 34 |
 | [security](./security/index.md) | 26 |
-| [EC2](./EC2/index.md) | 24 |
-| [ai-ml](./ai-ml/index.md) | 20 |
+| [EC2](./EC2/index.md) | 23 |
+| [ai-ml](./ai-ml/index.md) | 19 |
 | [RDS](./RDS/index.md) | 14 |
 | [S3](./S3/index.md) | 12 |
-| [General](./General/index.md) | 10 |
+| [General](./General/index.md) | 11 |
 | [Lambda](./Lambda/index.md) | 9 |
 | [Config](./Config/index.md) | 8 |
 | [CloudWatch](./CloudWatch/index.md) | 5 |
