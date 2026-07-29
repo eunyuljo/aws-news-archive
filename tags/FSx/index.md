@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Transform now supports Amazon FSx for NetApp ONTAP (Public Preview)](../../news/2026/06/2026-06-29_aws-transform-now-supports-amazon-fsx-for-netapp-ontap-public-preview.md) `2026-06-29` [preview] [price-reduction] [performance] [ai-ml]
+- [AWS DataSync Enhanced mode now supports Amazon EFS and Amazon FSx for Lustre](../../news/2026/07/2026-07-29_aws-datasync-enhanced-mode-now-supports-amazon-efs-and-amazon-fsx-for-lustre.md) `2026-07-29` [new-region] [performance] [ai-ml]
