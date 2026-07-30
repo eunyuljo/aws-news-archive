@@ -5,13 +5,12 @@ parent: Services
 
 # SystemsManager — AWS 뉴스
 
-총 **3건** | 최근 업데이트: 2026-07-29
+총 **2건** | 최근 업데이트: 2026-07-30
 
 ---
 
 
 ## 2026
 
-- [Amazon Aurora DSQL is now in scope for FedRAMP Moderate](../../news/2026/07/2026-07-29_amazon-aurora-dsql-is-now-in-scope-for-fedramp-moderate.md) `2026-07-29`
-- [Amazon Managed Grafana achieves FedRAMP High authorization in AWS GovCloud (US)](../../news/2026/07/2026-07-29_amazon-managed-grafana-achieves-fedramp-high-authorization-in-aws-govcloud-us.md) `2026-07-29`
-- [Amazon SES introduces pricing plans](../../news/2026/07/2026-07-29_amazon-ses-introduces-pricing-plans.md) `2026-07-29`
+- [Amazon Managed Grafana achieves FedRAMP High authorization in AWS GovCloud (US)](../../news/2026/07/2026-07-30_amazon-managed-grafana-achieves-fedramp-high-authorization-in-aws-govcloud-us.md) `2026-07-30`
+- [Amazon SES introduces pricing plans](../../news/2026/07/2026-07-30_amazon-ses-introduces-pricing-plans.md) `2026-07-30`

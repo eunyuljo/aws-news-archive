@@ -6,7 +6,7 @@ has_children: true
 
 # AWS 서비스별 뉴스 인덱스
 
-최근 업데이트: 2026-07-29
+최근 업데이트: 2026-07-30
 
 ---
 
@@ -14,18 +14,18 @@ has_children: true
 |--------|---------|
 | [EC2](./EC2/index.md) | 21 |
 | [S3](./S3/index.md) | 13 |
-| [RDS](./RDS/index.md) | 12 |
 | [Config](./Config/index.md) | 10 |
+| [RDS](./RDS/index.md) | 10 |
 | [General](./General/index.md) | 9 |
 | [Lambda](./Lambda/index.md) | 7 |
-| [CloudWatch](./CloudWatch/index.md) | 5 |
-| [Connect](./Connect/index.md) | 3 |
-| [SystemsManager](./SystemsManager/index.md) | 3 |
+| [Connect](./Connect/index.md) | 5 |
+| [CloudWatch](./CloudWatch/index.md) | 3 |
+| [IAM](./IAM/index.md) | 3 |
+| [Redshift](./Redshift/index.md) | 3 |
 | [Bedrock](./Bedrock/index.md) | 2 |
 | [EKS](./EKS/index.md) | 2 |
-| [IAM](./IAM/index.md) | 2 |
-| [Redshift](./Redshift/index.md) | 2 |
 | [SageMaker](./SageMaker/index.md) | 2 |
+| [SystemsManager](./SystemsManager/index.md) | 2 |
 | [CloudFormation](./CloudFormation/index.md) | 1 |
 | [EBS](./EBS/index.md) | 1 |
 | [ECS](./ECS/index.md) | 1 |
@@ -33,3 +33,4 @@ has_children: true
 | [Forecast](./Forecast/index.md) | 1 |
 | [Glue](./Glue/index.md) | 1 |
 | [Kinesis](./Kinesis/index.md) | 1 |
+| [WAF](./WAF/index.md) | 1 |
