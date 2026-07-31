@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Network Firewall updates default drop action for improved connection reliability](../../news/2026/07/2026-07-07_aws-network-firewall-updates-default-drop-action-for-improved-connection-reliabi.md) `2026-07-07` [new-region]
+- [AWS announces general availability of Policy-Based Routing on AWS Transit Gateway](../../news/2026/07/2026-07-31_aws-announces-general-availability-of-policy-based-routing-on-aws-transit-gatewa.md) `2026-07-31` [new-region] [security]

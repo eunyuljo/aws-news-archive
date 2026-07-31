@@ -5,11 +5,11 @@ parent: Services
 
 # VPC — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-07-07
+총 **1건** | 최근 업데이트: 2026-07-31
 
 ---
 
 
 ## 2026
 
-- [AWS Network Firewall updates default drop action for improved connection reliability](../../news/2026/07/2026-07-07_aws-network-firewall-updates-default-drop-action-for-improved-connection-reliabi.md) `2026-07-07`
+- [AWS announces general availability of Policy-Based Routing on AWS Transit Gateway](../../news/2026/07/2026-07-31_aws-announces-general-availability-of-policy-based-routing-on-aws-transit-gatewa.md) `2026-07-31`
