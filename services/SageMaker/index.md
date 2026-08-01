@@ -5,12 +5,11 @@ parent: Services
 
 # SageMaker — AWS 뉴스
 
-총 **2건** | 최근 업데이트: 2026-07-31
+총 **1건** | 최근 업데이트: 2026-08-01
 
 ---
 
 
 ## 2026
 
-- [Amazon SageMaker Unified Studio adds custom visual transforms](../../news/2026/07/2026-07-31_amazon-sagemaker-unified-studio-adds-custom-visual-transforms.md) `2026-07-31`
-- [Amazon SageMaker AI inference now supports G7 instances](../../news/2026/07/2026-07-31_amazon-sagemaker-ai-inference-now-supports-g7-instances.md) `2026-07-31`
+- [Amazon SageMaker AI inference now supports G7 instances](../../news/2026/08/2026-08-01_amazon-sagemaker-ai-inference-now-supports-g7-instances.md) `2026-08-01`

@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon SES introduces pricing plans](../../news/2026/07/2026-07-31_amazon-ses-introduces-pricing-plans.md) `2026-07-31` [price-reduction] [new-region]
+- [Amazon SES introduces pricing plans](../../news/2026/08/2026-08-01_amazon-ses-introduces-pricing-plans.md) `2026-08-01` [price-reduction] [new-region]
