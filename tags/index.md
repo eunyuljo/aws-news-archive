@@ -11,7 +11,7 @@ has_children: true
 | [2026](./2026/index.md) | 100 |
 | [new-region](./new-region/index.md) | 88 |
 | [GA](./GA/index.md) | 48 |
-| [performance](./performance/index.md) | 48 |
+| [performance](./performance/index.md) | 47 |
 | [price-reduction](./price-reduction/index.md) | 36 |
 | [security](./security/index.md) | 28 |
 | [EC2](./EC2/index.md) | 20 |

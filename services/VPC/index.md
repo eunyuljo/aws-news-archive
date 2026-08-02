@@ -5,11 +5,11 @@ parent: Services
 
 # VPC — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-08-01
+총 **1건** | 최근 업데이트: 2026-08-02
 
 ---
 
 
 ## 2026
 
-- [AWS announces general availability of Policy-Based Routing on AWS Transit Gateway](../../news/2026/08/2026-08-01_aws-announces-general-availability-of-policy-based-routing-on-aws-transit-gatewa.md) `2026-08-01`
+- [AWS announces general availability of Policy-Based Routing on AWS Transit Gateway](../../news/2026/08/2026-08-02_aws-announces-general-availability-of-policy-based-routing-on-aws-transit-gatewa.md) `2026-08-02`

@@ -8,5 +8,5 @@ nav_exclude: false
 
 총 2건
 
-- [Amazon Redshift Serverless now offers All Upfront pricing for 3-year Serverless Reservations](../../news/2026/08/2026-08-01_amazon-redshift-serverless-now-offers-all-upfront-pricing-for-3-year-serverless-.md) `2026-08-01` [price-reduction] [new-region]
-- [Amazon Redshift Data API announces long polling, session management, and flexible batch execution](../../news/2026/08/2026-08-01_amazon-redshift-data-api-announces-long-polling-session-management-and-flexible-.md) `2026-08-01` [GA] [new-region]
+- [Amazon Redshift Serverless now offers All Upfront pricing for 3-year Serverless Reservations](../../news/2026/08/2026-08-02_amazon-redshift-serverless-now-offers-all-upfront-pricing-for-3-year-serverless-.md) `2026-08-02` [price-reduction] [new-region]
+- [Amazon Redshift Data API announces long polling, session management, and flexible batch execution](../../news/2026/08/2026-08-02_amazon-redshift-data-api-announces-long-polling-session-management-and-flexible-.md) `2026-08-02` [GA] [new-region]
