@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon EFS now supports cross-account Replication in AWS GovCloud (US)](../../news/2026/08/2026-08-02_amazon-efs-now-supports-cross-account-replication-in-aws-govcloud-us.md) `2026-08-02` [GA] [new-region] [security]
+- [Amazon EFS now supports cross-account Replication in AWS GovCloud (US)](../../news/2026/08/2026-08-03_amazon-efs-now-supports-cross-account-replication-in-aws-govcloud-us.md) `2026-08-03` [GA] [new-region] [security]

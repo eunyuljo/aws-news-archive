@@ -5,11 +5,11 @@ parent: Services
 
 # WAF — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-08-02
+총 **1건** | 최근 업데이트: 2026-08-03
 
 ---
 
 
 ## 2026
 
-- [AWS WAF adds pre-parse text transformations and new text transformations](../../news/2026/08/2026-08-02_aws-waf-adds-pre-parse-text-transformations-and-new-text-transformations.md) `2026-08-02`
+- [AWS WAF adds pre-parse text transformations and new text transformations](../../news/2026/08/2026-08-03_aws-waf-adds-pre-parse-text-transformations-and-new-text-transformations.md) `2026-08-03`

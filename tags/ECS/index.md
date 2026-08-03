@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon ECS Service Connect now supports Zone-Aware routing](../../news/2026/08/2026-08-02_amazon-ecs-service-connect-now-supports-zone-aware-routing.md) `2026-08-02` [GA] [price-reduction] [new-region] [performance]
+- [Amazon ECS Service Connect now supports Zone-Aware routing](../../news/2026/08/2026-08-03_amazon-ecs-service-connect-now-supports-zone-aware-routing.md) `2026-08-03` [GA] [price-reduction] [new-region] [performance]
