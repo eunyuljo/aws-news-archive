@@ -6,11 +6,9 @@ nav_exclude: false
 
 # 태그: General
 
-총 6건
+총 4건
 
-- [AWS HealthOmics now available in two additional AWS Regions](../../news/2026/08/2026-08-03_aws-healthomics-now-available-in-two-additional-aws-regions.md) `2026-08-03` [GA] [new-region] [security]
-- [AWS Partner Central agents expand funding guidance to all programs](../../news/2026/08/2026-08-03_aws-partner-central-agents-expand-funding-guidance-to-all-programs.md) `2026-08-03` [GA] [new-region]
-- [AWS Marketplace now supports self-service seller signature management for India-based sellers](../../news/2026/08/2026-08-03_aws-marketplace-now-supports-self-service-seller-signature-management-for-india-.md) `2026-08-03` [GA] [security]
-- [Amazon Managed Service for Prometheus supports 1.5B active metrics and 200K rules per workspace](../../news/2026/08/2026-08-03_amazon-managed-service-for-prometheus-supports-15b-active-metrics-and-200k-rules.md) `2026-08-03` [security]
-- [AWS announces aws-bench, an open-source benchmark for AI agents on AWS](../../news/2026/08/2026-08-03_aws-announces-aws-bench-an-open-source-benchmark-for-ai-agents-on-aws.md) `2026-08-03` [preview] [performance] [ai-ml]
-- [Amazon Location Service adds Search Nearby support for GrabMaps in Southeast Asia](../../news/2026/08/2026-08-03_amazon-location-service-adds-search-nearby-support-for-grabmaps-in-southeast-asi.md) `2026-08-03` [new-region]
+- [AWS announces aws-bench, an open-source benchmark for AI agents on AWS](../../news/2026/08/2026-08-04_aws-announces-aws-bench-an-open-source-benchmark-for-ai-agents-on-aws.md) `2026-08-04` [preview] [performance] [ai-ml]
+- [Amazon Location Service adds Search Nearby support for GrabMaps in Southeast Asia](../../news/2026/08/2026-08-04_amazon-location-service-adds-search-nearby-support-for-grabmaps-in-southeast-asi.md) `2026-08-04` [new-region]
+- [AWS Organizations now provides maximum account quota visibility in Service Quotas](../../news/2026/08/2026-08-04_aws-organizations-now-provides-maximum-account-quota-visibility-in-service-quota.md) `2026-08-04` [GA]
+- [Amazon GameLift Streams now supports sharing streams with stream URLs](../../news/2026/08/2026-08-04_amazon-gamelift-streams-now-supports-sharing-streams-with-stream-urls.md) `2026-08-04` [new-region]

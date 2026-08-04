@@ -5,11 +5,11 @@ parent: Services
 
 # Kinesis — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-08-03
+총 **1건** | 최근 업데이트: 2026-08-04
 
 ---
 
 
 ## 2026
 
-- [Amazon Kinesis Data Streams now supports scaling down ingest capacity with warm throughput](../../news/2026/08/2026-08-03_amazon-kinesis-data-streams-now-supports-scaling-down-ingest-capacity-with-warm-.md) `2026-08-03`
+- [Amazon Kinesis Data Streams now supports scaling down ingest capacity with warm throughput](../../news/2026/08/2026-08-04_amazon-kinesis-data-streams-now-supports-scaling-down-ingest-capacity-with-warm-.md) `2026-08-04`

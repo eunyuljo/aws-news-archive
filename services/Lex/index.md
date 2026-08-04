@@ -5,11 +5,11 @@ parent: Services
 
 # Lex — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-07-13
+총 **1건** | 최근 업데이트: 2026-08-04
 
 ---
 
 
 ## 2026
 
-- [Amazon GameLift Servers announces DDoS Protection client SDKs for C# and Unity](../../news/2026/07/2026-07-13_amazon-gamelift-servers-announces-ddos-protection-client-sdks-for-c-and-unity.md) `2026-07-13`
+- [Amazon ECR now supports image layers up to 200 GB](../../news/2026/08/2026-08-04_amazon-ecr-now-supports-image-layers-up-to-200-gb.md) `2026-08-04`

@@ -6,6 +6,7 @@ nav_exclude: false
 
 # 태그: Aurora
 
-총 1건
+총 2건
 
-- [Amazon Aurora DSQL adds multi-Region cluster support in four more Regions](../../news/2026/08/2026-08-03_amazon-aurora-dsql-adds-multi-region-cluster-support-in-four-more-regions.md) `2026-08-03` [GA] [new-region]
+- [Amazon Aurora DSQL adds multi-Region cluster support in four more Regions](../../news/2026/08/2026-08-04_amazon-aurora-dsql-adds-multi-region-cluster-support-in-four-more-regions.md) `2026-08-04` [GA] [new-region]
+- [AWS Transform for full-stack Windows modernization now supports offline schema transformation to Aurora PostgreSQL](../../news/2026/08/2026-08-04_aws-transform-for-full-stack-windows-modernization-now-supports-offline-schema-t.md) `2026-08-04`
