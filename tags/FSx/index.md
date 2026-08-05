@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS DataSync Enhanced mode now supports Amazon EFS and Amazon FSx for Lustre](../../news/2026/08/2026-08-04_aws-datasync-enhanced-mode-now-supports-amazon-efs-and-amazon-fsx-for-lustre.md) `2026-08-04` [new-region] [performance] [ai-ml]
+- [AWS DataSync Enhanced mode now supports Amazon EFS and Amazon FSx for Lustre](../../news/2026/08/2026-08-05_aws-datasync-enhanced-mode-now-supports-amazon-efs-and-amazon-fsx-for-lustre.md) `2026-08-05` [new-region] [performance] [ai-ml]

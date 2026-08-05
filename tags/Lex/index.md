@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon ECR now supports image layers up to 200 GB](../../news/2026/08/2026-08-04_amazon-ecr-now-supports-image-layers-up-to-200-gb.md) `2026-08-04` [new-region]
+- [Amazon ECR now supports image layers up to 200 GB](../../news/2026/08/2026-08-05_amazon-ecr-now-supports-image-layers-up-to-200-gb.md) `2026-08-05` [new-region]

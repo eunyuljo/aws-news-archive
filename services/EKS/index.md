@@ -5,12 +5,13 @@ parent: Services
 
 # EKS — AWS 뉴스
 
-총 **2건** | 최근 업데이트: 2026-08-04
+총 **3건** | 최근 업데이트: 2026-08-05
 
 ---
 
 
 ## 2026
 
-- [Amazon EKS now supports AWS PrivateLink for the cluster OIDC endpoint](../../news/2026/08/2026-08-04_amazon-eks-now-supports-aws-privatelink-for-the-cluster-oidc-endpoint.md) `2026-08-04`
-- [Amazon EKS Provisioned Control Plane now delivers faster pod autoscaling](../../news/2026/08/2026-08-04_amazon-eks-provisioned-control-plane-now-delivers-faster-pod-autoscaling.md) `2026-08-04`
+- [Amazon EKS now supports AWS PrivateLink for the cluster OIDC endpoint](../../news/2026/08/2026-08-05_amazon-eks-now-supports-aws-privatelink-for-the-cluster-oidc-endpoint.md) `2026-08-05`
+- [Amazon EKS Provisioned Control Plane now delivers faster pod autoscaling](../../news/2026/08/2026-08-05_amazon-eks-provisioned-control-plane-now-delivers-faster-pod-autoscaling.md) `2026-08-05`
+- [[Preview Announcement] Re-introducing Forward Proxy as AWS Network Firewall Functionality](../../news/2026/08/2026-08-05_preview-announcement-re-introducing-forward-proxy-as-aws-network-firewall-functi.md) `2026-08-05`

@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Kinesis Data Streams now supports scaling down ingest capacity with warm throughput](../../news/2026/08/2026-08-04_amazon-kinesis-data-streams-now-supports-scaling-down-ingest-capacity-with-warm-.md) `2026-08-04` [price-reduction] [new-region] [performance]
+- [Amazon Kinesis Data Streams now supports scaling down ingest capacity with warm throughput](../../news/2026/08/2026-08-05_amazon-kinesis-data-streams-now-supports-scaling-down-ingest-capacity-with-warm-.md) `2026-08-05` [price-reduction] [new-region] [performance]
