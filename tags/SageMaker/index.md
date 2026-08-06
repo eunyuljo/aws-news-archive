@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon SageMaker AI serverless model customization now supports full fine-tuning](../../news/2026/08/2026-08-05_amazon-sagemaker-ai-serverless-model-customization-now-supports-full-fine-tuning.md) `2026-08-05` [GA] [ai-ml]
+- [Amazon SageMaker AI serverless model customization now supports full fine-tuning](../../news/2026/08/2026-08-06_amazon-sagemaker-ai-serverless-model-customization-now-supports-full-fine-tuning.md) `2026-08-06` [GA] [ai-ml]

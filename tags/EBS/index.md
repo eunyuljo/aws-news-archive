@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Connect delivers more natural agentic voice experiences with expanded language support and speech controls](../../news/2026/08/2026-08-03_amazon-connect-delivers-more-natural-agentic-voice-experiences-with-expanded-lan.md) `2026-08-03` [GA] [new-region] [performance] [ai-ml]
+- [AWS Marketplace adds AI Insights so buyers can understand pricing before they buy](../../news/2026/08/2026-08-06_aws-marketplace-adds-ai-insights-so-buyers-can-understand-pricing-before-they-bu.md) `2026-08-06` [price-reduction] [new-region] [ai-ml]
