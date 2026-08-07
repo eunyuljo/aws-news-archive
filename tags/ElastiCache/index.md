@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon ElastiCache T4g nodes now available in additional AWS Regions](../../news/2026/07/2026-07-14_amazon-elasticache-t4g-nodes-now-available-in-additional-aws-regions.md) `2026-07-14` [GA] [new-region] [performance]
+- [Amazon ElastiCache now supports Graviton4-based M8g, R8g, and C8gn nodes](../../news/2026/08/2026-08-07_amazon-elasticache-now-supports-graviton4-based-m8g-r8g-and-c8gn-nodes.md) `2026-08-07` [price-reduction] [new-region] [performance] [ai-ml]
