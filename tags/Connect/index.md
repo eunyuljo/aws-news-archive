@@ -8,8 +8,8 @@ nav_exclude: false
 
 총 5건
 
-- [Second-generation AWS Outposts racks now supported in the AWS Asia Pacific (Mumbai) Region](../../news/2026/08/2026-08-07_second-generation-aws-outposts-racks-now-supported-in-the-aws-asia-pacific-mumba.md) `2026-08-07` [new-region] [performance]
-- [Amazon Connect Customer now automatically finds example agent evaluations for tailored coaching](../../news/2026/08/2026-08-07_amazon-connect-customer-now-automatically-finds-example-agent-evaluations-for-ta.md) `2026-08-07` [new-region] [performance] [ai-ml]
-- [AWS announces AWS Interconnect - multicloud connectivity with Oracle Cloud Infrastructure in GA](../../news/2026/08/2026-08-07_aws-announces-aws-interconnect-multicloud-connectivity-with-oracle-cloud-infrast.md) `2026-08-07` [GA] [preview] [new-region] [performance]
-- [Amazon Connect Customer now supports capacity planning in 15 or 30 minute intervals](../../news/2026/08/2026-08-07_amazon-connect-customer-now-supports-capacity-planning-in-15-or-30-minute-interv.md) `2026-08-07` [new-region]
-- [Amazon Connect Customer now lets you export cases to CSV from the agent workspace](../../news/2026/08/2026-08-07_amazon-connect-customer-now-lets-you-export-cases-to-csv-from-the-agent-workspac.md) `2026-08-07` [new-region] [security]
+- [Second-generation AWS Outposts racks now supported in the AWS Asia Pacific (Mumbai) Region](../../news/2026/08/2026-08-08_second-generation-aws-outposts-racks-now-supported-in-the-aws-asia-pacific-mumba.md) `2026-08-08` [new-region] [performance]
+- [Amazon Connect Customer now automatically finds example agent evaluations for tailored coaching](../../news/2026/08/2026-08-08_amazon-connect-customer-now-automatically-finds-example-agent-evaluations-for-ta.md) `2026-08-08` [new-region] [performance] [ai-ml]
+- [AWS announces AWS Interconnect - multicloud connectivity with Oracle Cloud Infrastructure in GA](../../news/2026/08/2026-08-08_aws-announces-aws-interconnect-multicloud-connectivity-with-oracle-cloud-infrast.md) `2026-08-08` [GA] [preview] [new-region] [performance]
+- [Amazon Connect Customer now supports capacity planning in 15 or 30 minute intervals](../../news/2026/08/2026-08-08_amazon-connect-customer-now-supports-capacity-planning-in-15-or-30-minute-interv.md) `2026-08-08` [new-region]
+- [Amazon Connect Customer now lets you export cases to CSV from the agent workspace](../../news/2026/08/2026-08-08_amazon-connect-customer-now-lets-you-export-cases-to-csv-from-the-agent-workspac.md) `2026-08-08` [new-region] [security]

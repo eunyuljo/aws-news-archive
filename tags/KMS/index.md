@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Cognito now supports customer managed key for encryption at rest](../../news/2026/07/2026-07-07_amazon-cognito-now-supports-customer-managed-key-for-encryption-at-rest.md) `2026-07-07` [price-reduction] [security]
+- [Amazon Timestream for InfluxDB now supports backup and restore](../../news/2026/08/2026-08-08_amazon-timestream-for-influxdb-now-supports-backup-and-restore.md) `2026-08-08` [new-region] [performance] [security]

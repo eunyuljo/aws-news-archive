@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Redshift Data API announces long polling, session management, and flexible batch execution](../../news/2026/08/2026-08-07_amazon-redshift-data-api-announces-long-polling-session-management-and-flexible-.md) `2026-08-07` [GA] [new-region]
+- [Amazon Redshift Data API announces long polling, session management, and flexible batch execution](../../news/2026/08/2026-08-08_amazon-redshift-data-api-announces-long-polling-session-management-and-flexible-.md) `2026-08-08` [GA] [new-region]

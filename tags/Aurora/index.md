@@ -8,5 +8,5 @@ nav_exclude: false
 
 총 2건
 
-- [Amazon Aurora DSQL adds multi-Region cluster support in four more Regions](../../news/2026/08/2026-08-07_amazon-aurora-dsql-adds-multi-region-cluster-support-in-four-more-regions.md) `2026-08-07` [GA] [new-region]
-- [AWS Transform for full-stack Windows modernization now supports offline schema transformation to Aurora PostgreSQL](../../news/2026/08/2026-08-07_aws-transform-for-full-stack-windows-modernization-now-supports-offline-schema-t.md) `2026-08-07`
+- [Amazon Aurora DSQL adds multi-Region cluster support in four more Regions](../../news/2026/08/2026-08-08_amazon-aurora-dsql-adds-multi-region-cluster-support-in-four-more-regions.md) `2026-08-08` [GA] [new-region]
+- [AWS Transform for full-stack Windows modernization now supports offline schema transformation to Aurora PostgreSQL](../../news/2026/08/2026-08-08_aws-transform-for-full-stack-windows-modernization-now-supports-offline-schema-t.md) `2026-08-08`
