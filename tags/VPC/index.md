@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS announces general availability of Policy-Based Routing on AWS Transit Gateway](../../news/2026/08/2026-08-08_aws-announces-general-availability-of-policy-based-routing-on-aws-transit-gatewa.md) `2026-08-08` [new-region] [security]
+- [AWS announces general availability of Policy-Based Routing on AWS Transit Gateway](../../news/2026/08/2026-08-09_aws-announces-general-availability-of-policy-based-routing-on-aws-transit-gatewa.md) `2026-08-09` [new-region] [security]

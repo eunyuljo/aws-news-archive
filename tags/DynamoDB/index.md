@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon DynamoDB now supports real-time vector search](../../news/2026/08/2026-08-08_amazon-dynamodb-now-supports-real-time-vector-search.md) `2026-08-08` [performance] [ai-ml]
+- [Amazon DynamoDB now supports real-time vector search](../../news/2026/08/2026-08-09_amazon-dynamodb-now-supports-real-time-vector-search.md) `2026-08-09` [performance] [ai-ml]

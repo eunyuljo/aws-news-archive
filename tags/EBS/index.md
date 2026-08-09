@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Marketplace adds AI Insights so buyers can understand pricing before they buy](../../news/2026/08/2026-08-08_aws-marketplace-adds-ai-insights-so-buyers-can-understand-pricing-before-they-bu.md) `2026-08-08` [price-reduction] [new-region] [ai-ml]
+- [AWS Marketplace adds AI Insights so buyers can understand pricing before they buy](../../news/2026/08/2026-08-09_aws-marketplace-adds-ai-insights-so-buyers-can-understand-pricing-before-they-bu.md) `2026-08-09` [price-reduction] [new-region] [ai-ml]

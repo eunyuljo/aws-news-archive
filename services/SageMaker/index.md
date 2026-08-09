@@ -5,11 +5,11 @@ parent: Services
 
 # SageMaker — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-08-08
+총 **1건** | 최근 업데이트: 2026-08-09
 
 ---
 
 
 ## 2026
 
-- [Amazon SageMaker AI serverless model customization now supports full fine-tuning](../../news/2026/08/2026-08-08_amazon-sagemaker-ai-serverless-model-customization-now-supports-full-fine-tuning.md) `2026-08-08`
+- [Amazon SageMaker AI serverless model customization now supports full fine-tuning](../../news/2026/08/2026-08-09_amazon-sagemaker-ai-serverless-model-customization-now-supports-full-fine-tuning.md) `2026-08-09`
