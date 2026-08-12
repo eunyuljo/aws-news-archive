@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon EFS now supports cross-account Replication in AWS GovCloud (US)](../../news/2026/08/2026-08-10_amazon-efs-now-supports-cross-account-replication-in-aws-govcloud-us.md) `2026-08-10` [GA] [new-region] [security]
+- [AWS Identity and Access Management streamlines assignment of IAM roles to workforce users with account access manager](../../news/2026/08/2026-08-12_aws-identity-and-access-management-streamlines-assignment-of-iam-roles-to-workfo.md) `2026-08-12` [GA] [price-reduction] [new-region] [security]

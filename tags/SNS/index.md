@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon SES now helps identify automated open and click events in event notifications](../../news/2026/08/2026-08-11_amazon-ses-now-helps-identify-automated-open-and-click-events-in-event-notificat.md) `2026-08-11` [new-region]
+- [Amazon SES now helps identify automated open and click events in event notifications](../../news/2026/08/2026-08-12_amazon-ses-now-helps-identify-automated-open-and-click-events-in-event-notificat.md) `2026-08-12` [new-region]

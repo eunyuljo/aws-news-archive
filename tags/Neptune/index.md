@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Backup extends logically air-gapped vault support for Amazon Neptune to three additional AWS Regions](../../news/2026/08/2026-08-11_aws-backup-extends-logically-air-gapped-vault-support-for-amazon-neptune-to-thre.md) `2026-08-11` [GA] [new-region] [security]
+- [AWS Backup extends logically air-gapped vault support for Amazon Neptune to three additional AWS Regions](../../news/2026/08/2026-08-12_aws-backup-extends-logically-air-gapped-vault-support-for-amazon-neptune-to-thre.md) `2026-08-12` [GA] [new-region] [security]

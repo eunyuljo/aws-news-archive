@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Timestream for InfluxDB now supports backup and restore](../../news/2026/08/2026-08-11_amazon-timestream-for-influxdb-now-supports-backup-and-restore.md) `2026-08-11` [new-region] [performance] [security]
+- [Amazon Timestream for InfluxDB now supports backup and restore](../../news/2026/08/2026-08-12_amazon-timestream-for-influxdb-now-supports-backup-and-restore.md) `2026-08-12` [new-region] [performance] [security]
