@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Secrets Manager adds managed external secrets support for Jenkins and SonarQube](../../news/2026/08/2026-08-12_aws-secrets-manager-adds-managed-external-secrets-support-for-jenkins-and-sonarq.md) `2026-08-12` [new-region]
+- [AWS Secrets Manager adds managed external secrets support for Jenkins and SonarQube](../../news/2026/08/2026-08-13_aws-secrets-manager-adds-managed-external-secrets-support-for-jenkins-and-sonarq.md) `2026-08-13` [new-region]
