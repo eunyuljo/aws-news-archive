@@ -6,8 +6,11 @@ nav_exclude: false
 
 # 태그: Bedrock
 
-총 3건
+총 6건
 
-- [OpenAI GPT-5.6 Sol, Terra, and Luna now support 1 million token context windows on Amazon Bedrock](../../news/2026/08/2026-08-13_openai-gpt-56-sol-terra-and-luna-now-support-1-million-token-context-windows-on-.md) `2026-08-13` [GA] [new-region]
-- [Amazon Bedrock launches Web Search for OpenAI GPT models](../../news/2026/08/2026-08-13_amazon-bedrock-launches-web-search-for-openai-gpt-models.md) `2026-08-13` [GA] [price-reduction] [performance] [security] [ai-ml]
-- [Amazon Bedrock AgentCore adds memory, policy, and harness in AWS GovCloud (US-West)](../../news/2026/08/2026-08-13_amazon-bedrock-agentcore-adds-memory-policy-and-harness-in-aws-govcloud-us-west.md) `2026-08-13` [performance]
+- [OpenAI GPT-5.6 Sol, Terra, and Luna now support 1 million token context windows on Amazon Bedrock](../../news/2026/08/2026-08-14_openai-gpt-56-sol-terra-and-luna-now-support-1-million-token-context-windows-on-.md) `2026-08-14` [GA] [new-region]
+- [Amazon Bedrock launches Web Search for OpenAI GPT models](../../news/2026/08/2026-08-14_amazon-bedrock-launches-web-search-for-openai-gpt-models.md) `2026-08-14` [GA] [price-reduction] [performance] [security] [ai-ml]
+- [Amazon Bedrock AgentCore adds memory, policy, and harness in AWS GovCloud (US-West)](../../news/2026/08/2026-08-14_amazon-bedrock-agentcore-adds-memory-policy-and-harness-in-aws-govcloud-us-west.md) `2026-08-14` [performance]
+- [Amazon Nova Multimodal Embeddings is now available in AWS GovCloud (US-West)](../../news/2026/08/2026-08-14_amazon-nova-multimodal-embeddings-is-now-available-in-aws-govcloud-us-west.md) `2026-08-14` [GA] [price-reduction] [performance]
+- [Daybreak Red and Daybreak Blue from OpenAI are now available to eligible customers on Amazon Bedrock](../../news/2026/08/2026-08-14_daybreak-red-and-daybreak-blue-from-openai-are-now-available-to-eligible-custome.md) `2026-08-14` [GA] [new-region] [performance] [security] [ai-ml]
+- [Claude Opus 5 is now available in AWS GovCloud (US)](../../news/2026/08/2026-08-14_claude-opus-5-is-now-available-in-aws-govcloud-us.md) `2026-08-14` [GA] [new-region]

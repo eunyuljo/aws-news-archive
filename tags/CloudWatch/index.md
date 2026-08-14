@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon CloudWatch Alarms now supports wall clock evaluation windows](../../news/2026/08/2026-08-13_amazon-cloudwatch-alarms-now-supports-wall-clock-evaluation-windows.md) `2026-08-13` [new-region]
+- [Amazon CloudWatch Alarms now supports wall clock evaluation windows](../../news/2026/08/2026-08-14_amazon-cloudwatch-alarms-now-supports-wall-clock-evaluation-windows.md) `2026-08-14` [new-region]

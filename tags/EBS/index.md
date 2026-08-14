@@ -6,6 +6,7 @@ nav_exclude: false
 
 # 태그: EBS
 
-총 1건
+총 2건
 
-- [AWS Marketplace adds AI Insights so buyers can understand pricing before they buy](../../news/2026/08/2026-08-13_aws-marketplace-adds-ai-insights-so-buyers-can-understand-pricing-before-they-bu.md) `2026-08-13` [price-reduction] [new-region] [ai-ml]
+- [AWS Marketplace adds AI Insights so buyers can understand pricing before they buy](../../news/2026/08/2026-08-14_aws-marketplace-adds-ai-insights-so-buyers-can-understand-pricing-before-they-bu.md) `2026-08-14` [price-reduction] [new-region] [ai-ml]
+- [Amazon Quick now supports per-user resource limits](../../news/2026/08/2026-08-14_amazon-quick-now-supports-per-user-resource-limits.md) `2026-08-14` [price-reduction] [new-region]
