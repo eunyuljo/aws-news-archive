@@ -6,21 +6,21 @@ has_children: true
 
 # AWS 서비스별 뉴스 인덱스
 
-최근 업데이트: 2026-08-14
+최근 업데이트: 2026-08-15
 
 ---
 
 | 서비스 | 뉴스 수 |
 |--------|---------|
 | [EC2](./EC2/index.md) | 16 |
-| [RDS](./RDS/index.md) | 14 |
+| [RDS](./RDS/index.md) | 15 |
 | [S3](./S3/index.md) | 9 |
-| [General](./General/index.md) | 8 |
 | [Config](./Config/index.md) | 7 |
+| [General](./General/index.md) | 7 |
 | [Bedrock](./Bedrock/index.md) | 6 |
-| [Lambda](./Lambda/index.md) | 6 |
 | [Connect](./Connect/index.md) | 5 |
 | [IAM](./IAM/index.md) | 5 |
+| [Lambda](./Lambda/index.md) | 5 |
 | [SageMaker](./SageMaker/index.md) | 4 |
 | [EBS](./EBS/index.md) | 2 |
 | [EKS](./EKS/index.md) | 2 |
@@ -36,6 +36,7 @@ has_children: true
 | [Lex](./Lex/index.md) | 1 |
 | [LocalZones](./LocalZones/index.md) | 1 |
 | [Neptune](./Neptune/index.md) | 1 |
+| [Redshift](./Redshift/index.md) | 1 |
 | [SNS](./SNS/index.md) | 1 |
 | [SecretsManager](./SecretsManager/index.md) | 1 |
 | [WAF](./WAF/index.md) | 1 |

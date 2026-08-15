@@ -9,21 +9,21 @@ has_children: true
 | 태그 | 건수 |
 |------|------|
 | [2026](./2026/index.md) | 100 |
-| [new-region](./new-region/index.md) | 87 |
-| [GA](./GA/index.md) | 47 |
+| [new-region](./new-region/index.md) | 88 |
+| [GA](./GA/index.md) | 45 |
 | [performance](./performance/index.md) | 39 |
 | [security](./security/index.md) | 37 |
+| [price-reduction](./price-reduction/index.md) | 28 |
 | [ai-ml](./ai-ml/index.md) | 27 |
-| [price-reduction](./price-reduction/index.md) | 27 |
 | [EC2](./EC2/index.md) | 16 |
-| [RDS](./RDS/index.md) | 14 |
+| [RDS](./RDS/index.md) | 15 |
 | [S3](./S3/index.md) | 9 |
-| [General](./General/index.md) | 8 |
 | [Config](./Config/index.md) | 7 |
+| [General](./General/index.md) | 7 |
 | [Bedrock](./Bedrock/index.md) | 6 |
-| [Lambda](./Lambda/index.md) | 6 |
 | [Connect](./Connect/index.md) | 5 |
 | [IAM](./IAM/index.md) | 5 |
+| [Lambda](./Lambda/index.md) | 5 |
 | [SageMaker](./SageMaker/index.md) | 4 |
 | [EBS](./EBS/index.md) | 2 |
 | [EKS](./EKS/index.md) | 2 |
@@ -40,6 +40,7 @@ has_children: true
 | [Lex](./Lex/index.md) | 1 |
 | [LocalZones](./LocalZones/index.md) | 1 |
 | [Neptune](./Neptune/index.md) | 1 |
+| [Redshift](./Redshift/index.md) | 1 |
 | [SNS](./SNS/index.md) | 1 |
 | [SecretsManager](./SecretsManager/index.md) | 1 |
 | [WAF](./WAF/index.md) | 1 |

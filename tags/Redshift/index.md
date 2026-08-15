@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Redshift Data API announces long polling, session management, and flexible batch execution](../../news/2026/08/2026-08-11_amazon-redshift-data-api-announces-long-polling-session-management-and-flexible-.md) `2026-08-11` [GA] [new-region]
+- [Amazon Redshift adds rg.large and rg.12xlarge instance sizes in AWS GovCloud (US) Regions](../../news/2026/08/2026-08-15_amazon-redshift-adds-rglarge-and-rg12xlarge-instance-sizes-in-aws-govcloud-us-re.md) `2026-08-15` [price-reduction] [new-region] [performance]
