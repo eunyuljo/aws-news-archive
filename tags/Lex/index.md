@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Quick Microsoft 365 extensions are now generally available](../../news/2026/08/2026-08-15_amazon-quick-microsoft-365-extensions-are-now-generally-available.md) `2026-08-15` [GA] [ai-ml]
+- [Amazon Quick Microsoft 365 extensions are now generally available](../../news/2026/08/2026-08-16_amazon-quick-microsoft-365-extensions-are-now-generally-available.md) `2026-08-16` [GA] [ai-ml]

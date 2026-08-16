@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Redshift adds rg.large and rg.12xlarge instance sizes in AWS GovCloud (US) Regions](../../news/2026/08/2026-08-15_amazon-redshift-adds-rglarge-and-rg12xlarge-instance-sizes-in-aws-govcloud-us-re.md) `2026-08-15` [price-reduction] [new-region] [performance]
+- [Amazon Redshift adds rg.large and rg.12xlarge instance sizes in AWS GovCloud (US) Regions](../../news/2026/08/2026-08-16_amazon-redshift-adds-rglarge-and-rg12xlarge-instance-sizes-in-aws-govcloud-us-re.md) `2026-08-16` [price-reduction] [new-region] [performance]

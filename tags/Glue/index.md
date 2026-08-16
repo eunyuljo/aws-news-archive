@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Glue Data Quality makes ETL anomaly detection free and improves anomaly predictions](../../news/2026/08/2026-08-15_aws-glue-data-quality-makes-etl-anomaly-detection-free-and-improves-anomaly-pred.md) `2026-08-15` [GA] [price-reduction] [new-region]
+- [AWS Glue Data Quality makes ETL anomaly detection free and improves anomaly predictions](../../news/2026/08/2026-08-16_aws-glue-data-quality-makes-etl-anomaly-detection-free-and-improves-anomaly-pred.md) `2026-08-16` [GA] [price-reduction] [new-region]

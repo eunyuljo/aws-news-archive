@@ -5,11 +5,11 @@ parent: Services
 
 # Neptune — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-08-15
+총 **1건** | 최근 업데이트: 2026-08-16
 
 ---
 
 
 ## 2026
 
-- [AWS Backup extends logically air-gapped vault support for Amazon Neptune to three additional AWS Regions](../../news/2026/08/2026-08-15_aws-backup-extends-logically-air-gapped-vault-support-for-amazon-neptune-to-thre.md) `2026-08-15`
+- [AWS Backup extends logically air-gapped vault support for Amazon Neptune to three additional AWS Regions](../../news/2026/08/2026-08-16_aws-backup-extends-logically-air-gapped-vault-support-for-amazon-neptune-to-thre.md) `2026-08-16`
