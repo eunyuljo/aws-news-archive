@@ -8,8 +8,8 @@ nav_exclude: false
 
 총 5건
 
-- [Amazon Connect Customer now supports capacity planning in 15 or 30 minute intervals](../../news/2026/08/2026-08-16_amazon-connect-customer-now-supports-capacity-planning-in-15-or-30-minute-interv.md) `2026-08-16` [new-region]
-- [Amazon Connect Customer now lets you export cases to CSV from the agent workspace](../../news/2026/08/2026-08-16_amazon-connect-customer-now-lets-you-export-cases-to-csv-from-the-agent-workspac.md) `2026-08-16` [new-region] [security]
-- [Amazon Connect Customer launches performance dashboard for Cases](../../news/2026/08/2026-08-16_amazon-connect-customer-launches-performance-dashboard-for-cases.md) `2026-08-16` [GA] [new-region] [performance]
-- [Amazon Quick agentic AI capabilities are now available in AWS GovCloud (US-West)](../../news/2026/08/2026-08-16_amazon-quick-agentic-ai-capabilities-are-now-available-in-aws-govcloud-us-west.md) `2026-08-16` [GA] [new-region] [performance] [security] [ai-ml]
-- [Amazon Connect Customer supports manual assignment of queued agent-first callbacks](../../news/2026/08/2026-08-16_amazon-connect-customer-supports-manual-assignment-of-queued-agent-first-callbac.md) `2026-08-16` [new-region] [performance]
+- [Amazon Connect Customer now supports capacity planning in 15 or 30 minute intervals](../../news/2026/08/2026-08-17_amazon-connect-customer-now-supports-capacity-planning-in-15-or-30-minute-interv.md) `2026-08-17` [new-region]
+- [Amazon Connect Customer now lets you export cases to CSV from the agent workspace](../../news/2026/08/2026-08-17_amazon-connect-customer-now-lets-you-export-cases-to-csv-from-the-agent-workspac.md) `2026-08-17` [new-region] [security]
+- [Amazon Connect Customer launches performance dashboard for Cases](../../news/2026/08/2026-08-17_amazon-connect-customer-launches-performance-dashboard-for-cases.md) `2026-08-17` [GA] [new-region] [performance]
+- [Amazon Quick agentic AI capabilities are now available in AWS GovCloud (US-West)](../../news/2026/08/2026-08-17_amazon-quick-agentic-ai-capabilities-are-now-available-in-aws-govcloud-us-west.md) `2026-08-17` [GA] [new-region] [performance] [security] [ai-ml]
+- [Amazon Connect Customer supports manual assignment of queued agent-first callbacks](../../news/2026/08/2026-08-17_amazon-connect-customer-supports-manual-assignment-of-queued-agent-first-callbac.md) `2026-08-17` [new-region] [performance]

@@ -8,9 +8,9 @@ nav_exclude: false
 
 총 6건
 
-- [OpenAI GPT-5.6 Sol, Terra, and Luna now support 1 million token context windows on Amazon Bedrock](../../news/2026/08/2026-08-16_openai-gpt-56-sol-terra-and-luna-now-support-1-million-token-context-windows-on-.md) `2026-08-16` [GA] [new-region]
-- [Amazon Bedrock launches Web Search for OpenAI GPT models](../../news/2026/08/2026-08-16_amazon-bedrock-launches-web-search-for-openai-gpt-models.md) `2026-08-16` [GA] [price-reduction] [performance] [security] [ai-ml]
-- [Amazon Bedrock AgentCore adds memory, policy, and harness in AWS GovCloud (US-West)](../../news/2026/08/2026-08-16_amazon-bedrock-agentcore-adds-memory-policy-and-harness-in-aws-govcloud-us-west.md) `2026-08-16` [performance]
-- [Amazon Nova Multimodal Embeddings is now available in AWS GovCloud (US-West)](../../news/2026/08/2026-08-16_amazon-nova-multimodal-embeddings-is-now-available-in-aws-govcloud-us-west.md) `2026-08-16` [GA] [price-reduction] [performance]
-- [Daybreak Red and Daybreak Blue from OpenAI are now available to eligible customers on Amazon Bedrock](../../news/2026/08/2026-08-16_daybreak-red-and-daybreak-blue-from-openai-are-now-available-to-eligible-custome.md) `2026-08-16` [GA] [new-region] [performance] [security] [ai-ml]
-- [Claude Opus 5 is now available in AWS GovCloud (US)](../../news/2026/08/2026-08-16_claude-opus-5-is-now-available-in-aws-govcloud-us.md) `2026-08-16` [GA] [new-region]
+- [OpenAI GPT-5.6 Sol, Terra, and Luna now support 1 million token context windows on Amazon Bedrock](../../news/2026/08/2026-08-17_openai-gpt-56-sol-terra-and-luna-now-support-1-million-token-context-windows-on-.md) `2026-08-17` [GA] [new-region]
+- [Amazon Bedrock launches Web Search for OpenAI GPT models](../../news/2026/08/2026-08-17_amazon-bedrock-launches-web-search-for-openai-gpt-models.md) `2026-08-17` [GA] [price-reduction] [performance] [security] [ai-ml]
+- [Amazon Bedrock AgentCore adds memory, policy, and harness in AWS GovCloud (US-West)](../../news/2026/08/2026-08-17_amazon-bedrock-agentcore-adds-memory-policy-and-harness-in-aws-govcloud-us-west.md) `2026-08-17` [performance]
+- [Amazon Nova Multimodal Embeddings is now available in AWS GovCloud (US-West)](../../news/2026/08/2026-08-17_amazon-nova-multimodal-embeddings-is-now-available-in-aws-govcloud-us-west.md) `2026-08-17` [GA] [price-reduction] [performance]
+- [Daybreak Red and Daybreak Blue from OpenAI are now available to eligible customers on Amazon Bedrock](../../news/2026/08/2026-08-17_daybreak-red-and-daybreak-blue-from-openai-are-now-available-to-eligible-custome.md) `2026-08-17` [GA] [new-region] [performance] [security] [ai-ml]
+- [Claude Opus 5 is now available in AWS GovCloud (US)](../../news/2026/08/2026-08-17_claude-opus-5-is-now-available-in-aws-govcloud-us.md) `2026-08-17` [GA] [new-region]
