@@ -6,25 +6,26 @@ has_children: true
 
 # AWS 서비스별 뉴스 인덱스
 
-최근 업데이트: 2026-08-17
+최근 업데이트: 2026-08-18
 
 ---
 
 | 서비스 | 뉴스 수 |
 |--------|---------|
-| [EC2](./EC2/index.md) | 16 |
-| [RDS](./RDS/index.md) | 15 |
+| [EC2](./EC2/index.md) | 15 |
+| [RDS](./RDS/index.md) | 14 |
+| [Config](./Config/index.md) | 9 |
 | [S3](./S3/index.md) | 9 |
-| [Config](./Config/index.md) | 7 |
-| [General](./General/index.md) | 7 |
-| [Bedrock](./Bedrock/index.md) | 6 |
-| [Connect](./Connect/index.md) | 5 |
+| [Lambda](./Lambda/index.md) | 6 |
+| [Bedrock](./Bedrock/index.md) | 5 |
+| [General](./General/index.md) | 5 |
 | [IAM](./IAM/index.md) | 5 |
-| [Lambda](./Lambda/index.md) | 5 |
+| [Connect](./Connect/index.md) | 4 |
 | [SageMaker](./SageMaker/index.md) | 4 |
-| [EBS](./EBS/index.md) | 2 |
+| [EBS](./EBS/index.md) | 3 |
 | [EKS](./EKS/index.md) | 2 |
 | [OpenSearch](./OpenSearch/index.md) | 2 |
+| [VPC](./VPC/index.md) | 2 |
 | [CloudFormation](./CloudFormation/index.md) | 1 |
 | [CloudTrail](./CloudTrail/index.md) | 1 |
 | [CloudWatch](./CloudWatch/index.md) | 1 |
