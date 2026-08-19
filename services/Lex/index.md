@@ -5,11 +5,12 @@ parent: Services
 
 # Lex — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-08-18
+총 **2건** | 최근 업데이트: 2026-08-19
 
 ---
 
 
 ## 2026
 
-- [Amazon Quick Microsoft 365 extensions are now generally available](../../news/2026/08/2026-08-18_amazon-quick-microsoft-365-extensions-are-now-generally-available.md) `2026-08-18`
+- [AWS Console-to-Code adds 26 services and cross-region recording​](../../news/2026/08/2026-08-19_aws-console-to-code-adds-26-services-and-cross-region-recording.md) `2026-08-19`
+- [Amazon Quick Microsoft 365 extensions are now generally available](../../news/2026/08/2026-08-19_amazon-quick-microsoft-365-extensions-are-now-generally-available.md) `2026-08-19`

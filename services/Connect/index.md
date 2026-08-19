@@ -5,14 +5,13 @@ parent: Services
 
 # Connect — AWS 뉴스
 
-총 **4건** | 최근 업데이트: 2026-08-18
+총 **3건** | 최근 업데이트: 2026-08-19
 
 ---
 
 
 ## 2026
 
-- [Amazon Connect Customer now lets you export cases to CSV from the agent workspace](../../news/2026/08/2026-08-18_amazon-connect-customer-now-lets-you-export-cases-to-csv-from-the-agent-workspac.md) `2026-08-18`
-- [Amazon Connect Customer launches performance dashboard for Cases](../../news/2026/08/2026-08-18_amazon-connect-customer-launches-performance-dashboard-for-cases.md) `2026-08-18`
-- [Amazon Quick agentic AI capabilities are now available in AWS GovCloud (US-West)](../../news/2026/08/2026-08-18_amazon-quick-agentic-ai-capabilities-are-now-available-in-aws-govcloud-us-west.md) `2026-08-18`
-- [Amazon Connect Customer supports manual assignment of queued agent-first callbacks](../../news/2026/08/2026-08-18_amazon-connect-customer-supports-manual-assignment-of-queued-agent-first-callbac.md) `2026-08-18`
+- [Amazon Connect Customer launches performance dashboard for Cases](../../news/2026/08/2026-08-19_amazon-connect-customer-launches-performance-dashboard-for-cases.md) `2026-08-19`
+- [Amazon Quick agentic AI capabilities are now available in AWS GovCloud (US-West)](../../news/2026/08/2026-08-19_amazon-quick-agentic-ai-capabilities-are-now-available-in-aws-govcloud-us-west.md) `2026-08-19`
+- [Amazon Connect Customer supports manual assignment of queued agent-first callbacks](../../news/2026/08/2026-08-19_amazon-connect-customer-supports-manual-assignment-of-queued-agent-first-callbac.md) `2026-08-19`

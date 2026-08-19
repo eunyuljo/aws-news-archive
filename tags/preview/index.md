@@ -6,7 +6,6 @@ nav_exclude: false
 
 # 태그: preview
 
-총 2건
+총 1건
 
-- [[Preview Announcement] Re-introducing Forward Proxy as AWS Network Firewall Functionality](../../news/2026/08/2026-08-18_preview-announcement-re-introducing-forward-proxy-as-aws-network-firewall-functi.md) `2026-08-18` [GA] [preview] [new-region] [security]
-- [AWS Glue Data Catalog now supports  metadata exports to S3 Tables (Preview)](../../news/2026/08/2026-08-18_aws-glue-data-catalog-now-supports-metadata-exports-to-s3-tables-preview.md) `2026-08-18` [preview] [new-region] [security]
+- [PostgreSQL 19 Beta 3 is now available in Amazon RDS Database Preview Environment](../../news/2026/08/2026-08-19_postgresql-19-beta-3-is-now-available-in-amazon-rds-database-preview-environment.md) `2026-08-19` [GA] [preview] [price-reduction] [new-region] [performance]

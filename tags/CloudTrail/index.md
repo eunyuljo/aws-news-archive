@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Quick now supports approval policies for sharing](../../news/2026/08/2026-08-18_amazon-quick-now-supports-approval-policies-for-sharing.md) `2026-08-18` [new-region]
+- [Amazon Quick now supports approval policies for sharing](../../news/2026/08/2026-08-19_amazon-quick-now-supports-approval-policies-for-sharing.md) `2026-08-19` [new-region]
