@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [PostgreSQL 19 Beta 3 is now available in Amazon RDS Database Preview Environment](../../news/2026/08/2026-08-19_postgresql-19-beta-3-is-now-available-in-amazon-rds-database-preview-environment.md) `2026-08-19` [GA] [preview] [price-reduction] [new-region] [performance]
+- [PostgreSQL 19 Beta 3 is now available in Amazon RDS Database Preview Environment](../../news/2026/08/2026-08-20_postgresql-19-beta-3-is-now-available-in-amazon-rds-database-preview-environment.md) `2026-08-20` [GA] [preview] [price-reduction] [new-region] [performance]
