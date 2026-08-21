@@ -5,11 +5,11 @@ parent: Services
 
 # EKS — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-08-20
+총 **1건** | 최근 업데이트: 2026-08-21
 
 ---
 
 
 ## 2026
 
-- [Amazon EKS now supports advanced Kubernetes control plane configuration parameters](../../news/2026/08/2026-08-20_amazon-eks-now-supports-advanced-kubernetes-control-plane-configuration-paramete.md) `2026-08-20`
+- [Amazon EKS now supports advanced Kubernetes control plane configuration parameters](../../news/2026/08/2026-08-21_amazon-eks-now-supports-advanced-kubernetes-control-plane-configuration-paramete.md) `2026-08-21`

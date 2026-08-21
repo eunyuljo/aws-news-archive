@@ -1,0 +1,24 @@
+---
+title: "Amazon Redshift introduces long-term system table retention with Amazon S3 Tables integration"
+date: "2026-08-21"
+service: "S3"
+link: "https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-long-term-system-table-retention/"
+tags: ["S3", "2026", "new-region", "performance", "security"]
+nav_exclude: true
+---
+
+# Amazon Redshift introduces long-term system table retention with Amazon S3 Tables integration
+
+**날짜:** 2026년 08월 21일
+**서비스:** S3
+**링크:** https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-long-term-system-table-retention/
+
+## 내용
+
+Amazon Redshift now supports long-term retention for system table data through native integration with Amazon S3 Tables. With this feature, you can configure your Redshift system table data retention beyond the current 7-day limit to meet your compliance, auditing, and observability requirements. Once enabled, AWS automatically writes system table data to S3 Tables in Apache Iceberg format and manages partitioning, compaction, and retention. 
+Customers use Redshift system tables to monitor query performance, audit data warehouse activity, and meet compliance requirements. Previously, extending retention required building and maintaining custom extract transform load (ETL) pipelines to copy system table data, adding development effort and ongoing operational overhead. Customers operating multiple data warehouses faced additional complexity, relying on Redshift data sharing to consolidate system table data from each warehouse into a central location for cross-warehouse analysis. With this feature, system table data is replicated automatically, eliminating the need for custom ETL pipelines and any resource contention with your production workloads. &nbsp;If you operate multiple data warehouses, you can consolidate their system table data into a single location for cross-warehouse observability and analysis. Because the data is stored in the open Apache Iceberg format, you can query it through Redshift,&nbsp;Amazon Athena, or any Iceberg-compatible engine, and build observability dashboards using AWS services or third-party tools without additional operations overhead. Additionally, the AWS Agent Toolkit&nbsp;provides skills for querying system table data to surface performance insights and optimization recommendations. 
+This feature is available for Amazon Redshift Provisioned RG and RA3 instances and Amazon Redshift Serverless&nbsp;in the following AWS Regions: US East (N. Virginia), US East (Ohio), US West (N. California), US West (Oregon), Africa (Cape Town), Asia Pacific (Hong Kong), Asia Pacific (Taipei), Asia Pacific (Tokyo), Asia Pacific (Seoul), Asia Pacific (Osaka), Asia Pacific (Mumbai), Asia Pacific (Hyderabad), Asia Pacific (Singapore), Asia Pacific (Sydney), Asia Pacific (Jakarta), Asia Pacific (Melbourne), Asia Pacific (Malaysia), Asia Pacific (Thailand), Canada (Central), Europe (Frankfurt), Europe (Zurich), Europe (Stockholm), Europe (Milan), Europe (Spain), Europe (Ireland), Europe (London), Europe (Paris), Israel (Tel Aviv), and South America (Sao Paulo). To learn more, visit our documentation or&nbsp;read the&nbsp;blog.
+
+## 핵심 요약
+
+요약 미지원

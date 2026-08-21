@@ -8,6 +8,6 @@ nav_exclude: false
 
 총 3건
 
-- [AWS Parallel Computing Service is now in scope for FedRAMP, SOC, ISO, CSA STAR, and PCI](../../news/2026/08/2026-08-20_aws-parallel-computing-service-is-now-in-scope-for-fedramp-soc-iso-csa-star-and-.md) `2026-08-20` [new-region] [performance] [security]
-- [Amazon GameLift Streams Now Offers Service-managed Shader Caching](../../news/2026/08/2026-08-20_amazon-gamelift-streams-now-offers-service-managed-shader-caching.md) `2026-08-20` [new-region]
-- [Amazon WorkSpaces now supports Nested Virtualization](../../news/2026/08/2026-08-20_amazon-workspaces-now-supports-nested-virtualization.md) `2026-08-20` [new-region]
+- [Amazon GameLift Streams Now Offers Service-managed Shader Caching](../../news/2026/08/2026-08-21_amazon-gamelift-streams-now-offers-service-managed-shader-caching.md) `2026-08-21` [new-region]
+- [Amazon WorkSpaces now supports Nested Virtualization](../../news/2026/08/2026-08-21_amazon-workspaces-now-supports-nested-virtualization.md) `2026-08-21` [new-region]
+- [AWS Security Agent (now part of AWS Continuum) now supports budget controls and finding revalidation](../../news/2026/08/2026-08-21_aws-security-agent-now-part-of-aws-continuum-now-supports-budget-controls-and-fi.md) `2026-08-21` [price-reduction] [security] [ai-ml]

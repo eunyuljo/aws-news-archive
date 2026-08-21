@@ -5,11 +5,11 @@ parent: Services
 
 # SecretsManager — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-08-20
+총 **1건** | 최근 업데이트: 2026-08-21
 
 ---
 
 
 ## 2026
 
-- [AWS Secrets Manager adds managed external secrets support for Jenkins and SonarQube](../../news/2026/08/2026-08-20_aws-secrets-manager-adds-managed-external-secrets-support-for-jenkins-and-sonarq.md) `2026-08-20`
+- [AWS Secrets Manager adds managed external secrets support for Jenkins and SonarQube](../../news/2026/08/2026-08-21_aws-secrets-manager-adds-managed-external-secrets-support-for-jenkins-and-sonarq.md) `2026-08-21`
