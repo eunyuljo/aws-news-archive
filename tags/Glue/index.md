@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Glue Data Quality makes ETL anomaly detection free and improves anomaly predictions](../../news/2026/08/2026-08-19_aws-glue-data-quality-makes-etl-anomaly-detection-free-and-improves-anomaly-pred.md) `2026-08-19` [GA] [price-reduction] [new-region]
+- [AWS Glue 6.0 delivers 30% price reduction and Iceberg v3 support](../../news/2026/08/2026-08-22_aws-glue-60-delivers-30-price-reduction-and-iceberg-v3-support.md) `2026-08-22` [GA] [price-reduction] [new-region] [performance] [ai-ml]
