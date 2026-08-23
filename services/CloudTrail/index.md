@@ -5,11 +5,11 @@ parent: Services
 
 # CloudTrail — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-08-22
+총 **1건** | 최근 업데이트: 2026-08-23
 
 ---
 
 
 ## 2026
 
-- [Amazon Quick now supports approval policies for sharing](../../news/2026/08/2026-08-22_amazon-quick-now-supports-approval-policies-for-sharing.md) `2026-08-22`
+- [Amazon Quick now supports approval policies for sharing](../../news/2026/08/2026-08-23_amazon-quick-now-supports-approval-policies-for-sharing.md) `2026-08-23`
