@@ -5,13 +5,13 @@ parent: Services
 
 # General — AWS 뉴스
 
-총 **3건** | 최근 업데이트: 2026-08-24
+총 **3건** | 최근 업데이트: 2026-08-25
 
 ---
 
 
 ## 2026
 
-- [Amazon GameLift Streams Now Offers Service-managed Shader Caching](../../news/2026/08/2026-08-24_amazon-gamelift-streams-now-offers-service-managed-shader-caching.md) `2026-08-24`
-- [Amazon WorkSpaces now supports Nested Virtualization](../../news/2026/08/2026-08-24_amazon-workspaces-now-supports-nested-virtualization.md) `2026-08-24`
-- [AWS Security Agent (now part of AWS Continuum) now supports budget controls and finding revalidation](../../news/2026/08/2026-08-24_aws-security-agent-now-part-of-aws-continuum-now-supports-budget-controls-and-fi.md) `2026-08-24`
+- [Amazon WorkSpaces now supports Nested Virtualization](../../news/2026/08/2026-08-25_amazon-workspaces-now-supports-nested-virtualization.md) `2026-08-25`
+- [AWS Security Agent (now part of AWS Continuum) now supports budget controls and finding revalidation](../../news/2026/08/2026-08-25_aws-security-agent-now-part-of-aws-continuum-now-supports-budget-controls-and-fi.md) `2026-08-25`
+- [AWS ParallelCluster 3.16 adds an on-node diagnostics tool](../../news/2026/08/2026-08-25_aws-parallelcluster-316-adds-an-on-node-diagnostics-tool.md) `2026-08-25`

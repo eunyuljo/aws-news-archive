@@ -5,12 +5,11 @@ parent: Services
 
 # Aurora — AWS 뉴스
 
-총 **2건** | 최근 업데이트: 2026-08-13
+총 **1건** | 최근 업데이트: 2026-08-25
 
 ---
 
 
 ## 2026
 
-- [Amazon Aurora DSQL adds multi-Region cluster support in four more Regions](../../news/2026/08/2026-08-13_amazon-aurora-dsql-adds-multi-region-cluster-support-in-four-more-regions.md) `2026-08-13`
-- [AWS Transform for full-stack Windows modernization now supports offline schema transformation to Aurora PostgreSQL](../../news/2026/08/2026-08-13_aws-transform-for-full-stack-windows-modernization-now-supports-offline-schema-t.md) `2026-08-13`
+- [Amazon Aurora now supports PostgreSQL 18.4, 17.10, 16.14, 15.18, and 14.23](../../news/2026/08/2026-08-25_amazon-aurora-now-supports-postgresql-184-1710-1614-1518-and-1423.md) `2026-08-25`
