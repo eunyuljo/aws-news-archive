@@ -5,12 +5,11 @@ parent: Services
 
 # SageMaker — AWS 뉴스
 
-총 **2건** | 최근 업데이트: 2026-08-25
+총 **1건** | 최근 업데이트: 2026-08-26
 
 ---
 
 
 ## 2026
 
-- [LocateAnything-3B, Qwen-AgentWorld-35B-A3B, and Qwen3.5-122B-A10B models now available on Amazon SageMaker JumpStart](../../news/2026/08/2026-08-25_locateanything-3b-qwen-agentworld-35b-a3b-and-qwen35-122b-a10b-models-now-availa.md) `2026-08-25`
-- [SageMaker MLflow now supports customer managed keys](../../news/2026/08/2026-08-25_sagemaker-mlflow-now-supports-customer-managed-keys.md) `2026-08-25`
+- [SageMaker MLflow now supports customer managed keys](../../news/2026/08/2026-08-26_sagemaker-mlflow-now-supports-customer-managed-keys.md) `2026-08-26`

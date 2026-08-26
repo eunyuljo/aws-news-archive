@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Redshift now supports concurrency scaling of streaming ingestion workloads from Amazon Kinesis data streams](../../news/2026/08/2026-08-25_amazon-redshift-now-supports-concurrency-scaling-of-streaming-ingestion-workload.md) `2026-08-25` [price-reduction] [new-region] [performance]
+- [Amazon Redshift now supports concurrency scaling of streaming ingestion workloads from Amazon Kinesis data streams](../../news/2026/08/2026-08-26_amazon-redshift-now-supports-concurrency-scaling-of-streaming-ingestion-workload.md) `2026-08-26` [price-reduction] [new-region] [performance]
