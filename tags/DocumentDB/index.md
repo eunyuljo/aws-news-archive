@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon DocumentDB (with MongoDB compatibility) adds support for 46 new MongoDB operators in version 8.0.1](../../news/2026/07/2026-07-24_amazon-documentdb-with-mongodb-compatibility-adds-support-for-46-new-mongodb-ope.md) `2026-07-24` [new-region]
+- [AWS Backup adds cross-Region backup copy and logically air-gapped vault support for Amazon DocumentDB in nine additional AWS Regions](../../news/2026/08/2026-08-27_aws-backup-adds-cross-region-backup-copy-and-logically-air-gapped-vault-support-.md) `2026-08-27` [GA] [new-region] [security]

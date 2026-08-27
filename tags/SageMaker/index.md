@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [SageMaker MLflow now supports customer managed keys](../../news/2026/08/2026-08-26_sagemaker-mlflow-now-supports-customer-managed-keys.md) `2026-08-26` [GA] [new-region] [security]
+- [SageMaker MLflow now supports customer managed keys](../../news/2026/08/2026-08-27_sagemaker-mlflow-now-supports-customer-managed-keys.md) `2026-08-27` [GA] [new-region] [security]

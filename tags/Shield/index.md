@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon GameLift Servers enhanced DDoS Protection now available](../../news/2026/08/2026-08-26_amazon-gamelift-servers-enhanced-ddos-protection-now-available.md) `2026-08-26` [GA] [price-reduction] [new-region]
+- [Amazon GameLift Servers enhanced DDoS Protection now available](../../news/2026/08/2026-08-27_amazon-gamelift-servers-enhanced-ddos-protection-now-available.md) `2026-08-27` [GA] [price-reduction] [new-region]

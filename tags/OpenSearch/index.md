@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon OpenSearch Ingestion is now available in GovCloud Regions](../../news/2026/08/2026-08-26_amazon-opensearch-ingestion-is-now-available-in-govcloud-regions.md) `2026-08-26` [GA] [new-region]
+- [Amazon OpenSearch Ingestion is now available in GovCloud Regions](../../news/2026/08/2026-08-27_amazon-opensearch-ingestion-is-now-available-in-govcloud-regions.md) `2026-08-27` [GA] [new-region]
