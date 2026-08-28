@@ -8,5 +8,5 @@ nav_exclude: false
 
 총 2건
 
-- [Amazon EKS Capability for Argo CD now supports custom configuration](../../news/2026/08/2026-08-27_amazon-eks-capability-for-argo-cd-now-supports-custom-configuration.md) `2026-08-27` [GA] [new-region]
-- [Amazon EKS now supports multiple external OIDC identity providers per cluster](../../news/2026/08/2026-08-27_amazon-eks-now-supports-multiple-external-oidc-identity-providers-per-cluster.md) `2026-08-27` [price-reduction] [new-region] [security]
+- [Amazon EKS Capability for Argo CD now supports custom configuration](../../news/2026/08/2026-08-28_amazon-eks-capability-for-argo-cd-now-supports-custom-configuration.md) `2026-08-28` [GA] [new-region]
+- [Amazon EKS now supports multiple external OIDC identity providers per cluster](../../news/2026/08/2026-08-28_amazon-eks-now-supports-multiple-external-oidc-identity-providers-per-cluster.md) `2026-08-28` [price-reduction] [new-region] [security]

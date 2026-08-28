@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Redshift adds rg.large and rg.12xlarge instance sizes in AWS GovCloud (US) Regions](../../news/2026/08/2026-08-26_amazon-redshift-adds-rglarge-and-rg12xlarge-instance-sizes-in-aws-govcloud-us-re.md) `2026-08-26` [price-reduction] [new-region] [performance]
+- [Amazon Redshift integrates with Agent Toolkit for AWS for AI-assisted data warehouse management](../../news/2026/08/2026-08-28_amazon-redshift-integrates-with-agent-toolkit-for-aws-for-ai-assisted-data-wareh.md) `2026-08-28` [new-region] [performance] [ai-ml]

@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon SES introduces pricing plans](../../news/2026/08/2026-08-03_amazon-ses-introduces-pricing-plans.md) `2026-08-03` [price-reduction] [new-region]
+- [AWS Transform now in scope for FedRAMP Class C](../../news/2026/08/2026-08-28_aws-transform-now-in-scope-for-fedramp-class-c.md) `2026-08-28` [new-region] [security]

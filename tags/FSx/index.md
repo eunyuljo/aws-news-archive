@@ -6,6 +6,7 @@ nav_exclude: false
 
 # 태그: FSx
 
-총 1건
+총 2건
 
-- [AWS DataSync Enhanced mode now supports Amazon EFS and Amazon FSx for Lustre](../../news/2026/08/2026-08-10_aws-datasync-enhanced-mode-now-supports-amazon-efs-and-amazon-fsx-for-lustre.md) `2026-08-10` [new-region] [performance] [ai-ml]
+- [AWS Backup adds cross-Region and cross-account backup support for Amazon FSx for NetApp ONTAP](../../news/2026/08/2026-08-28_aws-backup-adds-cross-region-and-cross-account-backup-support-for-amazon-fsx-for.md) `2026-08-28` [new-region]
+- [Amazon FSx for NetApp ONTAP now supports copying backups across AWS Regions and accounts](../../news/2026/08/2026-08-28_amazon-fsx-for-netapp-ontap-now-supports-copying-backups-across-aws-regions-and-.md) `2026-08-28` [new-region] [security]

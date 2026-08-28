@@ -5,16 +5,15 @@ parent: Services
 
 # Lambda — AWS 뉴스
 
-총 **6건** | 최근 업데이트: 2026-08-27
+총 **5건** | 최근 업데이트: 2026-08-28
 
 ---
 
 
 ## 2026
 
-- [AWS CloudShell now includes a built-in visual file editor](../../news/2026/08/2026-08-27_aws-cloudshell-now-includes-a-built-in-visual-file-editor.md) `2026-08-27`
-- [AWS Lambda MicroVMs is now available in 5 additional AWS regions](../../news/2026/08/2026-08-27_aws-lambda-microvms-is-now-available-in-5-additional-aws-regions.md) `2026-08-27`
-- [Amazon CloudFront now supports Origin Access Control (OAC) for Amazon S3 Multi-Region Access Points](../../news/2026/08/2026-08-27_amazon-cloudfront-now-supports-origin-access-control-oac-for-amazon-s3-multi-reg.md) `2026-08-27`
-- [AWS Lambda functions now support full IAM resource-based policies](../../news/2026/08/2026-08-27_aws-lambda-functions-now-support-full-iam-resource-based-policies.md) `2026-08-27`
-- [AWS Lambda introduces managed runtimes in public preview for Node.js 26 and Python 3.15](../../news/2026/08/2026-08-27_aws-lambda-introduces-managed-runtimes-in-public-preview-for-nodejs-26-and-pytho.md) `2026-08-27`
-- [AWS Lambda MicroVMs now supports AWS PrivateLink](../../news/2026/08/2026-08-27_aws-lambda-microvms-now-supports-aws-privatelink.md) `2026-08-27`
+- [AWS Lambda MicroVMs is now available in 5 additional AWS regions](../../news/2026/08/2026-08-28_aws-lambda-microvms-is-now-available-in-5-additional-aws-regions.md) `2026-08-28`
+- [Amazon CloudFront now supports Origin Access Control (OAC) for Amazon S3 Multi-Region Access Points](../../news/2026/08/2026-08-28_amazon-cloudfront-now-supports-origin-access-control-oac-for-amazon-s3-multi-reg.md) `2026-08-28`
+- [AWS Lambda functions now support full IAM resource-based policies](../../news/2026/08/2026-08-28_aws-lambda-functions-now-support-full-iam-resource-based-policies.md) `2026-08-28`
+- [AWS Lambda introduces managed runtimes in public preview for Node.js 26 and Python 3.15](../../news/2026/08/2026-08-28_aws-lambda-introduces-managed-runtimes-in-public-preview-for-nodejs-26-and-pytho.md) `2026-08-28`
+- [AWS Lambda MicroVMs now supports AWS PrivateLink](../../news/2026/08/2026-08-28_aws-lambda-microvms-now-supports-aws-privatelink.md) `2026-08-28`
