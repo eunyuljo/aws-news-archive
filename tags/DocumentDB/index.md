@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Backup adds cross-Region backup copy and logically air-gapped vault support for Amazon DocumentDB in nine additional AWS Regions](../../news/2026/08/2026-08-28_aws-backup-adds-cross-region-backup-copy-and-logically-air-gapped-vault-support-.md) `2026-08-28` [GA] [new-region] [security]
+- [AWS Backup adds cross-Region backup copy and logically air-gapped vault support for Amazon DocumentDB in nine additional AWS Regions](../../news/2026/08/2026-08-29_aws-backup-adds-cross-region-backup-copy-and-logically-air-gapped-vault-support-.md) `2026-08-29` [GA] [new-region] [security]

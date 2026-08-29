@@ -5,11 +5,11 @@ parent: Services
 
 # OpenSearch — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-08-28
+총 **1건** | 최근 업데이트: 2026-08-29
 
 ---
 
 
 ## 2026
 
-- [Amazon OpenSearch Ingestion is now available in GovCloud Regions](../../news/2026/08/2026-08-28_amazon-opensearch-ingestion-is-now-available-in-govcloud-regions.md) `2026-08-28`
+- [Amazon OpenSearch Ingestion is now available in GovCloud Regions](../../news/2026/08/2026-08-29_amazon-opensearch-ingestion-is-now-available-in-govcloud-regions.md) `2026-08-29`

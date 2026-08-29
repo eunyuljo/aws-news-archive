@@ -5,11 +5,11 @@ parent: Services
 
 # SystemsManager — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-08-28
+총 **1건** | 최근 업데이트: 2026-08-29
 
 ---
 
 
 ## 2026
 
-- [AWS Transform now in scope for FedRAMP Class C](../../news/2026/08/2026-08-28_aws-transform-now-in-scope-for-fedramp-class-c.md) `2026-08-28`
+- [AWS Transform now in scope for FedRAMP Class C](../../news/2026/08/2026-08-29_aws-transform-now-in-scope-for-fedramp-class-c.md) `2026-08-29`

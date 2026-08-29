@@ -9,17 +9,17 @@ has_children: true
 | 태그 | 건수 |
 |------|------|
 | [2026](./2026/index.md) | 100 |
-| [new-region](./new-region/index.md) | 91 |
-| [GA](./GA/index.md) | 53 |
+| [new-region](./new-region/index.md) | 90 |
+| [GA](./GA/index.md) | 52 |
 | [performance](./performance/index.md) | 41 |
-| [price-reduction](./price-reduction/index.md) | 34 |
+| [price-reduction](./price-reduction/index.md) | 35 |
 | [security](./security/index.md) | 33 |
 | [ai-ml](./ai-ml/index.md) | 30 |
 | [EC2](./EC2/index.md) | 18 |
 | [RDS](./RDS/index.md) | 14 |
 | [Config](./Config/index.md) | 10 |
-| [S3](./S3/index.md) | 9 |
-| [Bedrock](./Bedrock/index.md) | 8 |
+| [Bedrock](./Bedrock/index.md) | 9 |
+| [S3](./S3/index.md) | 8 |
 | [IAM](./IAM/index.md) | 6 |
 | [Lambda](./Lambda/index.md) | 5 |
 | [CloudWatch](./CloudWatch/index.md) | 4 |
