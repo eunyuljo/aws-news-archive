@@ -8,9 +8,9 @@ nav_exclude: false
 
 총 6건
 
-- [AWS IAM identity federation to external services is now available in AWS European Sovereign Cloud Region](../../news/2026/08/2026-08-29_aws-iam-identity-federation-to-external-services-is-now-available-in-aws-europea.md) `2026-08-29` [GA] [new-region] [security]
-- [AWS IAM now supports 20 managed policies per role by default](../../news/2026/08/2026-08-29_aws-iam-now-supports-20-managed-policies-per-role-by-default.md) `2026-08-29` [new-region] [security]
-- [Amazon SageMaker notebooks now support trusted identity propagation](../../news/2026/08/2026-08-29_amazon-sagemaker-notebooks-now-support-trusted-identity-propagation.md) `2026-08-29` [new-region] [security]
-- [Launching External Web Access for Web Search on Amazon Bedrock](../../news/2026/08/2026-08-29_launching-external-web-access-for-web-search-on-amazon-bedrock.md) `2026-08-29` [GA] [price-reduction] [new-region] [security] [ai-ml]
-- [AWS Partner Central agents MCP Server now supports OAuth with AWS Sign-In](../../news/2026/08/2026-08-29_aws-partner-central-agents-mcp-server-now-supports-oauth-with-aws-sign-in.md) `2026-08-29` [new-region] [security]
-- [IAM Roles Anywhere now provides a Java plugin for the AWS SDK](../../news/2026/08/2026-08-29_iam-roles-anywhere-now-provides-a-java-plugin-for-the-aws-sdk.md) `2026-08-29` [new-region] [security]
+- [AWS IAM identity federation to external services is now available in AWS European Sovereign Cloud Region](../../news/2026/08/2026-08-30_aws-iam-identity-federation-to-external-services-is-now-available-in-aws-europea.md) `2026-08-30` [GA] [new-region] [security]
+- [AWS IAM now supports 20 managed policies per role by default](../../news/2026/08/2026-08-30_aws-iam-now-supports-20-managed-policies-per-role-by-default.md) `2026-08-30` [new-region] [security]
+- [Amazon SageMaker notebooks now support trusted identity propagation](../../news/2026/08/2026-08-30_amazon-sagemaker-notebooks-now-support-trusted-identity-propagation.md) `2026-08-30` [new-region] [security]
+- [Launching External Web Access for Web Search on Amazon Bedrock](../../news/2026/08/2026-08-30_launching-external-web-access-for-web-search-on-amazon-bedrock.md) `2026-08-30` [GA] [price-reduction] [new-region] [security] [ai-ml]
+- [AWS Partner Central agents MCP Server now supports OAuth with AWS Sign-In](../../news/2026/08/2026-08-30_aws-partner-central-agents-mcp-server-now-supports-oauth-with-aws-sign-in.md) `2026-08-30` [new-region] [security]
+- [IAM Roles Anywhere now provides a Java plugin for the AWS SDK](../../news/2026/08/2026-08-30_iam-roles-anywhere-now-provides-a-java-plugin-for-the-aws-sdk.md) `2026-08-30` [new-region] [security]

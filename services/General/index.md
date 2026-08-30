@@ -5,12 +5,12 @@ parent: Services
 
 # General — AWS 뉴스
 
-총 **2건** | 최근 업데이트: 2026-08-29
+총 **2건** | 최근 업데이트: 2026-08-30
 
 ---
 
 
 ## 2026
 
-- [AWS Security Agent (now part of AWS Continuum) now supports budget controls and finding revalidation](../../news/2026/08/2026-08-29_aws-security-agent-now-part-of-aws-continuum-now-supports-budget-controls-and-fi.md) `2026-08-29`
-- [AWS ParallelCluster 3.16 adds an on-node diagnostics tool](../../news/2026/08/2026-08-29_aws-parallelcluster-316-adds-an-on-node-diagnostics-tool.md) `2026-08-29`
+- [AWS Security Agent (now part of AWS Continuum) now supports budget controls and finding revalidation](../../news/2026/08/2026-08-30_aws-security-agent-now-part-of-aws-continuum-now-supports-budget-controls-and-fi.md) `2026-08-30`
+- [AWS ParallelCluster 3.16 adds an on-node diagnostics tool](../../news/2026/08/2026-08-30_aws-parallelcluster-316-adds-an-on-node-diagnostics-tool.md) `2026-08-30`

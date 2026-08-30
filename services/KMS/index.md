@@ -5,11 +5,11 @@ parent: Services
 
 # KMS — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-08-29
+총 **1건** | 최근 업데이트: 2026-08-30
 
 ---
 
 
 ## 2026
 
-- [Amazon Timestream for InfluxDB now supports customer managed keys](../../news/2026/08/2026-08-29_amazon-timestream-for-influxdb-now-supports-customer-managed-keys.md) `2026-08-29`
+- [Amazon Timestream for InfluxDB now supports customer managed keys](../../news/2026/08/2026-08-30_amazon-timestream-for-influxdb-now-supports-customer-managed-keys.md) `2026-08-30`
