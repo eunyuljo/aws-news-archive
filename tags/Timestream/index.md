@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS IoT Core now supports native InfluxDB routing for time-series data](../../news/2026/08/2026-08-30_aws-iot-core-now-supports-native-influxdb-routing-for-time-series-data.md) `2026-08-30` [price-reduction] [new-region] [performance]
+- [AWS IoT Core now supports native InfluxDB routing for time-series data](../../news/2026/08/2026-08-31_aws-iot-core-now-supports-native-influxdb-routing-for-time-series-data.md) `2026-08-31` [price-reduction] [new-region] [performance]

@@ -5,12 +5,12 @@ parent: Services
 
 # FSx — AWS 뉴스
 
-총 **2건** | 최근 업데이트: 2026-08-30
+총 **2건** | 최근 업데이트: 2026-08-31
 
 ---
 
 
 ## 2026
 
-- [AWS Backup adds cross-Region and cross-account backup support for Amazon FSx for NetApp ONTAP](../../news/2026/08/2026-08-30_aws-backup-adds-cross-region-and-cross-account-backup-support-for-amazon-fsx-for.md) `2026-08-30`
-- [Amazon FSx for NetApp ONTAP now supports copying backups across AWS Regions and accounts](../../news/2026/08/2026-08-30_amazon-fsx-for-netapp-ontap-now-supports-copying-backups-across-aws-regions-and-.md) `2026-08-30`
+- [AWS Backup adds cross-Region and cross-account backup support for Amazon FSx for NetApp ONTAP](../../news/2026/08/2026-08-31_aws-backup-adds-cross-region-and-cross-account-backup-support-for-amazon-fsx-for.md) `2026-08-31`
+- [Amazon FSx for NetApp ONTAP now supports copying backups across AWS Regions and accounts](../../news/2026/08/2026-08-31_amazon-fsx-for-netapp-ontap-now-supports-copying-backups-across-aws-regions-and-.md) `2026-08-31`

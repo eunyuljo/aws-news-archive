@@ -10,15 +10,15 @@ has_children: true
 |------|------|
 | [2026](./2026/index.md) | 100 |
 | [new-region](./new-region/index.md) | 90 |
-| [GA](./GA/index.md) | 52 |
-| [performance](./performance/index.md) | 41 |
-| [price-reduction](./price-reduction/index.md) | 35 |
-| [security](./security/index.md) | 33 |
-| [ai-ml](./ai-ml/index.md) | 30 |
+| [GA](./GA/index.md) | 51 |
+| [performance](./performance/index.md) | 42 |
+| [price-reduction](./price-reduction/index.md) | 36 |
+| [security](./security/index.md) | 32 |
+| [ai-ml](./ai-ml/index.md) | 29 |
 | [EC2](./EC2/index.md) | 18 |
-| [RDS](./RDS/index.md) | 14 |
+| [RDS](./RDS/index.md) | 15 |
 | [Config](./Config/index.md) | 10 |
-| [Bedrock](./Bedrock/index.md) | 9 |
+| [Bedrock](./Bedrock/index.md) | 8 |
 | [S3](./S3/index.md) | 8 |
 | [IAM](./IAM/index.md) | 6 |
 | [Lambda](./Lambda/index.md) | 5 |
