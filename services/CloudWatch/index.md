@@ -5,14 +5,13 @@ parent: Services
 
 # CloudWatch — AWS 뉴스
 
-총 **4건** | 최근 업데이트: 2026-08-31
+총 **3건** | 최근 업데이트: 2026-09-01
 
 ---
 
 
 ## 2026
 
-- [AWS Elemental MediaConnect Router now supports configurable recovery latency modes](../../news/2026/08/2026-08-31_aws-elemental-mediaconnect-router-now-supports-configurable-recovery-latency-mod.md) `2026-08-31`
-- [Amazon CloudWatch log Centralization now supports log group tag propagation](../../news/2026/08/2026-08-31_amazon-cloudwatch-log-centralization-now-supports-log-group-tag-propagation.md) `2026-08-31`
-- [Amazon Aurora DSQL now supports Amazon CloudWatch Database Insights](../../news/2026/08/2026-08-31_amazon-aurora-dsql-now-supports-amazon-cloudwatch-database-insights.md) `2026-08-31`
-- [Amazon CloudWatch agent adds support for journald logs](../../news/2026/08/2026-08-31_amazon-cloudwatch-agent-adds-support-for-journald-logs.md) `2026-08-31`
+- [Amazon Aurora DSQL now supports Amazon CloudWatch Database Insights](../../news/2026/09/2026-09-01_amazon-aurora-dsql-now-supports-amazon-cloudwatch-database-insights.md) `2026-09-01`
+- [Amazon CloudWatch agent adds support for journald logs](../../news/2026/09/2026-09-01_amazon-cloudwatch-agent-adds-support-for-journald-logs.md) `2026-09-01`
+- [Amazon CloudWatch now supports warm-up periods for alarms](../../news/2026/09/2026-09-01_amazon-cloudwatch-now-supports-warm-up-periods-for-alarms.md) `2026-09-01`

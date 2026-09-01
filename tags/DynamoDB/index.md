@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon DynamoDB now supports real-time vector search](../../news/2026/08/2026-08-18_amazon-dynamodb-now-supports-real-time-vector-search.md) `2026-08-18` [performance] [ai-ml]
+- [Automated Security Response on AWS adds AI Toolkit for custom remediations](../../news/2026/09/2026-09-01_automated-security-response-on-aws-adds-ai-toolkit-for-custom-remediations.md) `2026-09-01` [new-region] [security] [ai-ml]

@@ -6,7 +6,8 @@ nav_exclude: false
 
 # 태그: EKS
 
-총 2건
+총 3건
 
-- [Amazon EKS Capability for Argo CD now supports custom configuration](../../news/2026/08/2026-08-31_amazon-eks-capability-for-argo-cd-now-supports-custom-configuration.md) `2026-08-31` [GA] [new-region]
-- [Amazon EKS now supports multiple external OIDC identity providers per cluster](../../news/2026/08/2026-08-31_amazon-eks-now-supports-multiple-external-oidc-identity-providers-per-cluster.md) `2026-08-31` [price-reduction] [new-region] [security]
+- [Amazon EKS Capability for Argo CD now supports custom configuration](../../news/2026/09/2026-09-01_amazon-eks-capability-for-argo-cd-now-supports-custom-configuration.md) `2026-09-01` [GA] [new-region]
+- [Amazon EKS now supports multiple external OIDC identity providers per cluster](../../news/2026/09/2026-09-01_amazon-eks-now-supports-multiple-external-oidc-identity-providers-per-cluster.md) `2026-09-01` [price-reduction] [new-region] [security]
+- [Amazon EMR on EKS now supports job run concurrency controls](../../news/2026/09/2026-09-01_amazon-emr-on-eks-now-supports-job-run-concurrency-controls.md) `2026-09-01` [GA] [new-region]

@@ -8,5 +8,5 @@ nav_exclude: false
 
 총 2건
 
-- [AWS Security Agent (now part of AWS Continuum) now supports budget controls and finding revalidation](../../news/2026/08/2026-08-31_aws-security-agent-now-part-of-aws-continuum-now-supports-budget-controls-and-fi.md) `2026-08-31` [price-reduction] [security] [ai-ml]
-- [AWS ParallelCluster 3.16 adds an on-node diagnostics tool](../../news/2026/08/2026-08-31_aws-parallelcluster-316-adds-an-on-node-diagnostics-tool.md) `2026-08-31` [GA] [new-region] [performance]
+- [AWS ParallelCluster 3.16 adds an on-node diagnostics tool](../../news/2026/09/2026-09-01_aws-parallelcluster-316-adds-an-on-node-diagnostics-tool.md) `2026-09-01` [GA] [new-region] [performance]
+- [Amazon WorkSpaces Applications is now available in three new AWS Regions](../../news/2026/09/2026-09-01_amazon-workspaces-applications-is-now-available-in-three-new-aws-regions.md) `2026-09-01` [GA] [new-region] [security]

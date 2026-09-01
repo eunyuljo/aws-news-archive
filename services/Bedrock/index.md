@@ -5,18 +5,17 @@ parent: Services
 
 # Bedrock — AWS 뉴스
 
-총 **8건** | 최근 업데이트: 2026-08-31
+총 **7건** | 최근 업데이트: 2026-09-01
 
 ---
 
 
 ## 2026
 
-- [AWS Cost Anomaly Detection supports third-party models on Amazon Bedrock](../../news/2026/08/2026-08-31_aws-cost-anomaly-detection-supports-third-party-models-on-amazon-bedrock.md) `2026-08-31`
-- [Web Search in Amazon Bedrock AgentCore adds domain and published date filtering, expands to Europe and Asia Pacific](../../news/2026/08/2026-08-31_web-search-in-amazon-bedrock-agentcore-adds-domain-and-published-date-filtering-.md) `2026-08-31`
-- [Amazon Bedrock AgentCore Memory now supports extracting memories from non-conversational JSON payloads](../../news/2026/08/2026-08-31_amazon-bedrock-agentcore-memory-now-supports-extracting-memories-from-non-conver.md) `2026-08-31`
-- [Amazon Bedrock announces reduced pricing for OpenAI GPT-5.6 Sol](../../news/2026/08/2026-08-31_amazon-bedrock-announces-reduced-pricing-for-openai-gpt-56-sol.md) `2026-08-31`
-- [OpenAI GPT-5.6 Terra and Luna now available on Amazon Bedrock in AWS GovCloud (US)](../../news/2026/08/2026-08-31_openai-gpt-56-terra-and-luna-now-available-on-amazon-bedrock-in-aws-govcloud-us.md) `2026-08-31`
-- [Amazon Bedrock AgentCore expands to two new regions](../../news/2026/08/2026-08-31_amazon-bedrock-agentcore-expands-to-two-new-regions.md) `2026-08-31`
-- [SpaceXAI Grok 4.6 now available on Amazon Bedrock in AWS GovCloud (US)](../../news/2026/08/2026-08-31_spacexai-grok-46-now-available-on-amazon-bedrock-in-aws-govcloud-us.md) `2026-08-31`
-- [Amazon Bedrock AgentCore Memory now supports flexible namespace variables](../../news/2026/08/2026-08-31_amazon-bedrock-agentcore-memory-now-supports-flexible-namespace-variables.md) `2026-08-31`
+- [Amazon Bedrock AgentCore Memory now supports extracting memories from non-conversational JSON payloads](../../news/2026/09/2026-09-01_amazon-bedrock-agentcore-memory-now-supports-extracting-memories-from-non-conver.md) `2026-09-01`
+- [Amazon Bedrock announces reduced pricing for OpenAI GPT-5.6 Sol](../../news/2026/09/2026-09-01_amazon-bedrock-announces-reduced-pricing-for-openai-gpt-56-sol.md) `2026-09-01`
+- [OpenAI GPT-5.6 Terra and Luna now available on Amazon Bedrock in AWS GovCloud (US)](../../news/2026/09/2026-09-01_openai-gpt-56-terra-and-luna-now-available-on-amazon-bedrock-in-aws-govcloud-us.md) `2026-09-01`
+- [Amazon Bedrock AgentCore expands to two new regions](../../news/2026/09/2026-09-01_amazon-bedrock-agentcore-expands-to-two-new-regions.md) `2026-09-01`
+- [SpaceXAI Grok 4.6 now available on Amazon Bedrock in AWS GovCloud (US)](../../news/2026/09/2026-09-01_spacexai-grok-46-now-available-on-amazon-bedrock-in-aws-govcloud-us.md) `2026-09-01`
+- [Amazon Bedrock AgentCore Memory now supports flexible namespace variables](../../news/2026/09/2026-09-01_amazon-bedrock-agentcore-memory-now-supports-flexible-namespace-variables.md) `2026-09-01`
+- [AWS Agent Registry agents and MCP servers now available in Amazon Quick](../../news/2026/09/2026-09-01_aws-agent-registry-agents-and-mcp-servers-now-available-in-amazon-quick.md) `2026-09-01`

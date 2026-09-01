@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Timestream for InfluxDB now supports customer managed keys](../../news/2026/08/2026-08-31_amazon-timestream-for-influxdb-now-supports-customer-managed-keys.md) `2026-08-31` [new-region] [security]
+- [Amazon Timestream for InfluxDB now supports customer managed keys](../../news/2026/09/2026-09-01_amazon-timestream-for-influxdb-now-supports-customer-managed-keys.md) `2026-09-01` [new-region] [security]

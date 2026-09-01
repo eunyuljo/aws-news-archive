@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Storage Gateway now supports FIPS-compliant private connectivity for Tape and Volume Gateway](../../news/2026/08/2026-08-31_aws-storage-gateway-now-supports-fips-compliant-private-connectivity-for-tape-an.md) `2026-08-31` [GA] [new-region] [security]
+- [Amazon Cognito now supports machine-to-machine authorization without a user pool domain](../../news/2026/09/2026-09-01_amazon-cognito-now-supports-machine-to-machine-authorization-without-a-user-pool.md) `2026-09-01` [new-region]

@@ -5,11 +5,11 @@ parent: Services
 
 # VPC — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-08-31
+총 **1건** | 최근 업데이트: 2026-09-01
 
 ---
 
 
 ## 2026
 
-- [AWS Storage Gateway now supports FIPS-compliant private connectivity for Tape and Volume Gateway](../../news/2026/08/2026-08-31_aws-storage-gateway-now-supports-fips-compliant-private-connectivity-for-tape-an.md) `2026-08-31`
+- [Amazon Cognito now supports machine-to-machine authorization without a user pool domain](../../news/2026/09/2026-09-01_amazon-cognito-now-supports-machine-to-machine-authorization-without-a-user-pool.md) `2026-09-01`
