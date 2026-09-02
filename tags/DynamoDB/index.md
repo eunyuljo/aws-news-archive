@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Automated Security Response on AWS adds AI Toolkit for custom remediations](../../news/2026/09/2026-09-01_automated-security-response-on-aws-adds-ai-toolkit-for-custom-remediations.md) `2026-09-01` [new-region] [security] [ai-ml]
+- [Automated Security Response on AWS adds AI Toolkit for custom remediations](../../news/2026/09/2026-09-02_automated-security-response-on-aws-adds-ai-toolkit-for-custom-remediations.md) `2026-09-02` [new-region] [security] [ai-ml]

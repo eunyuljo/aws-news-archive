@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Secrets Manager adds managed external secrets support for Cisco Security Platform and Netskope](../../news/2026/09/2026-09-01_aws-secrets-manager-adds-managed-external-secrets-support-for-cisco-security-pla.md) `2026-09-01` [new-region] [security]
+- [AWS Secrets Manager adds managed external secrets support for Cisco Security Platform and Netskope](../../news/2026/09/2026-09-02_aws-secrets-manager-adds-managed-external-secrets-support-for-cisco-security-pla.md) `2026-09-02` [new-region] [security]

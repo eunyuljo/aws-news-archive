@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Transform now in scope for FedRAMP Class C](../../news/2026/09/2026-09-01_aws-transform-now-in-scope-for-fedramp-class-c.md) `2026-09-01` [new-region] [security]
+- [AWS Transform now in scope for FedRAMP Class C](../../news/2026/09/2026-09-02_aws-transform-now-in-scope-for-fedramp-class-c.md) `2026-09-02` [new-region] [security]

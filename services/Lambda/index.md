@@ -5,15 +5,14 @@ parent: Services
 
 # Lambda — AWS 뉴스
 
-총 **5건** | 최근 업데이트: 2026-09-01
+총 **4건** | 최근 업데이트: 2026-09-02
 
 ---
 
 
 ## 2026
 
-- [Amazon CloudFront now supports Origin Access Control (OAC) for Amazon S3 Multi-Region Access Points](../../news/2026/09/2026-09-01_amazon-cloudfront-now-supports-origin-access-control-oac-for-amazon-s3-multi-reg.md) `2026-09-01`
-- [AWS Lambda functions now support full IAM resource-based policies](../../news/2026/09/2026-09-01_aws-lambda-functions-now-support-full-iam-resource-based-policies.md) `2026-09-01`
-- [AWS Lambda introduces managed runtimes in public preview for Node.js 26 and Python 3.15](../../news/2026/09/2026-09-01_aws-lambda-introduces-managed-runtimes-in-public-preview-for-nodejs-26-and-pytho.md) `2026-09-01`
-- [AWS Lambda MicroVMs now supports AWS PrivateLink](../../news/2026/09/2026-09-01_aws-lambda-microvms-now-supports-aws-privatelink.md) `2026-09-01`
-- [AWS Lambda recursive loop detection is now available in all commercial AWS Regions](../../news/2026/09/2026-09-01_aws-lambda-recursive-loop-detection-is-now-available-in-all-commercial-aws-regio.md) `2026-09-01`
+- [AWS Lambda functions now support full IAM resource-based policies](../../news/2026/09/2026-09-02_aws-lambda-functions-now-support-full-iam-resource-based-policies.md) `2026-09-02`
+- [AWS Lambda introduces managed runtimes in public preview for Node.js 26 and Python 3.15](../../news/2026/09/2026-09-02_aws-lambda-introduces-managed-runtimes-in-public-preview-for-nodejs-26-and-pytho.md) `2026-09-02`
+- [AWS Lambda MicroVMs now supports AWS PrivateLink](../../news/2026/09/2026-09-02_aws-lambda-microvms-now-supports-aws-privatelink.md) `2026-09-02`
+- [AWS Lambda recursive loop detection is now available in all commercial AWS Regions](../../news/2026/09/2026-09-02_aws-lambda-recursive-loop-detection-is-now-available-in-all-commercial-aws-regio.md) `2026-09-02`

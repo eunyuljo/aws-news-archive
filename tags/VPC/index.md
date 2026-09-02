@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Cognito now supports machine-to-machine authorization without a user pool domain](../../news/2026/09/2026-09-01_amazon-cognito-now-supports-machine-to-machine-authorization-without-a-user-pool.md) `2026-09-01` [new-region]
+- [Amazon Cognito now supports machine-to-machine authorization without a user pool domain](../../news/2026/09/2026-09-02_amazon-cognito-now-supports-machine-to-machine-authorization-without-a-user-pool.md) `2026-09-02` [new-region]
