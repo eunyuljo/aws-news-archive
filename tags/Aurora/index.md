@@ -8,7 +8,7 @@ nav_exclude: false
 
 총 4건
 
-- [Amazon Aurora now supports PostgreSQL 18.4, 17.10, 16.14, 15.18, and 14.23](../../news/2026/09/2026-09-02_amazon-aurora-now-supports-postgresql-184-1710-1614-1518-and-1423.md) `2026-09-02` [price-reduction] [new-region] [performance] [security]
-- [Amazon Aurora DSQL now supports foreign key constraints](../../news/2026/09/2026-09-02_amazon-aurora-dsql-now-supports-foreign-key-constraints.md) `2026-09-02` [new-region]
-- [Amazon Aurora MySQL 3.13 (compatible with MySQL 8.0.45) is generally available](../../news/2026/09/2026-09-02_amazon-aurora-mysql-313-compatible-with-mysql-8045-is-generally-available.md) `2026-09-02` [GA] [price-reduction] [new-region] [performance] [security]
-- [Amazon Aurora serverless is now available with 30% better performance and smarter scaling in additional AWS Regions](../../news/2026/09/2026-09-02_amazon-aurora-serverless-is-now-available-with-30-better-performance-and-smarter.md) `2026-09-02` [GA] [price-reduction] [new-region] [performance] [ai-ml]
+- [Amazon Aurora now supports PostgreSQL 18.4, 17.10, 16.14, 15.18, and 14.23](../../news/2026/09/2026-09-03_amazon-aurora-now-supports-postgresql-184-1710-1614-1518-and-1423.md) `2026-09-03` [price-reduction] [new-region] [performance] [security]
+- [Amazon Aurora DSQL now supports foreign key constraints](../../news/2026/09/2026-09-03_amazon-aurora-dsql-now-supports-foreign-key-constraints.md) `2026-09-03` [new-region]
+- [Amazon Aurora MySQL 3.13 (compatible with MySQL 8.0.45) is generally available](../../news/2026/09/2026-09-03_amazon-aurora-mysql-313-compatible-with-mysql-8045-is-generally-available.md) `2026-09-03` [GA] [price-reduction] [new-region] [performance] [security]
+- [Amazon Aurora serverless is now available with 30% better performance and smarter scaling in additional AWS Regions](../../news/2026/09/2026-09-03_amazon-aurora-serverless-is-now-available-with-30-better-performance-and-smarter.md) `2026-09-03` [GA] [price-reduction] [new-region] [performance] [ai-ml]
