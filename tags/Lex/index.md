@@ -6,7 +6,6 @@ nav_exclude: false
 
 # 태그: Lex
 
-총 2건
+총 1건
 
-- [AWS Console-to-Code adds 26 services and cross-region recording​](../../news/2026/08/2026-08-27_aws-console-to-code-adds-26-services-and-cross-region-recording.md) `2026-08-27` [new-region]
-- [Amazon Quick Microsoft 365 extensions are now generally available](../../news/2026/08/2026-08-27_amazon-quick-microsoft-365-extensions-are-now-generally-available.md) `2026-08-27` [GA] [ai-ml]
+- [Amazon SES now supports S/MIME email signing](../../news/2026/09/2026-09-04_amazon-ses-now-supports-smime-email-signing.md) `2026-09-04` [new-region] [security]
