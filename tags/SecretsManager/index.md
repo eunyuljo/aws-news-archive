@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Secrets Manager adds managed external secrets support for Cisco Security Platform and Netskope](../../news/2026/09/2026-09-03_aws-secrets-manager-adds-managed-external-secrets-support-for-cisco-security-pla.md) `2026-09-03` [new-region] [security]
+- [AWS Transfer Family SFTP Connectors now support continuing file transfers during credential rotation](../../news/2026/09/2026-09-05_aws-transfer-family-sftp-connectors-now-support-continuing-file-transfers-during.md) `2026-09-05` [new-region]

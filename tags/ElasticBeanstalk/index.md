@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Elastic Beanstalk now supports Active Directory domain join for Windows Server environments](../../news/2026/09/2026-09-04_aws-elastic-beanstalk-now-supports-active-directory-domain-join-for-windows-serv.md) `2026-09-04` [GA] [new-region]
+- [AWS Elastic Beanstalk now supports Active Directory domain join for Windows Server environments](../../news/2026/09/2026-09-05_aws-elastic-beanstalk-now-supports-active-directory-domain-join-for-windows-serv.md) `2026-09-05` [GA] [new-region]

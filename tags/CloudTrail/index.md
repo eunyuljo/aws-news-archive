@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Partner Revenue Measurement expands service coverage for User Agent string capability](../../news/2026/09/2026-09-04_partner-revenue-measurement-expands-service-coverage-for-user-agent-string-capab.md) `2026-09-04` [GA] [new-region]
+- [Partner Revenue Measurement expands service coverage for User Agent string capability](../../news/2026/09/2026-09-05_partner-revenue-measurement-expands-service-coverage-for-user-agent-string-capab.md) `2026-09-05` [GA] [new-region]

@@ -23,17 +23,17 @@ aws-news-archive/
 
 - **전체 뉴스:** 100건
 - **수집 서비스:** 26개
-- **마지막 업데이트:** 2026-09-04 13:22 UTC
+- **마지막 업데이트:** 2026-09-05 12:30 UTC
 
 ## 많이 업데이트된 서비스 TOP 5
 
 | 서비스 | 뉴스 수 |
 |--------|---------|
-| [RDS](./services/RDS/index.md) | 17 |
+| [RDS](./services/RDS/index.md) | 16 |
 | [EC2](./services/EC2/index.md) | 14 |
-| [Connect](./services/Connect/index.md) | 9 |
-| [S3](./services/S3/index.md) | 9 |
-| [Config](./services/Config/index.md) | 6 |
+| [S3](./services/S3/index.md) | 11 |
+| [Connect](./services/Connect/index.md) | 8 |
+| [Bedrock](./services/Bedrock/index.md) | 7 |
 
 ## 전체 서비스 목록
 
