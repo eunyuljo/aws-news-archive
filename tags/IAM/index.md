@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Redshift now supports AWS IAM Identity Center authentication with enhanced VPC routing](../../news/2026/09/2026-09-05_amazon-redshift-now-supports-aws-iam-identity-center-authentication-with-enhance.md) `2026-09-05` [GA] [new-region] [security]
+- [Amazon Redshift now supports AWS IAM Identity Center authentication with enhanced VPC routing](../../news/2026/09/2026-09-06_amazon-redshift-now-supports-aws-iam-identity-center-authentication-with-enhance.md) `2026-09-06` [GA] [new-region] [security]
