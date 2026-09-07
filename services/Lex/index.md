@@ -5,11 +5,11 @@ parent: Services
 
 # Lex — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-09-06
+총 **1건** | 최근 업데이트: 2026-09-07
 
 ---
 
 
 ## 2026
 
-- [Amazon SES now supports S/MIME email signing](../../news/2026/09/2026-09-06_amazon-ses-now-supports-smime-email-signing.md) `2026-09-06`
+- [Amazon SES now supports S/MIME email signing](../../news/2026/09/2026-09-07_amazon-ses-now-supports-smime-email-signing.md) `2026-09-07`

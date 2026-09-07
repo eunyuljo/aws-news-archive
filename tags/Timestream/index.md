@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Timestream for InfluxDB is now available in 8 additional AWS Regions](../../news/2026/09/2026-09-06_amazon-timestream-for-influxdb-is-now-available-in-8-additional-aws-regions.md) `2026-09-06` [GA] [new-region]
+- [Amazon Timestream for InfluxDB is now available in 8 additional AWS Regions](../../news/2026/09/2026-09-07_amazon-timestream-for-influxdb-is-now-available-in-8-additional-aws-regions.md) `2026-09-07` [GA] [new-region]

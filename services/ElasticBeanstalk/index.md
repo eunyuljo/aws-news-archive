@@ -5,11 +5,11 @@ parent: Services
 
 # ElasticBeanstalk — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-09-06
+총 **1건** | 최근 업데이트: 2026-09-07
 
 ---
 
 
 ## 2026
 
-- [AWS Elastic Beanstalk now supports Active Directory domain join for Windows Server environments](../../news/2026/09/2026-09-06_aws-elastic-beanstalk-now-supports-active-directory-domain-join-for-windows-serv.md) `2026-09-06`
+- [AWS Elastic Beanstalk now supports Active Directory domain join for Windows Server environments](../../news/2026/09/2026-09-07_aws-elastic-beanstalk-now-supports-active-directory-domain-join-for-windows-serv.md) `2026-09-07`

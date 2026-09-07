@@ -8,5 +8,5 @@ nav_exclude: false
 
 총 2건
 
-- [Amazon Cognito now supports machine-to-machine authorization without a user pool domain](../../news/2026/09/2026-09-06_amazon-cognito-now-supports-machine-to-machine-authorization-without-a-user-pool.md) `2026-09-06` [new-region]
-- [Amazon MemoryDB now supports AWS PrivateLink in the AWS GovCloud (US) Regions](../../news/2026/09/2026-09-06_amazon-memorydb-now-supports-aws-privatelink-in-the-aws-govcloud-us-regions.md) `2026-09-06` [new-region]
+- [Amazon Cognito now supports machine-to-machine authorization without a user pool domain](../../news/2026/09/2026-09-07_amazon-cognito-now-supports-machine-to-machine-authorization-without-a-user-pool.md) `2026-09-07` [new-region]
+- [Amazon MemoryDB now supports AWS PrivateLink in the AWS GovCloud (US) Regions](../../news/2026/09/2026-09-07_amazon-memorydb-now-supports-aws-privatelink-in-the-aws-govcloud-us-regions.md) `2026-09-07` [new-region]
