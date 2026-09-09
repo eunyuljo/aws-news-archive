@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Muse-Glimmer-30B and Qwen 3.8-27B models now available on Amazon SageMaker JumpStart](../../news/2026/09/2026-09-08_muse-glimmer-30b-and-qwen-38-27b-models-now-available-on-amazon-sagemaker-jumpst.md) `2026-09-08` [GA] [performance] [ai-ml]
+- [Amazon SageMaker Feature Store now supports individual feature updates to lower write latency](../../news/2026/09/2026-09-09_amazon-sagemaker-feature-store-now-supports-individual-feature-updates-to-lower-.md) `2026-09-09` [GA] [price-reduction] [new-region] [performance] [ai-ml]

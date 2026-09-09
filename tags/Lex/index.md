@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon SES now supports S/MIME email signing](../../news/2026/09/2026-09-08_amazon-ses-now-supports-smime-email-signing.md) `2026-09-08` [new-region] [security]
+- [Amazon SES now supports S/MIME email signing](../../news/2026/09/2026-09-09_amazon-ses-now-supports-smime-email-signing.md) `2026-09-09` [new-region] [security]

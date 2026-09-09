@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon CloudFront announces API support for flat-rate pricing plans](../../news/2026/09/2026-09-08_amazon-cloudfront-announces-api-support-for-flat-rate-pricing-plans.md) `2026-09-08` [price-reduction]
+- [Amazon CloudFront announces API support for flat-rate pricing plans](../../news/2026/09/2026-09-09_amazon-cloudfront-announces-api-support-for-flat-rate-pricing-plans.md) `2026-09-09` [price-reduction]

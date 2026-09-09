@@ -6,8 +6,6 @@ nav_exclude: false
 
 # 태그: FSx
 
-총 3건
+총 1건
 
-- [AWS Backup adds cross-Region and cross-account backup support for Amazon FSx for NetApp ONTAP](../../news/2026/09/2026-09-08_aws-backup-adds-cross-region-and-cross-account-backup-support-for-amazon-fsx-for.md) `2026-09-08` [new-region]
-- [Amazon FSx for NetApp ONTAP now supports copying backups across AWS Regions and accounts](../../news/2026/09/2026-09-08_amazon-fsx-for-netapp-ontap-now-supports-copying-backups-across-aws-regions-and-.md) `2026-09-08` [new-region] [security]
-- [AWS Transform announces general availability of Amazon FSx for NetApp ONTAP support](../../news/2026/09/2026-09-08_aws-transform-announces-general-availability-of-amazon-fsx-for-netapp-ontap-supp.md) `2026-09-08` [GA] [new-region]
+- [AWS Transform announces general availability of Amazon FSx for NetApp ONTAP support](../../news/2026/09/2026-09-09_aws-transform-announces-general-availability-of-amazon-fsx-for-netapp-ontap-supp.md) `2026-09-09` [GA] [new-region]
