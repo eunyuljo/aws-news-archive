@@ -5,11 +5,11 @@ parent: Services
 
 # CloudTrail — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-09-09
+총 **1건** | 최근 업데이트: 2026-09-10
 
 ---
 
 
 ## 2026
 
-- [Partner Revenue Measurement expands service coverage for User Agent string capability](../../news/2026/09/2026-09-09_partner-revenue-measurement-expands-service-coverage-for-user-agent-string-capab.md) `2026-09-09`
+- [Partner Revenue Measurement expands service coverage for User Agent string capability](../../news/2026/09/2026-09-10_partner-revenue-measurement-expands-service-coverage-for-user-agent-string-capab.md) `2026-09-10`

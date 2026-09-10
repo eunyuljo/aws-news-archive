@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Timestream for InfluxDB now supports customer managed keys](../../news/2026/09/2026-09-02_amazon-timestream-for-influxdb-now-supports-customer-managed-keys.md) `2026-09-02` [new-region] [security]
+- [Amazon EBS Volume Clones now supports copying volumes across accounts](../../news/2026/09/2026-09-10_amazon-ebs-volume-clones-now-supports-copying-volumes-across-accounts.md) `2026-09-10` [new-region] [security]

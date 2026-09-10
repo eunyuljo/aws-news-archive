@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Redshift now supports concurrency scaling of streaming ingestion workloads from Amazon Kinesis data streams](../../news/2026/09/2026-09-02_amazon-redshift-now-supports-concurrency-scaling-of-streaming-ingestion-workload.md) `2026-09-02` [price-reduction] [new-region] [performance]
+- [Amazon Connect Customer Profiles now sends events when customers enter or exit segments](../../news/2026/09/2026-09-10_amazon-connect-customer-profiles-now-sends-events-when-customers-enter-or-exit-s.md) `2026-09-10` [new-region]

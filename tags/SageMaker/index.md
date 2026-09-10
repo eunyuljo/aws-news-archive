@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon SageMaker Feature Store now supports individual feature updates to lower write latency](../../news/2026/09/2026-09-09_amazon-sagemaker-feature-store-now-supports-individual-feature-updates-to-lower-.md) `2026-09-09` [GA] [price-reduction] [new-region] [performance] [ai-ml]
+- [Amazon SageMaker Feature Store now supports individual feature updates to lower write latency](../../news/2026/09/2026-09-10_amazon-sagemaker-feature-store-now-supports-individual-feature-updates-to-lower-.md) `2026-09-10` [GA] [price-reduction] [new-region] [performance] [ai-ml]

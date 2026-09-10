@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon ECS introduces Early Success Criteria for service deployments](../../news/2026/09/2026-09-09_amazon-ecs-introduces-early-success-criteria-for-service-deployments.md) `2026-09-09` [GA] [new-region] [ai-ml]
+- [Amazon ECS introduces Early Success Criteria for service deployments](../../news/2026/09/2026-09-10_amazon-ecs-introduces-early-success-criteria-for-service-deployments.md) `2026-09-10` [GA] [new-region] [ai-ml]

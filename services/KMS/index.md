@@ -5,11 +5,11 @@ parent: Services
 
 # KMS — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-09-02
+총 **1건** | 최근 업데이트: 2026-09-10
 
 ---
 
 
 ## 2026
 
-- [Amazon Timestream for InfluxDB now supports customer managed keys](../../news/2026/09/2026-09-02_amazon-timestream-for-influxdb-now-supports-customer-managed-keys.md) `2026-09-02`
+- [Amazon EBS Volume Clones now supports copying volumes across accounts](../../news/2026/09/2026-09-10_amazon-ebs-volume-clones-now-supports-copying-volumes-across-accounts.md) `2026-09-10`

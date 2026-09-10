@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Transform announces general availability of Amazon FSx for NetApp ONTAP support](../../news/2026/09/2026-09-09_aws-transform-announces-general-availability-of-amazon-fsx-for-netapp-ontap-supp.md) `2026-09-09` [GA] [new-region]
+- [AWS Transform announces general availability of Amazon FSx for NetApp ONTAP support](../../news/2026/09/2026-09-10_aws-transform-announces-general-availability-of-amazon-fsx-for-netapp-ontap-supp.md) `2026-09-10` [GA] [new-region]

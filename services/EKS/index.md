@@ -5,12 +5,12 @@ parent: Services
 
 # EKS — AWS 뉴스
 
-총 **2건** | 최근 업데이트: 2026-09-09
+총 **2건** | 최근 업데이트: 2026-09-10
 
 ---
 
 
 ## 2026
 
-- [Amazon EMR on EKS now supports job run concurrency controls](../../news/2026/09/2026-09-09_amazon-emr-on-eks-now-supports-job-run-concurrency-controls.md) `2026-09-09`
-- [Amazon Connect Customer announces general availability of agentic CX designer](../../news/2026/09/2026-09-09_amazon-connect-customer-announces-general-availability-of-agentic-cx-designer.md) `2026-09-09`
+- [Amazon Connect Customer announces general availability of agentic CX designer](../../news/2026/09/2026-09-10_amazon-connect-customer-announces-general-availability-of-agentic-cx-designer.md) `2026-09-10`
+- [AWS Private CA EKS add-on and Connector for AD now available in AWS GovCloud (US)](../../news/2026/09/2026-09-10_aws-private-ca-eks-add-on-and-connector-for-ad-now-available-in-aws-govcloud-us.md) `2026-09-10`
