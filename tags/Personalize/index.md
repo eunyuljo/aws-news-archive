@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Partner Central introduces Partner Lead Prospecting](../../news/2026/07/2026-07-22_aws-partner-central-introduces-partner-lead-prospecting.md) `2026-07-22` [GA] [performance]
+- [AWS Elemental MediaTailor now supports Low-Latency HLS ad insertion](../../news/2026/09/2026-09-11_aws-elemental-mediatailor-now-supports-low-latency-hls-ad-insertion.md) `2026-09-11` [GA] [new-region] [performance]

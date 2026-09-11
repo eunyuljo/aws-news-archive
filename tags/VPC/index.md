@@ -6,7 +6,6 @@ nav_exclude: false
 
 # 태그: VPC
 
-총 2건
+총 1건
 
-- [Amazon Cognito now supports machine-to-machine authorization without a user pool domain](../../news/2026/09/2026-09-10_amazon-cognito-now-supports-machine-to-machine-authorization-without-a-user-pool.md) `2026-09-10` [new-region]
-- [Amazon MemoryDB now supports AWS PrivateLink in the AWS GovCloud (US) Regions](../../news/2026/09/2026-09-10_amazon-memorydb-now-supports-aws-privatelink-in-the-aws-govcloud-us-regions.md) `2026-09-10` [new-region]
+- [Amazon MemoryDB now supports AWS PrivateLink in the AWS GovCloud (US) Regions](../../news/2026/09/2026-09-11_amazon-memorydb-now-supports-aws-privatelink-in-the-aws-govcloud-us-regions.md) `2026-09-11` [new-region]
