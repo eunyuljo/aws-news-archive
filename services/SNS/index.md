@@ -5,11 +5,11 @@ parent: Services
 
 # SNS — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-09-12
+총 **1건** | 최근 업데이트: 2026-09-13
 
 ---
 
 
 ## 2026
 
-- [Amazon GuardDuty adds optional threat detection rules](../../news/2026/09/2026-09-12_amazon-guardduty-adds-optional-threat-detection-rules.md) `2026-09-12`
+- [Amazon GuardDuty adds optional threat detection rules](../../news/2026/09/2026-09-13_amazon-guardduty-adds-optional-threat-detection-rules.md) `2026-09-13`
