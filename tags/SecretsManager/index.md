@@ -8,5 +8,5 @@ nav_exclude: false
 
 총 2건
 
-- [AWS Transfer Family SFTP Connectors now support continuing file transfers during credential rotation](../../news/2026/09/2026-09-13_aws-transfer-family-sftp-connectors-now-support-continuing-file-transfers-during.md) `2026-09-13` [new-region]
-- [Amazon Timestream for InfluxDB 3 now supports custom plugins](../../news/2026/09/2026-09-13_amazon-timestream-for-influxdb-3-now-supports-custom-plugins.md) `2026-09-13` [new-region]
+- [AWS Transfer Family SFTP Connectors now support continuing file transfers during credential rotation](../../news/2026/09/2026-09-14_aws-transfer-family-sftp-connectors-now-support-continuing-file-transfers-during.md) `2026-09-14` [new-region]
+- [Amazon Timestream for InfluxDB 3 now supports custom plugins](../../news/2026/09/2026-09-14_amazon-timestream-for-influxdb-3-now-supports-custom-plugins.md) `2026-09-14` [new-region]

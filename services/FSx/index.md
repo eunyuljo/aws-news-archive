@@ -5,11 +5,11 @@ parent: Services
 
 # FSx — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-09-13
+총 **1건** | 최근 업데이트: 2026-09-14
 
 ---
 
 
 ## 2026
 
-- [AWS Transform announces general availability of Amazon FSx for NetApp ONTAP support](../../news/2026/09/2026-09-13_aws-transform-announces-general-availability-of-amazon-fsx-for-netapp-ontap-supp.md) `2026-09-13`
+- [AWS Transform announces general availability of Amazon FSx for NetApp ONTAP support](../../news/2026/09/2026-09-14_aws-transform-announces-general-availability-of-amazon-fsx-for-netapp-ontap-supp.md) `2026-09-14`
