@@ -5,14 +5,14 @@ parent: Services
 
 # Config — AWS 뉴스
 
-총 **4건** | 최근 업데이트: 2026-09-14
+총 **4건** | 최근 업데이트: 2026-09-15
 
 ---
 
 
 ## 2026
 
-- [AWS HealthOmics introduces resource fallback order for WDL workflows](../../news/2026/09/2026-09-14_aws-healthomics-introduces-resource-fallback-order-for-wdl-workflows.md) `2026-09-14`
-- [Amazon Connect Customer now lets you set specific capacity limits for different types of Tasks and Emails](../../news/2026/09/2026-09-14_amazon-connect-customer-now-lets-you-set-specific-capacity-limits-for-different-.md) `2026-09-14`
-- [Amazon MQ now supports RabbitMQ 4.3](../../news/2026/09/2026-09-14_amazon-mq-now-supports-rabbitmq-43.md) `2026-09-14`
-- [AWS Elemental MediaLive enables frame-accurate pipeline locking for streams without timecode](../../news/2026/09/2026-09-14_aws-elemental-medialive-enables-frame-accurate-pipeline-locking-for-streams-with.md) `2026-09-14`
+- [AWS HealthOmics introduces resource fallback order for WDL workflows](../../news/2026/09/2026-09-15_aws-healthomics-introduces-resource-fallback-order-for-wdl-workflows.md) `2026-09-15`
+- [Amazon Connect Customer now lets you set specific capacity limits for different types of Tasks and Emails](../../news/2026/09/2026-09-15_amazon-connect-customer-now-lets-you-set-specific-capacity-limits-for-different-.md) `2026-09-15`
+- [Amazon MQ now supports RabbitMQ 4.3](../../news/2026/09/2026-09-15_amazon-mq-now-supports-rabbitmq-43.md) `2026-09-15`
+- [AWS Elemental MediaLive enables frame-accurate pipeline locking for streams without timecode](../../news/2026/09/2026-09-15_aws-elemental-medialive-enables-frame-accurate-pipeline-locking-for-streams-with.md) `2026-09-15`
