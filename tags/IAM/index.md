@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Redshift now supports AWS IAM Identity Center authentication with enhanced VPC routing](../../news/2026/09/2026-09-10_amazon-redshift-now-supports-aws-iam-identity-center-authentication-with-enhance.md) `2026-09-10` [GA] [new-region] [security]
+- [Amazon SageMaker Unified Studio now supports ODBC connections for Microsoft Power BI and other analytics tools](../../news/2026/09/2026-09-16_amazon-sagemaker-unified-studio-now-supports-odbc-connections-for-microsoft-powe.md) `2026-09-16` [price-reduction] [new-region] [security]

@@ -5,12 +5,12 @@ parent: Services
 
 # SecretsManager — AWS 뉴스
 
-총 **2건** | 최근 업데이트: 2026-09-15
+총 **2건** | 최근 업데이트: 2026-09-16
 
 ---
 
 
 ## 2026
 
-- [AWS Transfer Family SFTP Connectors now support continuing file transfers during credential rotation](../../news/2026/09/2026-09-15_aws-transfer-family-sftp-connectors-now-support-continuing-file-transfers-during.md) `2026-09-15`
-- [Amazon Timestream for InfluxDB 3 now supports custom plugins](../../news/2026/09/2026-09-15_amazon-timestream-for-influxdb-3-now-supports-custom-plugins.md) `2026-09-15`
+- [AWS Transfer Family SFTP Connectors now support continuing file transfers during credential rotation](../../news/2026/09/2026-09-16_aws-transfer-family-sftp-connectors-now-support-continuing-file-transfers-during.md) `2026-09-16`
+- [Amazon Timestream for InfluxDB 3 now supports custom plugins](../../news/2026/09/2026-09-16_amazon-timestream-for-influxdb-3-now-supports-custom-plugins.md) `2026-09-16`

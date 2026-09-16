@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Partner Revenue Measurement expands service coverage for User Agent string capability](../../news/2026/09/2026-09-10_partner-revenue-measurement-expands-service-coverage-for-user-agent-string-capab.md) `2026-09-10` [GA] [new-region]
+- [AWS improves regional resiliency for root user sign-in](../../news/2026/09/2026-09-16_aws-improves-regional-resiliency-for-root-user-sign-in.md) `2026-09-16` [new-region]

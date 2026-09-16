@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS End User Messaging now supports Dynamic Flows in WhatsApp](../../news/2026/09/2026-09-15_aws-end-user-messaging-now-supports-dynamic-flows-in-whatsapp.md) `2026-09-15` [new-region]
+- [AWS End User Messaging now supports Dynamic Flows in WhatsApp](../../news/2026/09/2026-09-16_aws-end-user-messaging-now-supports-dynamic-flows-in-whatsapp.md) `2026-09-16` [new-region]

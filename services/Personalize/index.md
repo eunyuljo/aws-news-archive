@@ -5,11 +5,11 @@ parent: Services
 
 # Personalize — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-09-15
+총 **1건** | 최근 업데이트: 2026-09-16
 
 ---
 
 
 ## 2026
 
-- [AWS Elemental MediaTailor now supports Low-Latency HLS ad insertion](../../news/2026/09/2026-09-15_aws-elemental-mediatailor-now-supports-low-latency-hls-ad-insertion.md) `2026-09-15`
+- [AWS Elemental MediaTailor now supports Low-Latency HLS ad insertion](../../news/2026/09/2026-09-16_aws-elemental-mediatailor-now-supports-low-latency-hls-ad-insertion.md) `2026-09-16`

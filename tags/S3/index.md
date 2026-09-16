@@ -6,15 +6,14 @@ nav_exclude: false
 
 # 태그: S3
 
-총 10건
+총 9건
 
-- [AWS Config now supports 60 new resource types](../../news/2026/09/2026-09-15_aws-config-now-supports-60-new-resource-types.md) `2026-09-15` [GA] [new-region] [performance]
-- [Amazon S3 now supports PrivateLink for FIPS endpoints](../../news/2026/09/2026-09-15_amazon-s3-now-supports-privatelink-for-fips-endpoints.md) `2026-09-15` [GA] [price-reduction] [new-region] [security]
-- [Amazon SageMaker AI Batch Transform now supports G6e instances](../../news/2026/09/2026-09-15_amazon-sagemaker-ai-batch-transform-now-supports-g6e-instances.md) `2026-09-15` [GA] [performance] [ai-ml]
-- [Amazon Bedrock Managed Knowledge Base now supports automatic sync scheduling for data source connectors](../../news/2026/09/2026-09-15_amazon-bedrock-managed-knowledge-base-now-supports-automatic-sync-scheduling-for.md) `2026-09-15` [ai-ml]
-- [Amazon S3 Object Lock now supports variable retention with event holds](../../news/2026/09/2026-09-15_amazon-s3-object-lock-now-supports-variable-retention-with-event-holds.md) `2026-09-15` [new-region] [security]
-- [AWS Storage Gateway now supports FIPS-compliant private connectivity for Amazon S3 File Gateway](../../news/2026/09/2026-09-15_aws-storage-gateway-now-supports-fips-compliant-private-connectivity-for-amazon-.md) `2026-09-15` [GA] [new-region]
-- [Amazon API Gateway now supports 1 MB execution logs with configurable delivery destinations](../../news/2026/09/2026-09-15_amazon-api-gateway-now-supports-1-mb-execution-logs-with-configurable-delivery-d.md) `2026-09-15` [price-reduction] [new-region]
-- [Amazon Bedrock Managed Knowledge Base now supports multimodal embeddings for video, audio, and image content with TwelveLabs Marengo 3.0](../../news/2026/09/2026-09-15_amazon-bedrock-managed-knowledge-base-now-supports-multimodal-embeddings-for-vid.md) `2026-09-15` [security]
-- [Amazon SageMaker HyperPod now supports model caching for faster inference autoscaling and reduced cold starts](../../news/2026/09/2026-09-15_amazon-sagemaker-hyperpod-now-supports-model-caching-for-faster-inference-autosc.md) `2026-09-15` [GA] [new-region] [performance] [ai-ml]
-- [AWS Glue zero-ETL adds target table property ownership and conflict detection](../../news/2026/09/2026-09-15_aws-glue-zero-etl-adds-target-table-property-ownership-and-conflict-detection.md) `2026-09-15` [new-region]
+- [Amazon S3 now supports PrivateLink for FIPS endpoints](../../news/2026/09/2026-09-16_amazon-s3-now-supports-privatelink-for-fips-endpoints.md) `2026-09-16` [GA] [price-reduction] [new-region] [security]
+- [Amazon SageMaker AI Batch Transform now supports G6e instances](../../news/2026/09/2026-09-16_amazon-sagemaker-ai-batch-transform-now-supports-g6e-instances.md) `2026-09-16` [GA] [performance] [ai-ml]
+- [Amazon Bedrock Managed Knowledge Base now supports automatic sync scheduling for data source connectors](../../news/2026/09/2026-09-16_amazon-bedrock-managed-knowledge-base-now-supports-automatic-sync-scheduling-for.md) `2026-09-16` [ai-ml]
+- [Amazon S3 Object Lock now supports variable retention with event holds](../../news/2026/09/2026-09-16_amazon-s3-object-lock-now-supports-variable-retention-with-event-holds.md) `2026-09-16` [new-region] [security]
+- [AWS Storage Gateway now supports FIPS-compliant private connectivity for Amazon S3 File Gateway](../../news/2026/09/2026-09-16_aws-storage-gateway-now-supports-fips-compliant-private-connectivity-for-amazon-.md) `2026-09-16` [GA] [new-region]
+- [Amazon API Gateway now supports 1 MB execution logs with configurable delivery destinations](../../news/2026/09/2026-09-16_amazon-api-gateway-now-supports-1-mb-execution-logs-with-configurable-delivery-d.md) `2026-09-16` [price-reduction] [new-region]
+- [Amazon Bedrock Managed Knowledge Base now supports multimodal embeddings for video, audio, and image content with TwelveLabs Marengo 3.0](../../news/2026/09/2026-09-16_amazon-bedrock-managed-knowledge-base-now-supports-multimodal-embeddings-for-vid.md) `2026-09-16` [security]
+- [Amazon SageMaker HyperPod now supports model caching for faster inference autoscaling and reduced cold starts](../../news/2026/09/2026-09-16_amazon-sagemaker-hyperpod-now-supports-model-caching-for-faster-inference-autosc.md) `2026-09-16` [GA] [new-region] [performance] [ai-ml]
+- [AWS Glue zero-ETL adds target table property ownership and conflict detection](../../news/2026/09/2026-09-16_aws-glue-zero-etl-adds-target-table-property-ownership-and-conflict-detection.md) `2026-09-16` [new-region]
