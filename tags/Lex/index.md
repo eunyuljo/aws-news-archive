@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon SES now supports S/MIME email signing](../../news/2026/09/2026-09-16_amazon-ses-now-supports-smime-email-signing.md) `2026-09-16` [new-region] [security]
+- [AWS Batch now supports bulk job cancellation and termination](../../news/2026/09/2026-09-18_aws-batch-now-supports-bulk-job-cancellation-and-termination.md) `2026-09-18` [new-region]

@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon MemoryDB now supports AWS PrivateLink in the AWS GovCloud (US) Regions](../../news/2026/09/2026-09-15_amazon-memorydb-now-supports-aws-privatelink-in-the-aws-govcloud-us-regions.md) `2026-09-15` [new-region]
+- [AWS Transfer Family now supports source IP preservation for SFTP servers behind a Network Load Balancer (NLB)](../../news/2026/09/2026-09-18_aws-transfer-family-now-supports-source-ip-preservation-for-sftp-servers-behind-.md) `2026-09-18` [GA] [new-region] [security]

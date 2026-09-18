@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Corretto 27 is now generally available](../../news/2026/09/2026-09-17_amazon-corretto-27-is-now-generally-available.md) `2026-09-17` [GA] [preview] [price-reduction] [performance]
+- [Amazon Corretto 27 is now generally available](../../news/2026/09/2026-09-18_amazon-corretto-27-is-now-generally-available.md) `2026-09-18` [GA] [preview] [price-reduction] [performance]
