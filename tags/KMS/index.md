@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon EBS Volume Clones now supports copying volumes across accounts](../../news/2026/09/2026-09-18_amazon-ebs-volume-clones-now-supports-copying-volumes-across-accounts.md) `2026-09-18` [new-region] [security]
+- [Amazon EBS Volume Clones now supports copying volumes across accounts](../../news/2026/09/2026-09-19_amazon-ebs-volume-clones-now-supports-copying-volumes-across-accounts.md) `2026-09-19` [new-region] [security]

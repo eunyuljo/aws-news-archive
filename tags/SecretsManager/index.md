@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Timestream for InfluxDB 3 now supports custom plugins](../../news/2026/09/2026-09-18_amazon-timestream-for-influxdb-3-now-supports-custom-plugins.md) `2026-09-18` [new-region]
+- [Amazon Timestream for InfluxDB 3 now supports custom plugins](../../news/2026/09/2026-09-19_amazon-timestream-for-influxdb-3-now-supports-custom-plugins.md) `2026-09-19` [new-region]
