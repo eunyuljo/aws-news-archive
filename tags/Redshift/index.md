@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Redshift RG instances now available in Europe (Zurich) Region](../../news/2026/09/2026-09-19_amazon-redshift-rg-instances-now-available-in-europe-zurich-region.md) `2026-09-19` [GA] [price-reduction] [new-region] [performance]
+- [Amazon Redshift RG instances now available in Europe (Zurich) Region](../../news/2026/09/2026-09-20_amazon-redshift-rg-instances-now-available-in-europe-zurich-region.md) `2026-09-20` [GA] [price-reduction] [new-region] [performance]
