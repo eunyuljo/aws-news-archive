@@ -10,11 +10,11 @@ has_children: true
 |------|------|
 | [2026](./2026/index.md) | 100 |
 | [new-region](./new-region/index.md) | 80 |
-| [GA](./GA/index.md) | 43 |
-| [performance](./performance/index.md) | 39 |
-| [price-reduction](./price-reduction/index.md) | 26 |
-| [ai-ml](./ai-ml/index.md) | 24 |
-| [security](./security/index.md) | 19 |
+| [GA](./GA/index.md) | 44 |
+| [performance](./performance/index.md) | 40 |
+| [ai-ml](./ai-ml/index.md) | 25 |
+| [price-reduction](./price-reduction/index.md) | 25 |
+| [security](./security/index.md) | 18 |
 | [RDS](./RDS/index.md) | 14 |
 | [Config](./Config/index.md) | 10 |
 | [Connect](./Connect/index.md) | 8 |

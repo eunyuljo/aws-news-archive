@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Connect Customer Profiles now sends events when customers enter or exit segments](../../news/2026/09/2026-09-20_amazon-connect-customer-profiles-now-sends-events-when-customers-enter-or-exit-s.md) `2026-09-20` [new-region]
+- [Amazon Connect Customer Profiles now sends events when customers enter or exit segments](../../news/2026/09/2026-09-21_amazon-connect-customer-profiles-now-sends-events-when-customers-enter-or-exit-s.md) `2026-09-21` [new-region]

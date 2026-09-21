@@ -8,5 +8,5 @@ nav_exclude: false
 
 총 2건
 
-- [AWS improves regional resiliency for root user sign-in](../../news/2026/09/2026-09-20_aws-improves-regional-resiliency-for-root-user-sign-in.md) `2026-09-20` [new-region]
-- [Amazon Connect Customer now lets you create, manage, and search custom metrics through APIs](../../news/2026/09/2026-09-20_amazon-connect-customer-now-lets-you-create-manage-and-search-custom-metrics-thr.md) `2026-09-20`
+- [AWS improves regional resiliency for root user sign-in](../../news/2026/09/2026-09-21_aws-improves-regional-resiliency-for-root-user-sign-in.md) `2026-09-21` [new-region]
+- [Amazon Connect Customer now lets you create, manage, and search custom metrics through APIs](../../news/2026/09/2026-09-21_amazon-connect-customer-now-lets-you-create-manage-and-search-custom-metrics-thr.md) `2026-09-21`
