@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Elemental Inference now generates contextual metadata from live video in real time](../../news/2026/09/2026-09-21_aws-elemental-inference-now-generates-contextual-metadata-from-live-video-in-rea.md) `2026-09-21` [new-region] [ai-ml]
+- [AWS Elemental Inference now generates contextual metadata from live video in real time](../../news/2026/09/2026-09-22_aws-elemental-inference-now-generates-contextual-metadata-from-live-video-in-rea.md) `2026-09-22` [new-region] [ai-ml]

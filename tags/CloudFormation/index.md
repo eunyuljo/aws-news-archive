@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon API Gateway now supports mutual TLS for backend integrations](../../news/2026/09/2026-09-21_amazon-api-gateway-now-supports-mutual-tls-for-backend-integrations.md) `2026-09-21` [new-region]
+- [Amazon API Gateway now supports mutual TLS for backend integrations](../../news/2026/09/2026-09-22_amazon-api-gateway-now-supports-mutual-tls-for-backend-integrations.md) `2026-09-22` [new-region]
