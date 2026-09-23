@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Elemental MediaTailor now supports Low-Latency HLS ad insertion](../../news/2026/09/2026-09-22_aws-elemental-mediatailor-now-supports-low-latency-hls-ad-insertion.md) `2026-09-22` [GA] [new-region] [performance]
+- [AWS Elemental MediaTailor now supports Low-Latency HLS ad insertion](../../news/2026/09/2026-09-23_aws-elemental-mediatailor-now-supports-low-latency-hls-ad-insertion.md) `2026-09-23` [GA] [new-region] [performance]

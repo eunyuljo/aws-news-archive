@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon OpenSearch Serverless is now available on v0 by Vercel](../../news/2026/09/2026-09-22_amazon-opensearch-serverless-is-now-available-on-v0-by-vercel.md) `2026-09-22` [GA] [new-region] [ai-ml]
+- [Amazon OpenSearch Serverless is now available on v0 by Vercel](../../news/2026/09/2026-09-23_amazon-opensearch-serverless-is-now-available-on-v0-by-vercel.md) `2026-09-23` [GA] [new-region] [ai-ml]

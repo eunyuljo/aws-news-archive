@@ -8,5 +8,5 @@ nav_exclude: false
 
 총 2건
 
-- [AWS Transfer Family now supports source IP preservation for SFTP servers behind a Network Load Balancer (NLB)](../../news/2026/09/2026-09-22_aws-transfer-family-now-supports-source-ip-preservation-for-sftp-servers-behind-.md) `2026-09-22` [GA] [new-region] [security]
-- [AWS PrivateLink announces Tunnel Endpoints to access network segments](../../news/2026/09/2026-09-22_aws-privatelink-announces-tunnel-endpoints-to-access-network-segments.md) `2026-09-22` [GA] [new-region]
+- [AWS Transfer Family now supports source IP preservation for SFTP servers behind a Network Load Balancer (NLB)](../../news/2026/09/2026-09-23_aws-transfer-family-now-supports-source-ip-preservation-for-sftp-servers-behind-.md) `2026-09-23` [GA] [new-region] [security]
+- [AWS PrivateLink announces Tunnel Endpoints to access network segments](../../news/2026/09/2026-09-23_aws-privatelink-announces-tunnel-endpoints-to-access-network-segments.md) `2026-09-23` [GA] [new-region]
