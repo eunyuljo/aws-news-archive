@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon SageMaker Unified Studio Notebooks now support EMR Serverless](../../news/2026/06/2026-06-18_amazon-sagemaker-unified-studio-notebooks-now-support-emr-serverless.md) `2026-06-18` [GA] [new-region] [performance] [ai-ml]
+- [Amazon Connect Customer now provides routing step data in the analytics data lake](../../news/2026/09/2026-09-24_amazon-connect-customer-now-provides-routing-step-data-in-the-analytics-data-lak.md) `2026-09-24` [new-region]

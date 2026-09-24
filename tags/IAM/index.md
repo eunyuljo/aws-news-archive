@@ -8,5 +8,5 @@ nav_exclude: false
 
 총 2건
 
-- [Amazon SageMaker Unified Studio now supports ODBC connections for Microsoft Power BI and other analytics tools](../../news/2026/09/2026-09-23_amazon-sagemaker-unified-studio-now-supports-odbc-connections-for-microsoft-powe.md) `2026-09-23` [price-reduction] [new-region] [security]
-- [New AWS experience helps builders get started and ship faster](../../news/2026/09/2026-09-23_new-aws-experience-helps-builders-get-started-and-ship-faster.md) `2026-09-23` [new-region] [performance] [security]
+- [Amazon SageMaker Unified Studio now supports ODBC connections for Microsoft Power BI and other analytics tools](../../news/2026/09/2026-09-24_amazon-sagemaker-unified-studio-now-supports-odbc-connections-for-microsoft-powe.md) `2026-09-24` [price-reduction] [new-region] [security]
+- [New AWS experience helps builders get started and ship faster](../../news/2026/09/2026-09-24_new-aws-experience-helps-builders-get-started-and-ship-faster.md) `2026-09-24` [new-region] [performance] [security]

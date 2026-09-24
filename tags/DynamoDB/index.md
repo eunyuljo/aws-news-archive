@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Automated Security Response on AWS adds AI Toolkit for custom remediations](../../news/2026/09/2026-09-10_automated-security-response-on-aws-adds-ai-toolkit-for-custom-remediations.md) `2026-09-10` [new-region] [security] [ai-ml]
+- [Amazon DynamoDB global tables with multi-Region strong consistency now supports additional AWS Regions and cross-continent configurations](../../news/2026/09/2026-09-24_amazon-dynamodb-global-tables-with-multi-region-strong-consistency-now-supports-.md) `2026-09-24` [new-region]
