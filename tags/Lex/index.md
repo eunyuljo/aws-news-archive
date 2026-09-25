@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Batch now supports bulk job cancellation and termination](../../news/2026/09/2026-09-24_aws-batch-now-supports-bulk-job-cancellation-and-termination.md) `2026-09-24` [new-region]
+- [AWS Batch now supports bulk job cancellation and termination](../../news/2026/09/2026-09-25_aws-batch-now-supports-bulk-job-cancellation-and-termination.md) `2026-09-25` [new-region]

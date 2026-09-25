@@ -5,11 +5,11 @@ parent: Services
 
 # CloudFront — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-09-17
+총 **1건** | 최근 업데이트: 2026-09-25
 
 ---
 
 
 ## 2026
 
-- [Amazon CloudFront announces API support for flat-rate pricing plans](../../news/2026/09/2026-09-17_amazon-cloudfront-announces-api-support-for-flat-rate-pricing-plans.md) `2026-09-17`
+- [AWS Network Security Manager is now generally available in US East (N. Virginia) Region](../../news/2026/09/2026-09-25_aws-network-security-manager-is-now-generally-available-in-us-east-n-virginia-re.md) `2026-09-25`

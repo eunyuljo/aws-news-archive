@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Keyspaces (for Apache Cassandra) is now generally available in 11 additional Regions](../../news/2026/09/2026-09-24_amazon-keyspaces-for-apache-cassandra-is-now-generally-available-in-11-additiona.md) `2026-09-24` [GA] [new-region] [performance]
+- [Amazon Keyspaces (for Apache Cassandra) is now generally available in 11 additional Regions](../../news/2026/09/2026-09-25_amazon-keyspaces-for-apache-cassandra-is-now-generally-available-in-11-additiona.md) `2026-09-25` [GA] [new-region] [performance]
