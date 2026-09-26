@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Security Hub AI Inventory adds Azure self-hosted instance support](../../news/2026/09/2026-09-25_aws-security-hub-ai-inventory-adds-azure-self-hosted-instance-support.md) `2026-09-25` [price-reduction] [new-region] [security] [ai-ml]
+- [AWS Security Hub AI Inventory adds Azure self-hosted instance support](../../news/2026/09/2026-09-26_aws-security-hub-ai-inventory-adds-azure-self-hosted-instance-support.md) `2026-09-26` [price-reduction] [new-region] [security] [ai-ml]

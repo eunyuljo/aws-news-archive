@@ -5,16 +5,16 @@ parent: Services
 
 # SageMaker — AWS 뉴스
 
-총 **6건** | 최근 업데이트: 2026-09-25
+총 **6건** | 최근 업데이트: 2026-09-26
 
 ---
 
 
 ## 2026
 
-- [granite-speech-4.1-2b, kanana-2-30b-a3b-instruct, and OpenFold3 models now available on Amazon SageMaker JumpStart](../../news/2026/09/2026-09-25_granite-speech-41-2b-kanana-2-30b-a3b-instruct-and-openfold3-models-now-availabl.md) `2026-09-25`
-- [Gemma-4-31B-it-assistant and Gemma-4-31B-IT-NVFP4 models now available on Amazon SageMaker JumpStart](../../news/2026/09/2026-09-25_gemma-4-31b-it-assistant-and-gemma-4-31b-it-nvfp4-models-now-available-on-amazon.md) `2026-09-25`
-- [Ministral-3-3B-Instruct-2512 and Ministral-3-8B-Instruct-2512 models now available on Amazon SageMaker JumpStart](../../news/2026/09/2026-09-25_ministral-3-3b-instruct-2512-and-ministral-3-8b-instruct-2512-models-now-availab.md) `2026-09-25`
-- [Qwen3.6-35B-A3B-NVFP4 and Wan2.1-T2V-1.3B-Diffusers models now available on Amazon SageMaker JumpStart](../../news/2026/09/2026-09-25_qwen36-35b-a3b-nvfp4-and-wan21-t2v-13b-diffusers-models-now-available-on-amazon-.md) `2026-09-25`
-- [Amazon SageMaker AI now supports instance preference lists for training and processing jobs](../../news/2026/09/2026-09-25_amazon-sagemaker-ai-now-supports-instance-preference-lists-for-training-and-proc.md) `2026-09-25`
-- [Amazon SageMaker AI now supports serverless model customization for NVIDIA Nemotron 3.5 Lightning](../../news/2026/09/2026-09-25_amazon-sagemaker-ai-now-supports-serverless-model-customization-for-nvidia-nemot.md) `2026-09-25`
+- [granite-speech-4.1-2b, kanana-2-30b-a3b-instruct, and OpenFold3 models now available on Amazon SageMaker JumpStart](../../news/2026/09/2026-09-26_granite-speech-41-2b-kanana-2-30b-a3b-instruct-and-openfold3-models-now-availabl.md) `2026-09-26`
+- [Gemma-4-31B-it-assistant and Gemma-4-31B-IT-NVFP4 models now available on Amazon SageMaker JumpStart](../../news/2026/09/2026-09-26_gemma-4-31b-it-assistant-and-gemma-4-31b-it-nvfp4-models-now-available-on-amazon.md) `2026-09-26`
+- [Ministral-3-3B-Instruct-2512 and Ministral-3-8B-Instruct-2512 models now available on Amazon SageMaker JumpStart](../../news/2026/09/2026-09-26_ministral-3-3b-instruct-2512-and-ministral-3-8b-instruct-2512-models-now-availab.md) `2026-09-26`
+- [Qwen3.6-35B-A3B-NVFP4 and Wan2.1-T2V-1.3B-Diffusers models now available on Amazon SageMaker JumpStart](../../news/2026/09/2026-09-26_qwen36-35b-a3b-nvfp4-and-wan21-t2v-13b-diffusers-models-now-available-on-amazon-.md) `2026-09-26`
+- [Amazon SageMaker AI now supports instance preference lists for training and processing jobs](../../news/2026/09/2026-09-26_amazon-sagemaker-ai-now-supports-instance-preference-lists-for-training-and-proc.md) `2026-09-26`
+- [Amazon SageMaker AI now supports serverless model customization for NVIDIA Nemotron 3.5 Lightning](../../news/2026/09/2026-09-26_amazon-sagemaker-ai-now-supports-serverless-model-customization-for-nvidia-nemot.md) `2026-09-26`
