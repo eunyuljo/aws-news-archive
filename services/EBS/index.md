@@ -5,11 +5,11 @@ parent: Services
 
 # EBS — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-09-27
+총 **1건** | 최근 업데이트: 2026-09-28
 
 ---
 
 
 ## 2026
 
-- [AWS End User Messaging now supports Dynamic Flows in WhatsApp](../../news/2026/09/2026-09-27_aws-end-user-messaging-now-supports-dynamic-flows-in-whatsapp.md) `2026-09-27`
+- [AWS End User Messaging now supports Dynamic Flows in WhatsApp](../../news/2026/09/2026-09-28_aws-end-user-messaging-now-supports-dynamic-flows-in-whatsapp.md) `2026-09-28`

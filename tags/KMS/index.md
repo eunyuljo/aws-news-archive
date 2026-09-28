@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Transcribe adds customer-managed KMS keys for custom resources](../../news/2026/09/2026-09-27_amazon-transcribe-adds-customer-managed-kms-keys-for-custom-resources.md) `2026-09-27` [new-region] [security]
+- [Amazon Transcribe adds customer-managed KMS keys for custom resources](../../news/2026/09/2026-09-28_amazon-transcribe-adds-customer-managed-kms-keys-for-custom-resources.md) `2026-09-28` [new-region] [security]
