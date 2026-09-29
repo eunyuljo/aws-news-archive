@@ -5,11 +5,12 @@ parent: Services
 
 # DocumentDB — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-09-04
+총 **2건** | 최근 업데이트: 2026-09-29
 
 ---
 
 
 ## 2026
 
-- [AWS Backup adds cross-Region backup copy and logically air-gapped vault support for Amazon DocumentDB in nine additional AWS Regions](../../news/2026/09/2026-09-04_aws-backup-adds-cross-region-backup-copy-and-logically-air-gapped-vault-support-.md) `2026-09-04`
+- [Amazon DocumentDB (with MongoDB compatibility) now supports retryable writes](../../news/2026/09/2026-09-29_amazon-documentdb-with-mongodb-compatibility-now-supports-retryable-writes.md) `2026-09-29`
+- [Amazon DocumentDB (with MongoDB compatibility) adds support for 5 MongoDB aggregation stages and change stream capabilities in version 8.0.2](../../news/2026/09/2026-09-29_amazon-documentdb-with-mongodb-compatibility-adds-support-for-5-mongodb-aggregat.md) `2026-09-29`

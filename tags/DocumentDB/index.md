@@ -6,6 +6,7 @@ nav_exclude: false
 
 # 태그: DocumentDB
 
-총 1건
+총 2건
 
-- [AWS Backup adds cross-Region backup copy and logically air-gapped vault support for Amazon DocumentDB in nine additional AWS Regions](../../news/2026/09/2026-09-04_aws-backup-adds-cross-region-backup-copy-and-logically-air-gapped-vault-support-.md) `2026-09-04` [GA] [new-region] [security]
+- [Amazon DocumentDB (with MongoDB compatibility) now supports retryable writes](../../news/2026/09/2026-09-29_amazon-documentdb-with-mongodb-compatibility-now-supports-retryable-writes.md) `2026-09-29` [new-region]
+- [Amazon DocumentDB (with MongoDB compatibility) adds support for 5 MongoDB aggregation stages and change stream capabilities in version 8.0.2](../../news/2026/09/2026-09-29_amazon-documentdb-with-mongodb-compatibility-adds-support-for-5-mongodb-aggregat.md) `2026-09-29` [new-region] [performance]

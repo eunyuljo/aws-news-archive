@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Network Security Manager is now generally available in US East (N. Virginia) Region](../../news/2026/09/2026-09-28_aws-network-security-manager-is-now-generally-available-in-us-east-n-virginia-re.md) `2026-09-28` [GA] [new-region] [security]
+- [AWS Network Security Manager is now generally available in US East (N. Virginia) Region](../../news/2026/09/2026-09-29_aws-network-security-manager-is-now-generally-available-in-us-east-n-virginia-re.md) `2026-09-29` [GA] [new-region] [security]
