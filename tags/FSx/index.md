@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Backup adds logically air-gapped vault support for Amazon FSx for NetApp ONTAP](../../news/2026/09/2026-09-29_aws-backup-adds-logically-air-gapped-vault-support-for-amazon-fsx-for-netapp-ont.md) `2026-09-29` [new-region] [security]
+- [AWS Backup adds logically air-gapped vault support for Amazon FSx for NetApp ONTAP](../../news/2026/09/2026-09-30_aws-backup-adds-logically-air-gapped-vault-support-for-amazon-fsx-for-netapp-ont.md) `2026-09-30` [new-region] [security]

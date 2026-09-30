@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Connect Customer now provides routing step data in the analytics data lake](../../news/2026/09/2026-09-29_amazon-connect-customer-now-provides-routing-step-data-in-the-analytics-data-lak.md) `2026-09-29` [new-region]
+- [Amazon Connect Customer now provides routing step data in the analytics data lake](../../news/2026/09/2026-09-30_amazon-connect-customer-now-provides-routing-step-data-in-the-analytics-data-lak.md) `2026-09-30` [new-region]
