@@ -6,10 +6,13 @@ nav_exclude: false
 
 # 태그: S3
 
-총 5건
+총 8건
 
-- [Amazon ECS extends Amazon S3 Files support to the Amazon EC2 compute type](../../news/2026/09/2026-09-30_amazon-ecs-extends-amazon-s3-files-support-to-the-amazon-ec2-compute-type.md) `2026-09-30` [GA] [new-region] [performance] [ai-ml]
-- [Amazon S3 Express One Zone is now available in 7 additional AWS Regions](../../news/2026/09/2026-09-30_amazon-s3-express-one-zone-is-now-available-in-7-additional-aws-regions.md) `2026-09-30` [GA] [price-reduction] [new-region] [performance] [ai-ml]
-- [AWS HealthOmics now supports IAM session policies](../../news/2026/09/2026-09-30_aws-healthomics-now-supports-iam-session-policies.md) `2026-09-30` [new-region] [security]
-- [Amazon EMR introduces Long Term Support with Apache Spark 4.1](../../news/2026/09/2026-09-30_amazon-emr-introduces-long-term-support-with-apache-spark-41.md) `2026-09-30` [price-reduction] [new-region] [security]
-- [Amazon SageMaker Unified Studio now supports two new connection capabilities: Iceberg REST Catalog connections and IAM authentication for Amazon DocumentDB](../../news/2026/09/2026-09-30_amazon-sagemaker-unified-studio-now-supports-two-new-connection-capabilities-ice.md) `2026-09-30` [preview] [price-reduction] [new-region] [security]
+- [AWS HealthOmics now supports IAM session policies](../../news/2026/10/2026-10-01_aws-healthomics-now-supports-iam-session-policies.md) `2026-10-01` [new-region] [security]
+- [Amazon EMR introduces Long Term Support with Apache Spark 4.1](../../news/2026/10/2026-10-01_amazon-emr-introduces-long-term-support-with-apache-spark-41.md) `2026-10-01` [price-reduction] [new-region] [security]
+- [Amazon SageMaker Unified Studio now supports two new connection capabilities: Iceberg REST Catalog connections and IAM authentication for Amazon DocumentDB](../../news/2026/10/2026-10-01_amazon-sagemaker-unified-studio-now-supports-two-new-connection-capabilities-ice.md) `2026-10-01` [preview] [price-reduction] [new-region] [security]
+- [Amazon S3 Tables now support all Apache Iceberg V3 data types](../../news/2026/10/2026-10-01_amazon-s3-tables-now-support-all-apache-iceberg-v3-data-types.md) `2026-10-01` [GA] [price-reduction] [new-region] [performance]
+- [Uncover blind spots in AWS data plane operations with CloudTrail Event Coverage](../../news/2026/10/2026-10-01_uncover-blind-spots-in-aws-data-plane-operations-with-cloudtrail-event-coverage.md) `2026-10-01` [new-region] [security]
+- [Aurora PostgreSQL now supports querying of Apache Iceberg and Parquet data](../../news/2026/10/2026-10-01_aurora-postgresql-now-supports-querying-of-apache-iceberg-and-parquet-data.md) `2026-10-01` [GA] [price-reduction] [new-region] [performance]
+- [AWS Parallel Computing Service now supports scaling logs](../../news/2026/10/2026-10-01_aws-parallel-computing-service-now-supports-scaling-logs.md) `2026-10-01` [GA] [new-region]
+- [Amazon S3 Vectors introduces metadata pre-filtering for up to 5x higher recall on filtered search](../../news/2026/10/2026-10-01_amazon-s3-vectors-introduces-metadata-pre-filtering-for-up-to-5x-higher-recall-o.md) `2026-10-01` [GA] [price-reduction] [new-region]

@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Batch now supports bulk job cancellation and termination](../../news/2026/09/2026-09-30_aws-batch-now-supports-bulk-job-cancellation-and-termination.md) `2026-09-30` [new-region]
+- [AWS Deadline Cloud now supports expressions in job templates](../../news/2026/10/2026-10-01_aws-deadline-cloud-now-supports-expressions-in-job-templates.md) `2026-10-01` [new-region]

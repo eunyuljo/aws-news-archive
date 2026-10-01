@@ -5,11 +5,11 @@ parent: Services
 
 # Glue — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-09-30
+총 **1건** | 최근 업데이트: 2026-10-01
 
 ---
 
 
 ## 2026
 
-- [AWS Glue Data Quality delivers context-specific rule recommendations in seconds](../../news/2026/09/2026-09-30_aws-glue-data-quality-delivers-context-specific-rule-recommendations-in-seconds.md) `2026-09-30`
+- [AWS Glue Data Quality delivers context-specific rule recommendations in seconds](../../news/2026/10/2026-10-01_aws-glue-data-quality-delivers-context-specific-rule-recommendations-in-seconds.md) `2026-10-01`

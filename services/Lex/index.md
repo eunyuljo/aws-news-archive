@@ -5,11 +5,11 @@ parent: Services
 
 # Lex — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-09-30
+총 **1건** | 최근 업데이트: 2026-10-01
 
 ---
 
 
 ## 2026
 
-- [AWS Batch now supports bulk job cancellation and termination](../../news/2026/09/2026-09-30_aws-batch-now-supports-bulk-job-cancellation-and-termination.md) `2026-09-30`
+- [AWS Deadline Cloud now supports expressions in job templates](../../news/2026/10/2026-10-01_aws-deadline-cloud-now-supports-expressions-in-job-templates.md) `2026-10-01`

@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Transfer Family now supports downloading multiple files and folders in web apps](../../news/2026/09/2026-09-30_aws-transfer-family-now-supports-downloading-multiple-files-and-folders-in-web-a.md) `2026-09-30` [new-region]
+- [AWS Transfer Family now supports downloading multiple files and folders in web apps](../../news/2026/10/2026-10-01_aws-transfer-family-now-supports-downloading-multiple-files-and-folders-in-web-a.md) `2026-10-01` [new-region]
