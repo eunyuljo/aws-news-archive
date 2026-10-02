@@ -5,11 +5,11 @@ parent: Services
 
 # EMR — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-07-20
+총 **1건** | 최근 업데이트: 2026-10-02
 
 ---
 
 
 ## 2026
 
-- [Amazon EMR Serverless now supports larger worker sizes to run more compute and memory intensive workloads](../../news/2026/07/2026-07-20_amazon-emr-serverless-now-supports-larger-worker-sizes-to-run-more-compute-and-m.md) `2026-07-20`
+- [Serverless Storage on Amazon EMR Serverless now supports terabyte-scale shuffle](../../news/2026/10/2026-10-02_serverless-storage-on-amazon-emr-serverless-now-supports-terabyte-scale-shuffle.md) `2026-10-02`

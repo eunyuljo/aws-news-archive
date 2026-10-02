@@ -6,6 +6,7 @@ nav_exclude: false
 
 # 태그: CloudFormation
 
-총 1건
+총 2건
 
-- [Amazon API Gateway now supports mutual TLS for backend integrations](../../news/2026/09/2026-09-22_amazon-api-gateway-now-supports-mutual-tls-for-backend-integrations.md) `2026-09-22` [new-region]
+- [AWS Security Hub introduces remediation plans to prioritize and fix security exposures](../../news/2026/10/2026-10-02_aws-security-hub-introduces-remediation-plans-to-prioritize-and-fix-security-exp.md) `2026-10-02` [price-reduction] [new-region] [security] [ai-ml]
+- [AWS Well-Architected Agent is now available in preview](../../news/2026/10/2026-10-02_aws-well-architected-agent-is-now-available-in-preview.md) `2026-10-02` [GA] [preview] [price-reduction] [new-region] [performance] [security]

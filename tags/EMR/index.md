@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon EMR Serverless now supports larger worker sizes to run more compute and memory intensive workloads](../../news/2026/07/2026-07-20_amazon-emr-serverless-now-supports-larger-worker-sizes-to-run-more-compute-and-m.md) `2026-07-20` [price-reduction] [new-region] [performance]
+- [Serverless Storage on Amazon EMR Serverless now supports terabyte-scale shuffle](../../news/2026/10/2026-10-02_serverless-storage-on-amazon-emr-serverless-now-supports-terabyte-scale-shuffle.md) `2026-10-02` [new-region]

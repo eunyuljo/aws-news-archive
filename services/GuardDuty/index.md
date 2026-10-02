@@ -5,11 +5,11 @@ parent: Services
 
 # GuardDuty — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-07-08
+총 **1건** | 최근 업데이트: 2026-10-02
 
 ---
 
 
 ## 2026
 
-- [Amazon GuardDuty AI-powered investigations accelerate threat response (Preview)](../../news/2026/07/2026-07-08_amazon-guardduty-ai-powered-investigations-accelerate-threat-response-preview.md) `2026-07-08`
+- [Amazon GuardDuty now supports centralized management using AWS Organizations declarative policies](../../news/2026/10/2026-10-02_amazon-guardduty-now-supports-centralized-management-using-aws-organizations-dec.md) `2026-10-02`

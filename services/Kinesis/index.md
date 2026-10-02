@@ -5,11 +5,11 @@ parent: Services
 
 # Kinesis — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-09-22
+총 **1건** | 최근 업데이트: 2026-10-02
 
 ---
 
 
 ## 2026
 
-- [Amazon Connect Customer Profiles now sends events when customers enter or exit segments](../../news/2026/09/2026-09-22_amazon-connect-customer-profiles-now-sends-events-when-customers-enter-or-exit-s.md) `2026-09-22`
+- [Amazon Kinesis Video Streams now supports VPC endpoints with AWS PrivateLink](../../news/2026/10/2026-10-02_amazon-kinesis-video-streams-now-supports-vpc-endpoints-with-aws-privatelink.md) `2026-10-02`

@@ -5,11 +5,11 @@ parent: Services
 
 # DynamoDB — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-10-01
+총 **1건** | 최근 업데이트: 2026-10-02
 
 ---
 
 
 ## 2026
 
-- [Amazon DynamoDB global tables with multi-Region strong consistency now supports additional AWS Regions and cross-continent configurations](../../news/2026/10/2026-10-01_amazon-dynamodb-global-tables-with-multi-region-strong-consistency-now-supports-.md) `2026-10-01`
+- [Amazon DynamoDB global tables with multi-Region strong consistency now supports additional AWS Regions and cross-continent configurations](../../news/2026/10/2026-10-02_amazon-dynamodb-global-tables-with-multi-region-strong-consistency-now-supports-.md) `2026-10-02`

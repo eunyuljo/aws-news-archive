@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon GuardDuty AI-powered investigations accelerate threat response (Preview)](../../news/2026/07/2026-07-08_amazon-guardduty-ai-powered-investigations-accelerate-threat-response-preview.md) `2026-07-08` [preview] [new-region] [security]
+- [Amazon GuardDuty now supports centralized management using AWS Organizations declarative policies](../../news/2026/10/2026-10-02_amazon-guardduty-now-supports-centralized-management-using-aws-organizations-dec.md) `2026-10-02` [new-region]

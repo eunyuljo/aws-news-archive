@@ -5,11 +5,11 @@ parent: Services
 
 # SecretsManager — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-09-22
+총 **1건** | 최근 업데이트: 2026-10-02
 
 ---
 
 
 ## 2026
 
-- [Amazon Timestream for InfluxDB 3 now supports custom plugins](../../news/2026/09/2026-09-22_amazon-timestream-for-influxdb-3-now-supports-custom-plugins.md) `2026-09-22`
+- [Improve your secrets security posture with actionable recommendations in the AWS Secrets Manager console](../../news/2026/10/2026-10-02_improve-your-secrets-security-posture-with-actionable-recommendations-in-the-aws.md) `2026-10-02`
