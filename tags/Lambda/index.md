@@ -6,6 +6,8 @@ nav_exclude: false
 
 # 태그: Lambda
 
-총 1건
+총 3건
 
-- [AWS Lambda durable functions are now available in AWS European Sovereign Cloud region](../../news/2026/10/2026-10-02_aws-lambda-durable-functions-are-now-available-in-aws-european-sovereign-cloud-r.md) `2026-10-02` [GA] [new-region] [security] [ai-ml]
+- [AWS Lambda durable functions are now available in AWS European Sovereign Cloud region](../../news/2026/10/2026-10-03_aws-lambda-durable-functions-are-now-available-in-aws-european-sovereign-cloud-r.md) `2026-10-03` [GA] [new-region] [security] [ai-ml]
+- [AWS Health introduces the version catalog for software lifecycle management](../../news/2026/10/2026-10-03_aws-health-introduces-the-version-catalog-for-software-lifecycle-management.md) `2026-10-03` [GA] [new-region] [security]
+- [Amazon ECS adds Amazon VPC Lattice support for blue/green, linear, and canary deployments](../../news/2026/10/2026-10-03_amazon-ecs-adds-amazon-vpc-lattice-support-for-bluegreen-linear-and-canary-deplo.md) `2026-10-03` [GA] [new-region]

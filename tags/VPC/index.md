@@ -8,5 +8,5 @@ nav_exclude: false
 
 총 2건
 
-- [AWS DataSync now supports shared VPCs](../../news/2026/10/2026-10-02_aws-datasync-now-supports-shared-vpcs.md) `2026-10-02` [GA] [new-region]
-- [AWS Transfer Family now automatically approves SFTP connector quota increases up to 1,000](../../news/2026/10/2026-10-02_aws-transfer-family-now-automatically-approves-sftp-connector-quota-increases-up.md) `2026-10-02` [new-region]
+- [AWS DataSync now supports shared VPCs](../../news/2026/10/2026-10-03_aws-datasync-now-supports-shared-vpcs.md) `2026-10-03` [GA] [new-region]
+- [AWS Transfer Family now automatically approves SFTP connector quota increases up to 1,000](../../news/2026/10/2026-10-03_aws-transfer-family-now-automatically-approves-sftp-connector-quota-increases-up.md) `2026-10-03` [new-region]

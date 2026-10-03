@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Quick now supports live data from your datasets in apps](../../news/2026/10/2026-10-02_amazon-quick-now-supports-live-data-from-your-datasets-in-apps.md) `2026-10-02` [new-region] [security]
+- [Amazon Quick now supports live data from your datasets in apps](../../news/2026/10/2026-10-03_amazon-quick-now-supports-live-data-from-your-datasets-in-apps.md) `2026-10-03` [new-region] [security]

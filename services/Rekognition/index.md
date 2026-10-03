@@ -5,11 +5,11 @@ parent: Services
 
 # Rekognition — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-10-02
+총 **1건** | 최근 업데이트: 2026-10-03
 
 ---
 
 
 ## 2026
 
-- [Amazon Rekognition Face Liveness now returns Feedback Codes](../../news/2026/10/2026-10-02_amazon-rekognition-face-liveness-now-returns-feedback-codes.md) `2026-10-02`
+- [Amazon Rekognition Face Liveness now returns Feedback Codes](../../news/2026/10/2026-10-03_amazon-rekognition-face-liveness-now-returns-feedback-codes.md) `2026-10-03`
