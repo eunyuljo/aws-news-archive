@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Deadline Cloud now supports expressions in job templates](../../news/2026/10/2026-10-03_aws-deadline-cloud-now-supports-expressions-in-job-templates.md) `2026-10-03` [new-region]
+- [AWS Deadline Cloud now supports expressions in job templates](../../news/2026/10/2026-10-04_aws-deadline-cloud-now-supports-expressions-in-job-templates.md) `2026-10-04` [new-region]

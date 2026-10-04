@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Service Availability Updates](../../news/2026/10/2026-10-03_aws-service-availability-updates.md) `2026-10-03`
+- [AWS Service Availability Updates](../../news/2026/10/2026-10-04_aws-service-availability-updates.md) `2026-10-04`
