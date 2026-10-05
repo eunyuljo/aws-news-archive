@@ -6,7 +6,7 @@ has_children: true
 
 # AWS 서비스별 뉴스 인덱스
 
-최근 업데이트: 2026-10-04
+최근 업데이트: 2026-10-05
 
 ---
 
@@ -16,8 +16,8 @@ has_children: true
 | [S3](./S3/index.md) | 14 |
 | [General](./General/index.md) | 9 |
 | [Bedrock](./Bedrock/index.md) | 7 |
-| [EC2](./EC2/index.md) | 6 |
-| [IAM](./IAM/index.md) | 6 |
+| [EC2](./EC2/index.md) | 7 |
+| [IAM](./IAM/index.md) | 5 |
 | [CloudWatch](./CloudWatch/index.md) | 4 |
 | [Config](./Config/index.md) | 4 |
 | [EKS](./EKS/index.md) | 4 |

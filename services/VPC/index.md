@@ -5,12 +5,12 @@ parent: Services
 
 # VPC — AWS 뉴스
 
-총 **2건** | 최근 업데이트: 2026-10-04
+총 **2건** | 최근 업데이트: 2026-10-05
 
 ---
 
 
 ## 2026
 
-- [AWS DataSync now supports shared VPCs](../../news/2026/10/2026-10-04_aws-datasync-now-supports-shared-vpcs.md) `2026-10-04`
-- [AWS Transfer Family now automatically approves SFTP connector quota increases up to 1,000](../../news/2026/10/2026-10-04_aws-transfer-family-now-automatically-approves-sftp-connector-quota-increases-up.md) `2026-10-04`
+- [AWS DataSync now supports shared VPCs](../../news/2026/10/2026-10-05_aws-datasync-now-supports-shared-vpcs.md) `2026-10-05`
+- [AWS Transfer Family now automatically approves SFTP connector quota increases up to 1,000](../../news/2026/10/2026-10-05_aws-transfer-family-now-automatically-approves-sftp-connector-quota-increases-up.md) `2026-10-05`
