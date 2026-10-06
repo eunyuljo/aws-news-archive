@@ -5,11 +5,11 @@ parent: Services
 
 # KMS — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-10-05
+총 **1건** | 최근 업데이트: 2026-10-06
 
 ---
 
 
 ## 2026
 
-- [Amazon Transcribe adds customer-managed KMS keys for custom resources](../../news/2026/10/2026-10-05_amazon-transcribe-adds-customer-managed-kms-keys-for-custom-resources.md) `2026-10-05`
+- [Amazon Transcribe adds customer-managed KMS keys for custom resources](../../news/2026/10/2026-10-06_amazon-transcribe-adds-customer-managed-kms-keys-for-custom-resources.md) `2026-10-06`

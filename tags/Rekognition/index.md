@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Rekognition Face Liveness now returns Feedback Codes](../../news/2026/10/2026-10-05_amazon-rekognition-face-liveness-now-returns-feedback-codes.md) `2026-10-05`
+- [Amazon Rekognition Face Liveness now returns Feedback Codes](../../news/2026/10/2026-10-06_amazon-rekognition-face-liveness-now-returns-feedback-codes.md) `2026-10-06`

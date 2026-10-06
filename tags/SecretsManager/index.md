@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Improve your secrets security posture with actionable recommendations in the AWS Secrets Manager console](../../news/2026/10/2026-10-05_improve-your-secrets-security-posture-with-actionable-recommendations-in-the-aws.md) `2026-10-05` [GA] [price-reduction] [new-region] [security]
+- [Improve your secrets security posture with actionable recommendations in the AWS Secrets Manager console](../../news/2026/10/2026-10-06_improve-your-secrets-security-posture-with-actionable-recommendations-in-the-aws.md) `2026-10-06` [GA] [price-reduction] [new-region] [security]

@@ -8,7 +8,7 @@ nav_exclude: false
 
 총 4건
 
-- [AWS Elastic Disaster Recovery now supports AWS Graviton-based source servers](../../news/2026/10/2026-10-05_aws-elastic-disaster-recovery-now-supports-aws-graviton-based-source-servers.md) `2026-10-05` [price-reduction] [new-region] [performance]
-- [Amazon Corretto September 2026 Patch Updates](../../news/2026/10/2026-10-05_amazon-corretto-september-2026-patch-updates.md) `2026-10-05` [GA] [price-reduction]
-- [AWS CLI now supports bulk skill updates and version checks for the Agent Toolkit for AWS](../../news/2026/10/2026-10-05_aws-cli-now-supports-bulk-skill-updates-and-version-checks-for-the-agent-toolkit.md) `2026-10-05` [new-region]
-- [Amazon Corretto 8 September 2026 Patch Updates](../../news/2026/10/2026-10-05_amazon-corretto-8-september-2026-patch-updates.md) `2026-10-05` [GA] [price-reduction]
+- [AWS Elastic Disaster Recovery now supports AWS Graviton-based source servers](../../news/2026/10/2026-10-06_aws-elastic-disaster-recovery-now-supports-aws-graviton-based-source-servers.md) `2026-10-06` [price-reduction] [new-region] [performance]
+- [Amazon Corretto September 2026 Patch Updates](../../news/2026/10/2026-10-06_amazon-corretto-september-2026-patch-updates.md) `2026-10-06` [GA] [price-reduction]
+- [AWS CLI now supports bulk skill updates and version checks for the Agent Toolkit for AWS](../../news/2026/10/2026-10-06_aws-cli-now-supports-bulk-skill-updates-and-version-checks-for-the-agent-toolkit.md) `2026-10-06` [new-region]
+- [Amazon Corretto 8 September 2026 Patch Updates](../../news/2026/10/2026-10-06_amazon-corretto-8-september-2026-patch-updates.md) `2026-10-06` [GA] [price-reduction]
