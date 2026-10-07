@@ -8,5 +8,5 @@ nav_exclude: false
 
 총 2건
 
-- [AWS Health introduces the version catalog for software lifecycle management](../../news/2026/10/2026-10-06_aws-health-introduces-the-version-catalog-for-software-lifecycle-management.md) `2026-10-06` [GA] [new-region] [security]
-- [Amazon ECS adds Amazon VPC Lattice support for blue/green, linear, and canary deployments](../../news/2026/10/2026-10-06_amazon-ecs-adds-amazon-vpc-lattice-support-for-bluegreen-linear-and-canary-deplo.md) `2026-10-06` [GA] [new-region]
+- [AWS Health introduces the version catalog for software lifecycle management](../../news/2026/10/2026-10-07_aws-health-introduces-the-version-catalog-for-software-lifecycle-management.md) `2026-10-07` [GA] [new-region] [security]
+- [Amazon ECS adds Amazon VPC Lattice support for blue/green, linear, and canary deployments](../../news/2026/10/2026-10-07_amazon-ecs-adds-amazon-vpc-lattice-support-for-bluegreen-linear-and-canary-deplo.md) `2026-10-07` [GA] [new-region]
