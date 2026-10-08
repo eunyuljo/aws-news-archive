@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Kinesis Video Streams now supports VPC endpoints with AWS PrivateLink](../../news/2026/10/2026-10-07_amazon-kinesis-video-streams-now-supports-vpc-endpoints-with-aws-privatelink.md) `2026-10-07` [new-region] [security]
+- [Amazon Kinesis Video Streams now supports VPC endpoints with AWS PrivateLink](../../news/2026/10/2026-10-08_amazon-kinesis-video-streams-now-supports-vpc-endpoints-with-aws-privatelink.md) `2026-10-08` [new-region] [security]

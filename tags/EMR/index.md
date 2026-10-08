@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Serverless Storage on Amazon EMR Serverless now supports terabyte-scale shuffle](../../news/2026/10/2026-10-07_serverless-storage-on-amazon-emr-serverless-now-supports-terabyte-scale-shuffle.md) `2026-10-07` [new-region]
+- [Serverless Storage on Amazon EMR Serverless now supports terabyte-scale shuffle](../../news/2026/10/2026-10-08_serverless-storage-on-amazon-emr-serverless-now-supports-terabyte-scale-shuffle.md) `2026-10-08` [new-region]

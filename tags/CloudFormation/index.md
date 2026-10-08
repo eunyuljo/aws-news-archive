@@ -6,8 +6,9 @@ nav_exclude: false
 
 # 태그: CloudFormation
 
-총 3건
+총 4건
 
-- [AWS Security Hub introduces remediation plans to prioritize and fix security exposures](../../news/2026/10/2026-10-07_aws-security-hub-introduces-remediation-plans-to-prioritize-and-fix-security-exp.md) `2026-10-07` [price-reduction] [new-region] [security] [ai-ml]
-- [AWS Well-Architected Agent is now available in preview](../../news/2026/10/2026-10-07_aws-well-architected-agent-is-now-available-in-preview.md) `2026-10-07` [GA] [preview] [price-reduction] [new-region] [performance] [security]
-- [AWS Capabilities by Region now offers availability notifications for individual features and advanced filters](../../news/2026/10/2026-10-07_aws-capabilities-by-region-now-offers-availability-notifications-for-individual-.md) `2026-10-07` [GA] [new-region]
+- [AWS Security Hub introduces remediation plans to prioritize and fix security exposures](../../news/2026/10/2026-10-08_aws-security-hub-introduces-remediation-plans-to-prioritize-and-fix-security-exp.md) `2026-10-08` [price-reduction] [new-region] [security] [ai-ml]
+- [AWS Well-Architected Agent is now available in preview](../../news/2026/10/2026-10-08_aws-well-architected-agent-is-now-available-in-preview.md) `2026-10-08` [GA] [preview] [price-reduction] [new-region] [performance] [security]
+- [Amazon OpenSearch Service introduces validation advisory for domain configuration changes](../../news/2026/10/2026-10-08_amazon-opensearch-service-introduces-validation-advisory-for-domain-configuratio.md) `2026-10-08` [new-region]
+- [AWS Capabilities by Region now offers availability notifications for individual features and advanced filters](../../news/2026/10/2026-10-08_aws-capabilities-by-region-now-offers-availability-notifications-for-individual-.md) `2026-10-08` [GA] [new-region]
