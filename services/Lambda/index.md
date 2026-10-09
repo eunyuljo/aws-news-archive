@@ -5,12 +5,12 @@ parent: Services
 
 # Lambda — AWS 뉴스
 
-총 **2건** | 최근 업데이트: 2026-10-08
+총 **2건** | 최근 업데이트: 2026-10-09
 
 ---
 
 
 ## 2026
 
-- [AWS Health introduces the version catalog for software lifecycle management](../../news/2026/10/2026-10-08_aws-health-introduces-the-version-catalog-for-software-lifecycle-management.md) `2026-10-08`
-- [Amazon ECS adds Amazon VPC Lattice support for blue/green, linear, and canary deployments](../../news/2026/10/2026-10-08_amazon-ecs-adds-amazon-vpc-lattice-support-for-bluegreen-linear-and-canary-deplo.md) `2026-10-08`
+- [AWS Health introduces the version catalog for software lifecycle management](../../news/2026/10/2026-10-09_aws-health-introduces-the-version-catalog-for-software-lifecycle-management.md) `2026-10-09`
+- [Amazon ECS adds Amazon VPC Lattice support for blue/green, linear, and canary deployments](../../news/2026/10/2026-10-09_amazon-ecs-adds-amazon-vpc-lattice-support-for-bluegreen-linear-and-canary-deplo.md) `2026-10-09`
