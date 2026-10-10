@@ -6,7 +6,6 @@ nav_exclude: false
 
 # 태그: VPC
 
-총 2건
+총 1건
 
-- [AWS DataSync now supports shared VPCs](../../news/2026/10/2026-10-09_aws-datasync-now-supports-shared-vpcs.md) `2026-10-09` [GA] [new-region]
-- [AWS Transfer Family now automatically approves SFTP connector quota increases up to 1,000](../../news/2026/10/2026-10-09_aws-transfer-family-now-automatically-approves-sftp-connector-quota-increases-up.md) `2026-10-09` [new-region]
+- [AWS Transfer Family now automatically approves SFTP connector quota increases up to 1,000](../../news/2026/10/2026-10-10_aws-transfer-family-now-automatically-approves-sftp-connector-quota-increases-up.md) `2026-10-10` [new-region]
