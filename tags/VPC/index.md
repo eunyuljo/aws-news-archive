@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Transfer Family now automatically approves SFTP connector quota increases up to 1,000](../../news/2026/10/2026-10-10_aws-transfer-family-now-automatically-approves-sftp-connector-quota-increases-up.md) `2026-10-10` [new-region]
+- [AWS Transfer Family now automatically approves SFTP connector quota increases up to 1,000](../../news/2026/10/2026-10-11_aws-transfer-family-now-automatically-approves-sftp-connector-quota-increases-up.md) `2026-10-11` [new-region]
