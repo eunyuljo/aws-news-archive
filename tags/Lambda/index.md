@@ -8,6 +8,6 @@ nav_exclude: false
 
 총 3건
 
-- [AWS Health introduces the version catalog for software lifecycle management](../../news/2026/10/2026-10-11_aws-health-introduces-the-version-catalog-for-software-lifecycle-management.md) `2026-10-11` [GA] [new-region] [security]
-- [Amazon ECS adds Amazon VPC Lattice support for blue/green, linear, and canary deployments](../../news/2026/10/2026-10-11_amazon-ecs-adds-amazon-vpc-lattice-support-for-bluegreen-linear-and-canary-deplo.md) `2026-10-11` [GA] [new-region]
-- [AWS Lambda supports OAuth authentication for self-managed Apache Kafka event sources](../../news/2026/10/2026-10-11_aws-lambda-supports-oauth-authentication-for-self-managed-apache-kafka-event-sou.md) `2026-10-11` [GA] [new-region] [security]
+- [AWS Health introduces the version catalog for software lifecycle management](../../news/2026/10/2026-10-12_aws-health-introduces-the-version-catalog-for-software-lifecycle-management.md) `2026-10-12` [GA] [new-region] [security]
+- [Amazon ECS adds Amazon VPC Lattice support for blue/green, linear, and canary deployments](../../news/2026/10/2026-10-12_amazon-ecs-adds-amazon-vpc-lattice-support-for-bluegreen-linear-and-canary-deplo.md) `2026-10-12` [GA] [new-region]
+- [AWS Lambda supports OAuth authentication for self-managed Apache Kafka event sources](../../news/2026/10/2026-10-12_aws-lambda-supports-oauth-authentication-for-self-managed-apache-kafka-event-sou.md) `2026-10-12` [GA] [new-region] [security]

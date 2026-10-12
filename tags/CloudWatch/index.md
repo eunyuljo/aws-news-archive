@@ -8,7 +8,7 @@ nav_exclude: false
 
 총 4건
 
-- [Announcing DNS analytics and insights for Route 53 Global Resolver and DNS Firewall](../../news/2026/10/2026-10-11_announcing-dns-analytics-and-insights-for-route-53-global-resolver-and-dns-firew.md) `2026-10-11` [new-region] [performance] [security]
-- [Amazon ElastiCache for Valkey now supports OpenTelemetry metrics and detailed monitoring](../../news/2026/10/2026-10-11_amazon-elasticache-for-valkey-now-supports-opentelemetry-metrics-and-detailed-mo.md) `2026-10-11` [price-reduction] [new-region] [performance]
-- [AWS Certificate Manager now supports ACME issuance through AWS PrivateLink](../../news/2026/10/2026-10-11_aws-certificate-manager-now-supports-acme-issuance-through-aws-privatelink.md) `2026-10-11` [new-region]
-- [AWS Batch now publishes job metrics to Amazon CloudWatch](../../news/2026/10/2026-10-11_aws-batch-now-publishes-job-metrics-to-amazon-cloudwatch.md) `2026-10-11` [new-region]
+- [Announcing DNS analytics and insights for Route 53 Global Resolver and DNS Firewall](../../news/2026/10/2026-10-12_announcing-dns-analytics-and-insights-for-route-53-global-resolver-and-dns-firew.md) `2026-10-12` [new-region] [performance] [security]
+- [Amazon ElastiCache for Valkey now supports OpenTelemetry metrics and detailed monitoring](../../news/2026/10/2026-10-12_amazon-elasticache-for-valkey-now-supports-opentelemetry-metrics-and-detailed-mo.md) `2026-10-12` [price-reduction] [new-region] [performance]
+- [AWS Certificate Manager now supports ACME issuance through AWS PrivateLink](../../news/2026/10/2026-10-12_aws-certificate-manager-now-supports-acme-issuance-through-aws-privatelink.md) `2026-10-12` [new-region]
+- [AWS Batch now publishes job metrics to Amazon CloudWatch](../../news/2026/10/2026-10-12_aws-batch-now-publishes-job-metrics-to-amazon-cloudwatch.md) `2026-10-12` [new-region]

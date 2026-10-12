@@ -6,7 +6,7 @@ has_children: true
 
 # AWS 서비스별 뉴스 인덱스
 
-최근 업데이트: 2026-10-11
+최근 업데이트: 2026-10-12
 
 ---
 
@@ -14,7 +14,7 @@ has_children: true
 |--------|---------|
 | [RDS](./RDS/index.md) | 19 |
 | [S3](./S3/index.md) | 17 |
-| [Bedrock](./Bedrock/index.md) | 11 |
+| [Bedrock](./Bedrock/index.md) | 10 |
 | [EC2](./EC2/index.md) | 9 |
 | [General](./General/index.md) | 9 |
 | [CloudFormation](./CloudFormation/index.md) | 4 |
@@ -32,5 +32,6 @@ has_children: true
 | [GuardDuty](./GuardDuty/index.md) | 1 |
 | [Kinesis](./Kinesis/index.md) | 1 |
 | [Lex](./Lex/index.md) | 1 |
+| [OpenSearch](./OpenSearch/index.md) | 1 |
 | [SecretsManager](./SecretsManager/index.md) | 1 |
 | [VPC](./VPC/index.md) | 1 |

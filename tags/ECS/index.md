@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Deadline Cloud now supports ECS containers on Linux Service-Managed Fleets](../../news/2026/10/2026-10-11_aws-deadline-cloud-now-supports-ecs-containers-on-linux-service-managed-fleets.md) `2026-10-11` [new-region] [performance] [ai-ml]
+- [AWS Deadline Cloud now supports ECS containers on Linux Service-Managed Fleets](../../news/2026/10/2026-10-12_aws-deadline-cloud-now-supports-ecs-containers-on-linux-service-managed-fleets.md) `2026-10-12` [new-region] [performance] [ai-ml]
