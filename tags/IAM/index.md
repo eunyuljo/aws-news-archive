@@ -6,8 +6,7 @@ nav_exclude: false
 
 # 태그: IAM
 
-총 3건
+총 2건
 
-- [AWS IAM Identity Center Identity Store APIs now accept resource ARNs in addition to resource IDs](../../news/2026/10/2026-10-13_aws-iam-identity-center-identity-store-apis-now-accept-resource-arns-in-addition.md) `2026-10-13` [price-reduction] [new-region] [security]
-- [AWS IAM Identity Center extends multi-Region support to more AWS Regions](../../news/2026/10/2026-10-13_aws-iam-identity-center-extends-multi-region-support-to-more-aws-regions.md) `2026-10-13` [price-reduction] [new-region] [security]
-- [AWS IAM Identity Center now supports network access controls for Identity Store](../../news/2026/10/2026-10-13_aws-iam-identity-center-now-supports-network-access-controls-for-identity-store.md) `2026-10-13` [new-region] [security]
+- [AWS IAM Identity Center extends multi-Region support to more AWS Regions](../../news/2026/10/2026-10-14_aws-iam-identity-center-extends-multi-region-support-to-more-aws-regions.md) `2026-10-14` [price-reduction] [new-region] [security]
+- [AWS IAM Identity Center now supports network access controls for Identity Store](../../news/2026/10/2026-10-14_aws-iam-identity-center-now-supports-network-access-controls-for-identity-store.md) `2026-10-14` [new-region] [security]

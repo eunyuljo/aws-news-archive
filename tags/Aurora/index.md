@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Aurora DSQL now supports partial indexes](../../news/2026/10/2026-10-13_amazon-aurora-dsql-now-supports-partial-indexes.md) `2026-10-13` [price-reduction] [new-region] [performance]
+- [Amazon Aurora DSQL now supports partial indexes](../../news/2026/10/2026-10-14_amazon-aurora-dsql-now-supports-partial-indexes.md) `2026-10-14` [price-reduction] [new-region] [performance]
