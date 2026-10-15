@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Transfer Family now supports downloading multiple files and folders in web apps](../../news/2026/10/2026-10-09_aws-transfer-family-now-supports-downloading-multiple-files-and-folders-in-web-a.md) `2026-10-09` [new-region]
+- [AWS Transfer Family console supports SVG logos and ICO favicons for web apps](../../news/2026/10/2026-10-15_aws-transfer-family-console-supports-svg-logos-and-ico-favicons-for-web-apps.md) `2026-10-15` [new-region]

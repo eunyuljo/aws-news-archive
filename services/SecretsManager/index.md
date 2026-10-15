@@ -5,11 +5,11 @@ parent: Services
 
 # SecretsManager — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-10-14
+총 **1건** | 최근 업데이트: 2026-10-15
 
 ---
 
 
 ## 2026
 
-- [Improve your secrets security posture with actionable recommendations in the AWS Secrets Manager console](../../news/2026/10/2026-10-14_improve-your-secrets-security-posture-with-actionable-recommendations-in-the-aws.md) `2026-10-14`
+- [Improve your secrets security posture with actionable recommendations in the AWS Secrets Manager console](../../news/2026/10/2026-10-15_improve-your-secrets-security-posture-with-actionable-recommendations-in-the-aws.md) `2026-10-15`

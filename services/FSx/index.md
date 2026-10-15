@@ -5,11 +5,11 @@ parent: Services
 
 # FSx — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-10-08
+총 **1건** | 최근 업데이트: 2026-10-15
 
 ---
 
 
 ## 2026
 
-- [AWS Backup adds logically air-gapped vault support for Amazon FSx for NetApp ONTAP](../../news/2026/10/2026-10-08_aws-backup-adds-logically-air-gapped-vault-support-for-amazon-fsx-for-netapp-ont.md) `2026-10-08`
+- [AWS Backup now supports Amazon FSx file systems in the Asia Pacific (New Zealand) Region](../../news/2026/10/2026-10-15_aws-backup-now-supports-amazon-fsx-file-systems-in-the-asia-pacific-new-zealand-.md) `2026-10-15`
