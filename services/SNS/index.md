@@ -5,11 +5,11 @@ parent: Services
 
 # SNS — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-09-18
+총 **1건** | 최근 업데이트: 2026-10-16
 
 ---
 
 
 ## 2026
 
-- [Amazon GuardDuty adds optional threat detection rules](../../news/2026/09/2026-09-18_amazon-guardduty-adds-optional-threat-detection-rules.md) `2026-09-18`
+- [AWS Security Hub CSPM now supports the Cyber Risk Institute profile version 2.2](../../news/2026/10/2026-10-16_aws-security-hub-cspm-now-supports-the-cyber-risk-institute-profile-version-22.md) `2026-10-16`

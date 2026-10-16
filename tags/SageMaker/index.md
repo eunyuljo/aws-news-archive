@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon SageMaker AI now supports serverless model customization for NVIDIA Nemotron 3.5 Lightning](../../news/2026/09/2026-09-30_amazon-sagemaker-ai-now-supports-serverless-model-customization-for-nvidia-nemot.md) `2026-09-30` [GA] [price-reduction] [performance] [ai-ml]
+- [Muse Spark Open model now available on Amazon SageMaker JumpStart](../../news/2026/10/2026-10-16_muse-spark-open-model-now-available-on-amazon-sagemaker-jumpstart.md) `2026-10-16` [GA] [price-reduction] [ai-ml]

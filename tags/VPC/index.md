@@ -6,6 +6,7 @@ nav_exclude: false
 
 # 태그: VPC
 
-총 1건
+총 2건
 
-- [AWS Transfer Family now automatically approves SFTP connector quota increases up to 1,000](../../news/2026/10/2026-10-13_aws-transfer-family-now-automatically-approves-sftp-connector-quota-increases-up.md) `2026-10-13` [new-region]
+- [Oracle Database@AWS supports aggregate and default routes for ODB peering](../../news/2026/10/2026-10-16_oracle-databaseaws-supports-aggregate-and-default-routes-for-odb-peering.md) `2026-10-16` [GA] [new-region]
+- [AWS HealthOmics now supports shared VPCs](../../news/2026/10/2026-10-16_aws-healthomics-now-supports-shared-vpcs.md) `2026-10-16` [new-region] [security]

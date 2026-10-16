@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Backup now supports Amazon FSx file systems in the Asia Pacific (New Zealand) Region](../../news/2026/10/2026-10-15_aws-backup-now-supports-amazon-fsx-file-systems-in-the-asia-pacific-new-zealand-.md) `2026-10-15` [GA] [new-region] [security]
+- [AWS Backup now supports Amazon FSx file systems in the Asia Pacific (New Zealand) Region](../../news/2026/10/2026-10-16_aws-backup-now-supports-amazon-fsx-file-systems-in-the-asia-pacific-new-zealand-.md) `2026-10-16` [GA] [new-region] [security]

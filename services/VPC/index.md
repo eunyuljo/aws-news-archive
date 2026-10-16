@@ -5,11 +5,12 @@ parent: Services
 
 # VPC — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-10-13
+총 **2건** | 최근 업데이트: 2026-10-16
 
 ---
 
 
 ## 2026
 
-- [AWS Transfer Family now automatically approves SFTP connector quota increases up to 1,000](../../news/2026/10/2026-10-13_aws-transfer-family-now-automatically-approves-sftp-connector-quota-increases-up.md) `2026-10-13`
+- [Oracle Database@AWS supports aggregate and default routes for ODB peering](../../news/2026/10/2026-10-16_oracle-databaseaws-supports-aggregate-and-default-routes-for-odb-peering.md) `2026-10-16`
+- [AWS HealthOmics now supports shared VPCs](../../news/2026/10/2026-10-16_aws-healthomics-now-supports-shared-vpcs.md) `2026-10-16`

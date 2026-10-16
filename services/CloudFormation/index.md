@@ -5,14 +5,12 @@ parent: Services
 
 # CloudFormation — AWS 뉴스
 
-총 **4건** | 최근 업데이트: 2026-10-15
+총 **2건** | 최근 업데이트: 2026-10-16
 
 ---
 
 
 ## 2026
 
-- [AWS Security Hub introduces remediation plans to prioritize and fix security exposures](../../news/2026/10/2026-10-15_aws-security-hub-introduces-remediation-plans-to-prioritize-and-fix-security-exp.md) `2026-10-15`
-- [AWS Well-Architected Agent is now available in preview](../../news/2026/10/2026-10-15_aws-well-architected-agent-is-now-available-in-preview.md) `2026-10-15`
-- [Amazon OpenSearch Service introduces validation advisory for domain configuration changes](../../news/2026/10/2026-10-15_amazon-opensearch-service-introduces-validation-advisory-for-domain-configuratio.md) `2026-10-15`
-- [AWS Capabilities by Region now offers availability notifications for individual features and advanced filters](../../news/2026/10/2026-10-15_aws-capabilities-by-region-now-offers-availability-notifications-for-individual-.md) `2026-10-15`
+- [Amazon OpenSearch Service introduces validation advisory for domain configuration changes](../../news/2026/10/2026-10-16_amazon-opensearch-service-introduces-validation-advisory-for-domain-configuratio.md) `2026-10-16`
+- [AWS Capabilities by Region now offers availability notifications for individual features and advanced filters](../../news/2026/10/2026-10-16_aws-capabilities-by-region-now-offers-availability-notifications-for-individual-.md) `2026-10-16`

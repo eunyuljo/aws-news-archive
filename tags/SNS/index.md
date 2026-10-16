@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon GuardDuty adds optional threat detection rules](../../news/2026/09/2026-09-18_amazon-guardduty-adds-optional-threat-detection-rules.md) `2026-09-18` [new-region]
+- [AWS Security Hub CSPM now supports the Cyber Risk Institute profile version 2.2](../../news/2026/10/2026-10-16_aws-security-hub-cspm-now-supports-the-cyber-risk-institute-profile-version-22.md) `2026-10-16` [GA] [price-reduction] [new-region] [security]
