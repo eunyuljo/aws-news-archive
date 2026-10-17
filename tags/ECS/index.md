@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon ECS adds LiveTaskCount and removes the charge for RunningTaskCount metric](../../news/2026/10/2026-10-16_amazon-ecs-adds-livetaskcount-and-removes-the-charge-for-runningtaskcount-metric.md) `2026-10-16` [GA] [new-region]
+- [Amazon ECS adds LiveTaskCount and removes the charge for RunningTaskCount metric](../../news/2026/10/2026-10-17_amazon-ecs-adds-livetaskcount-and-removes-the-charge-for-runningtaskcount-metric.md) `2026-10-17` [GA] [new-region]
