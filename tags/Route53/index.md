@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Route 53 now supports registrations, transfers, and renewals for Premium Domains](../../news/2026/10/2026-10-17_amazon-route-53-now-supports-registrations-transfers-and-renewals-for-premium-do.md) `2026-10-17` [GA] [price-reduction]
+- [Amazon Route 53 now supports registrations, transfers, and renewals for Premium Domains](../../news/2026/10/2026-10-18_amazon-route-53-now-supports-registrations-transfers-and-renewals-for-premium-do.md) `2026-10-18` [GA] [price-reduction]

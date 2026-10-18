@@ -5,21 +5,21 @@ parent: Services
 
 # Lambda — AWS 뉴스
 
-총 **11건** | 최근 업데이트: 2026-10-17
+총 **11건** | 최근 업데이트: 2026-10-18
 
 ---
 
 
 ## 2026
 
-- [AWS Lambda supports OAuth authentication for self-managed Apache Kafka event sources](../../news/2026/10/2026-10-17_aws-lambda-supports-oauth-authentication-for-self-managed-apache-kafka-event-sou.md) `2026-10-17`
-- [AWS Secrets Manager adds managed external secrets support for Databricks and Twilio](../../news/2026/10/2026-10-17_aws-secrets-manager-adds-managed-external-secrets-support-for-databricks-and-twi.md) `2026-10-17`
-- [AWS Lambda announces Lambda Web Functions](../../news/2026/10/2026-10-17_aws-lambda-announces-lambda-web-functions.md) `2026-10-17`
-- [Amazon CloudFront now supports AWS Lambda Web Functions as an origin](../../news/2026/10/2026-10-17_amazon-cloudfront-now-supports-aws-lambda-web-functions-as-an-origin.md) `2026-10-17`
-- [AWS Lambda durable functions increases durable operation and checkpoint payload limits](../../news/2026/10/2026-10-17_aws-lambda-durable-functions-increases-durable-operation-and-checkpoint-payload-.md) `2026-10-17`
-- [ARC Region switch adds four new capabilities](../../news/2026/10/2026-10-17_arc-region-switch-adds-four-new-capabilities.md) `2026-10-17`
-- [AWS Lambda recursive loop detection now supports Amazon EventBridge Custom event buses](../../news/2026/10/2026-10-17_aws-lambda-recursive-loop-detection-now-supports-amazon-eventbridge-custom-event.md) `2026-10-17`
-- [Amazon MSK Connect and AWS Glue Schema Registry are now available in the AWS European Sovereign Cloud (Germany) region](../../news/2026/10/2026-10-17_amazon-msk-connect-and-aws-glue-schema-registry-are-now-available-in-the-aws-eur.md) `2026-10-17`
-- [AWS Lambda Durable Execution SDK for Go is now generally available](../../news/2026/10/2026-10-17_aws-lambda-durable-execution-sdk-for-go-is-now-generally-available.md) `2026-10-17`
-- [AWS Transform announces Azure-to-AWS cloud-native code conversion](../../news/2026/10/2026-10-17_aws-transform-announces-azure-to-aws-cloud-native-code-conversion.md) `2026-10-17`
-- [AWS Lambda durable functions are now available in AWS GovCloud (US) Regions](../../news/2026/10/2026-10-17_aws-lambda-durable-functions-are-now-available-in-aws-govcloud-us-regions.md) `2026-10-17`
+- [AWS Lambda supports OAuth authentication for self-managed Apache Kafka event sources](../../news/2026/10/2026-10-18_aws-lambda-supports-oauth-authentication-for-self-managed-apache-kafka-event-sou.md) `2026-10-18`
+- [AWS Secrets Manager adds managed external secrets support for Databricks and Twilio](../../news/2026/10/2026-10-18_aws-secrets-manager-adds-managed-external-secrets-support-for-databricks-and-twi.md) `2026-10-18`
+- [AWS Lambda announces Lambda Web Functions](../../news/2026/10/2026-10-18_aws-lambda-announces-lambda-web-functions.md) `2026-10-18`
+- [Amazon CloudFront now supports AWS Lambda Web Functions as an origin](../../news/2026/10/2026-10-18_amazon-cloudfront-now-supports-aws-lambda-web-functions-as-an-origin.md) `2026-10-18`
+- [AWS Lambda durable functions increases durable operation and checkpoint payload limits](../../news/2026/10/2026-10-18_aws-lambda-durable-functions-increases-durable-operation-and-checkpoint-payload-.md) `2026-10-18`
+- [ARC Region switch adds four new capabilities](../../news/2026/10/2026-10-18_arc-region-switch-adds-four-new-capabilities.md) `2026-10-18`
+- [AWS Lambda recursive loop detection now supports Amazon EventBridge Custom event buses](../../news/2026/10/2026-10-18_aws-lambda-recursive-loop-detection-now-supports-amazon-eventbridge-custom-event.md) `2026-10-18`
+- [Amazon MSK Connect and AWS Glue Schema Registry are now available in the AWS European Sovereign Cloud (Germany) region](../../news/2026/10/2026-10-18_amazon-msk-connect-and-aws-glue-schema-registry-are-now-available-in-the-aws-eur.md) `2026-10-18`
+- [AWS Lambda Durable Execution SDK for Go is now generally available](../../news/2026/10/2026-10-18_aws-lambda-durable-execution-sdk-for-go-is-now-generally-available.md) `2026-10-18`
+- [AWS Transform announces Azure-to-AWS cloud-native code conversion](../../news/2026/10/2026-10-18_aws-transform-announces-azure-to-aws-cloud-native-code-conversion.md) `2026-10-18`
+- [AWS Lambda durable functions are now available in AWS GovCloud (US) Regions](../../news/2026/10/2026-10-18_aws-lambda-durable-functions-are-now-available-in-aws-govcloud-us-regions.md) `2026-10-18`
