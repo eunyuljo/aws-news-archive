@@ -14,7 +14,7 @@ has_children: true
 | [performance](./performance/index.md) | 35 |
 | [security](./security/index.md) | 31 |
 | [ai-ml](./ai-ml/index.md) | 29 |
-| [price-reduction](./price-reduction/index.md) | 25 |
+| [price-reduction](./price-reduction/index.md) | 24 |
 | [EC2](./EC2/index.md) | 16 |
 | [Lambda](./Lambda/index.md) | 11 |
 | [RDS](./RDS/index.md) | 11 |

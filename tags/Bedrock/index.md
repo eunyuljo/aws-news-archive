@@ -8,11 +8,11 @@ nav_exclude: false
 
 총 8건
 
-- [GLM 5.3 by Z.ai is now generally available on Amazon Bedrock](../../news/2026/10/2026-10-18_glm-53-by-zai-is-now-generally-available-on-amazon-bedrock.md) `2026-10-18` [GA] [price-reduction] [new-region] [performance] [security] [ai-ml]
-- [Claude Haiku 5.5 is now available on AWS GovCloud (US)](../../news/2026/10/2026-10-18_claude-haiku-55-is-now-available-on-aws-govcloud-us.md) `2026-10-18` [GA] [price-reduction] [new-region] [performance]
-- [Claude Haiku 5.5 is now available on AWS](../../news/2026/10/2026-10-18_claude-haiku-55-is-now-available-on-aws.md) `2026-10-18` [GA] [price-reduction] [new-region] [performance]
-- [OpenAI GPT-6.1 Sol now supports Ultrafast mode on Amazon Bedrock](../../news/2026/10/2026-10-18_openai-gpt-61-sol-now-supports-ultrafast-mode-on-amazon-bedrock.md) `2026-10-18` [new-region] [performance] [security] [ai-ml]
-- [TwelveLabs Pegasus 1.5 model now available on Amazon Bedrock](../../news/2026/10/2026-10-18_twelvelabs-pegasus-15-model-now-available-on-amazon-bedrock.md) `2026-10-18` [GA] [new-region] [ai-ml]
-- [Amazon Bedrock now supports reasoning summaries for OpenAI models](../../news/2026/10/2026-10-18_amazon-bedrock-now-supports-reasoning-summaries-for-openai-models.md) `2026-10-18` [new-region] [ai-ml]
-- [Announcing consumption-based pricing for short-term memory in Amazon Bedrock AgentCore](../../news/2026/10/2026-10-18_announcing-consumption-based-pricing-for-short-term-memory-in-amazon-bedrock-age.md) `2026-10-18` [price-reduction] [new-region]
-- [Web Search on Amazon Bedrock AgentCore expands to AWS GovCloud and 3 Regions](../../news/2026/10/2026-10-18_web-search-on-amazon-bedrock-agentcore-expands-to-aws-govcloud-and-3-regions.md) `2026-10-18` [GA] [new-region] [performance] [security] [ai-ml]
+- [GLM 5.3 by Z.ai is now generally available on Amazon Bedrock](../../news/2026/10/2026-10-19_glm-53-by-zai-is-now-generally-available-on-amazon-bedrock.md) `2026-10-19` [GA] [price-reduction] [new-region] [performance] [security] [ai-ml]
+- [Claude Haiku 5.5 is now available on AWS GovCloud (US)](../../news/2026/10/2026-10-19_claude-haiku-55-is-now-available-on-aws-govcloud-us.md) `2026-10-19` [GA] [price-reduction] [new-region] [performance]
+- [Claude Haiku 5.5 is now available on AWS](../../news/2026/10/2026-10-19_claude-haiku-55-is-now-available-on-aws.md) `2026-10-19` [GA] [price-reduction] [new-region] [performance]
+- [OpenAI GPT-6.1 Sol now supports Ultrafast mode on Amazon Bedrock](../../news/2026/10/2026-10-19_openai-gpt-61-sol-now-supports-ultrafast-mode-on-amazon-bedrock.md) `2026-10-19` [new-region] [performance] [security] [ai-ml]
+- [TwelveLabs Pegasus 1.5 model now available on Amazon Bedrock](../../news/2026/10/2026-10-19_twelvelabs-pegasus-15-model-now-available-on-amazon-bedrock.md) `2026-10-19` [GA] [new-region] [ai-ml]
+- [Amazon Bedrock now supports reasoning summaries for OpenAI models](../../news/2026/10/2026-10-19_amazon-bedrock-now-supports-reasoning-summaries-for-openai-models.md) `2026-10-19` [new-region] [ai-ml]
+- [Announcing consumption-based pricing for short-term memory in Amazon Bedrock AgentCore](../../news/2026/10/2026-10-19_announcing-consumption-based-pricing-for-short-term-memory-in-amazon-bedrock-age.md) `2026-10-19` [price-reduction] [new-region]
+- [Web Search on Amazon Bedrock AgentCore expands to AWS GovCloud and 3 Regions](../../news/2026/10/2026-10-19_web-search-on-amazon-bedrock-agentcore-expands-to-aws-govcloud-and-3-regions.md) `2026-10-19` [GA] [new-region] [performance] [security] [ai-ml]
