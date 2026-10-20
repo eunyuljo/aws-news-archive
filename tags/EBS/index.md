@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS End User Messaging now supports Dynamic Flows in WhatsApp](../../news/2026/09/2026-09-29_aws-end-user-messaging-now-supports-dynamic-flows-in-whatsapp.md) `2026-09-29` [new-region]
+- [Amazon Connect Customer Global Resiliency now provides business users visibility into resiliency readiness across linked Regions](../../news/2026/10/2026-10-20_amazon-connect-customer-global-resiliency-now-provides-business-users-visibility.md) `2026-10-20` [new-region]

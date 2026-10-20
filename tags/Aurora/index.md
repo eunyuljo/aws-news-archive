@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Transform for full-stack Windows modernization now supports Aurora PostgreSQL cross-region deployment in 7 more Regions](../../news/2026/10/2026-10-19_aws-transform-for-full-stack-windows-modernization-now-supports-aurora-postgresq.md) `2026-10-19` [GA] [new-region] [performance]
+- [AWS Transform for full-stack Windows modernization now supports Aurora PostgreSQL cross-region deployment in 7 more Regions](../../news/2026/10/2026-10-20_aws-transform-for-full-stack-windows-modernization-now-supports-aurora-postgresq.md) `2026-10-20` [GA] [new-region] [performance]
