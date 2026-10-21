@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon DynamoDB global tables with multi-Region strong consistency now supports additional AWS Regions and cross-continent configurations](../../news/2026/10/2026-10-02_amazon-dynamodb-global-tables-with-multi-region-strong-consistency-now-supports-.md) `2026-10-02` [new-region]
+- [Amazon DynamoDB global tables now support disassociating replicas](../../news/2026/10/2026-10-21_amazon-dynamodb-global-tables-now-support-disassociating-replicas.md) `2026-10-21` [new-region]

@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Client VPN now supports device posture assessment](../../news/2026/10/2026-10-16_aws-client-vpn-now-supports-device-posture-assessment.md) `2026-10-16` [price-reduction] [new-region] [security]
+- [Polly Generative engine upgraded with more natural speech, 14 new voices, and 2 new languages](../../news/2026/10/2026-10-21_polly-generative-engine-upgraded-with-more-natural-speech-14-new-voices-and-2-ne.md) `2026-10-21` [GA] [new-region] [performance] [ai-ml]

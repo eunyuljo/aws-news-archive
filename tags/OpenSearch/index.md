@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon OpenSearch Service now supports index-level encryption](../../news/2026/10/2026-10-20_amazon-opensearch-service-now-supports-index-level-encryption.md) `2026-10-20` [new-region] [security]
+- [Amazon OpenSearch Service now supports index-level encryption](../../news/2026/10/2026-10-21_amazon-opensearch-service-now-supports-index-level-encryption.md) `2026-10-21` [new-region] [security]
