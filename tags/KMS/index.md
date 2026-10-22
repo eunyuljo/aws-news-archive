@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Transcribe adds customer-managed KMS keys for custom resources](../../news/2026/10/2026-10-07_amazon-transcribe-adds-customer-managed-kms-keys-for-custom-resources.md) `2026-10-07` [new-region] [security]
+- [Amazon Cognito extends multi-Region replication to AWS GovCloud (US) Regions](../../news/2026/10/2026-10-22_amazon-cognito-extends-multi-region-replication-to-aws-govcloud-us-regions.md) `2026-10-22` [new-region] [security]

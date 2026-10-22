@@ -5,11 +5,11 @@ parent: Services
 
 # KMS — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-10-07
+총 **1건** | 최근 업데이트: 2026-10-22
 
 ---
 
 
 ## 2026
 
-- [Amazon Transcribe adds customer-managed KMS keys for custom resources](../../news/2026/10/2026-10-07_amazon-transcribe-adds-customer-managed-kms-keys-for-custom-resources.md) `2026-10-07`
+- [Amazon Cognito extends multi-Region replication to AWS GovCloud (US) Regions](../../news/2026/10/2026-10-22_amazon-cognito-extends-multi-region-replication-to-aws-govcloud-us-regions.md) `2026-10-22`

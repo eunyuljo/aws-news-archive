@@ -5,11 +5,11 @@ parent: Services
 
 # TransferFamily — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-10-21
+총 **1건** | 최근 업데이트: 2026-10-22
 
 ---
 
 
 ## 2026
 
-- [AWS Transfer Family console supports SVG logos and ICO favicons for web apps](../../news/2026/10/2026-10-21_aws-transfer-family-console-supports-svg-logos-and-ico-favicons-for-web-apps.md) `2026-10-21`
+- [AWS Transfer Family console supports SVG logos and ICO favicons for web apps](../../news/2026/10/2026-10-22_aws-transfer-family-console-supports-svg-logos-and-ico-favicons-for-web-apps.md) `2026-10-22`

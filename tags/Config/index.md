@@ -8,9 +8,9 @@ nav_exclude: false
 
 총 6건
 
-- [AWS Transfer Family supports custom ports for public SFTP servers](../../news/2026/10/2026-10-21_aws-transfer-family-supports-custom-ports-for-public-sftp-servers.md) `2026-10-21` [GA] [new-region]
-- [AWS DataSync Enhanced mode now supports FSx for OpenZFS, NFS 4.2, and object metadata controls](../../news/2026/10/2026-10-21_aws-datasync-enhanced-mode-now-supports-fsx-for-openzfs-nfs-42-and-object-metada.md) `2026-10-21` [new-region]
-- [AWS HealthOmics introduces resource fallback order for Nextflow workflows](../../news/2026/10/2026-10-21_aws-healthomics-introduces-resource-fallback-order-for-nextflow-workflows.md) `2026-10-21` [new-region]
-- [Launch AWS DevOps Agent to review findings and test results from AWS Resilience Hub](../../news/2026/10/2026-10-21_launch-aws-devops-agent-to-review-findings-and-test-results-from-aws-resilience-.md) `2026-10-21` [GA] [new-region] [ai-ml]
-- [Amazon Managed Workflows for Apache Airflow now offers AI agent skills](../../news/2026/10/2026-10-21_amazon-managed-workflows-for-apache-airflow-now-offers-ai-agent-skills.md) `2026-10-21` [new-region] [ai-ml]
-- [AWS End User Messaging now offers managed OTP verification end-to-end](../../news/2026/10/2026-10-21_aws-end-user-messaging-now-offers-managed-otp-verification-end-to-end.md) `2026-10-21` [new-region]
+- [AWS Transfer Family supports custom ports for public SFTP servers](../../news/2026/10/2026-10-22_aws-transfer-family-supports-custom-ports-for-public-sftp-servers.md) `2026-10-22` [GA] [new-region]
+- [AWS DataSync Enhanced mode now supports FSx for OpenZFS, NFS 4.2, and object metadata controls](../../news/2026/10/2026-10-22_aws-datasync-enhanced-mode-now-supports-fsx-for-openzfs-nfs-42-and-object-metada.md) `2026-10-22` [new-region]
+- [AWS HealthOmics introduces resource fallback order for Nextflow workflows](../../news/2026/10/2026-10-22_aws-healthomics-introduces-resource-fallback-order-for-nextflow-workflows.md) `2026-10-22` [new-region]
+- [Launch AWS DevOps Agent to review findings and test results from AWS Resilience Hub](../../news/2026/10/2026-10-22_launch-aws-devops-agent-to-review-findings-and-test-results-from-aws-resilience-.md) `2026-10-22` [GA] [new-region] [ai-ml]
+- [Amazon Managed Workflows for Apache Airflow now offers AI agent skills](../../news/2026/10/2026-10-22_amazon-managed-workflows-for-apache-airflow-now-offers-ai-agent-skills.md) `2026-10-22` [new-region] [ai-ml]
+- [AWS End User Messaging now offers managed OTP verification end-to-end](../../news/2026/10/2026-10-22_aws-end-user-messaging-now-offers-managed-otp-verification-end-to-end.md) `2026-10-22` [new-region]
