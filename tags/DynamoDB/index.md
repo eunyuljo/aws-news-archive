@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon DynamoDB global tables now support disassociating replicas](../../news/2026/10/2026-10-22_amazon-dynamodb-global-tables-now-support-disassociating-replicas.md) `2026-10-22` [new-region]
+- [Amazon DynamoDB global tables now support disassociating replicas](../../news/2026/10/2026-10-23_amazon-dynamodb-global-tables-now-support-disassociating-replicas.md) `2026-10-23` [new-region]

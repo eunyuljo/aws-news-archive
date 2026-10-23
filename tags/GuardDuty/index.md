@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon GuardDuty now supports centralized management using AWS Organizations declarative policies](../../news/2026/10/2026-10-15_amazon-guardduty-now-supports-centralized-management-using-aws-organizations-dec.md) `2026-10-15` [new-region]
+- [AWS Continuum for code vulnerabilities is now generally available](../../news/2026/10/2026-10-23_aws-continuum-for-code-vulnerabilities-is-now-generally-available.md) `2026-10-23` [GA] [new-region] [performance] [security] [ai-ml]

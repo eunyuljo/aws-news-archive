@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Capabilities by Region now offers availability notifications for individual features and advanced filters](../../news/2026/10/2026-10-20_aws-capabilities-by-region-now-offers-availability-notifications-for-individual-.md) `2026-10-20` [GA] [new-region]
+- [AWS CloudFormation now simplifies stack update rollback operations](../../news/2026/10/2026-10-23_aws-cloudformation-now-simplifies-stack-update-rollback-operations.md) `2026-10-23` [price-reduction] [new-region] [ai-ml]
