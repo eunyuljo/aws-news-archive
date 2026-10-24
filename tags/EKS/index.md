@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Network Firewall adds wildcard support for container attribute filters](../../news/2026/10/2026-10-20_aws-network-firewall-adds-wildcard-support-for-container-attribute-filters.md) `2026-10-20` [new-region] [security]
+- [Amazon EMR on EKS reduces EMR charge by 30 percent](../../news/2026/10/2026-10-24_amazon-emr-on-eks-reduces-emr-charge-by-30-percent.md) `2026-10-24` [price-reduction] [new-region]

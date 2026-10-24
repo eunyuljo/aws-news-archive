@@ -5,11 +5,12 @@ parent: Services
 
 # CloudFormation — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-10-23
+총 **2건** | 최근 업데이트: 2026-10-24
 
 ---
 
 
 ## 2026
 
-- [AWS CloudFormation now simplifies stack update rollback operations](../../news/2026/10/2026-10-23_aws-cloudformation-now-simplifies-stack-update-rollback-operations.md) `2026-10-23`
+- [AWS CloudFormation now simplifies stack update rollback operations](../../news/2026/10/2026-10-24_aws-cloudformation-now-simplifies-stack-update-rollback-operations.md) `2026-10-24`
+- [Amazon MWAA now available in Mexico (Central) Region](../../news/2026/10/2026-10-24_amazon-mwaa-now-available-in-mexico-central-region.md) `2026-10-24`
