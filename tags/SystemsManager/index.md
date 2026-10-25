@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Polly Generative engine upgraded with more natural speech, 14 new voices, and 2 new languages](../../news/2026/10/2026-10-24_polly-generative-engine-upgraded-with-more-natural-speech-14-new-voices-and-2-ne.md) `2026-10-24` [GA] [new-region] [performance] [ai-ml]
+- [Polly Generative engine upgraded with more natural speech, 14 new voices, and 2 new languages](../../news/2026/10/2026-10-25_polly-generative-engine-upgraded-with-more-natural-speech-14-new-voices-and-2-ne.md) `2026-10-25` [GA] [new-region] [performance] [ai-ml]

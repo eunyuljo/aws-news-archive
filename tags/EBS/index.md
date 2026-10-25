@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Connect Customer Global Resiliency now provides business users visibility into resiliency readiness across linked Regions](../../news/2026/10/2026-10-24_amazon-connect-customer-global-resiliency-now-provides-business-users-visibility.md) `2026-10-24` [new-region]
+- [Amazon Connect Customer Global Resiliency now provides business users visibility into resiliency readiness across linked Regions](../../news/2026/10/2026-10-25_amazon-connect-customer-global-resiliency-now-provides-business-users-visibility.md) `2026-10-25` [new-region]

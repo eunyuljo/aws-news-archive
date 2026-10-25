@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Cognito extends multi-Region replication to AWS GovCloud (US) Regions](../../news/2026/10/2026-10-24_amazon-cognito-extends-multi-region-replication-to-aws-govcloud-us-regions.md) `2026-10-24` [new-region] [security]
+- [Amazon Cognito extends multi-Region replication to AWS GovCloud (US) Regions](../../news/2026/10/2026-10-25_amazon-cognito-extends-multi-region-replication-to-aws-govcloud-us-regions.md) `2026-10-25` [new-region] [security]

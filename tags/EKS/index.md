@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon EMR on EKS reduces EMR charge by 30 percent](../../news/2026/10/2026-10-24_amazon-emr-on-eks-reduces-emr-charge-by-30-percent.md) `2026-10-24` [price-reduction] [new-region]
+- [Amazon EMR on EKS reduces EMR charge by 30 percent](../../news/2026/10/2026-10-25_amazon-emr-on-eks-reduces-emr-charge-by-30-percent.md) `2026-10-25` [price-reduction] [new-region]
