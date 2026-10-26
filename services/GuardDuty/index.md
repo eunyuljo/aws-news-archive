@@ -5,11 +5,11 @@ parent: Services
 
 # GuardDuty — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-10-25
+총 **1건** | 최근 업데이트: 2026-10-26
 
 ---
 
 
 ## 2026
 
-- [AWS Continuum for code vulnerabilities is now generally available](../../news/2026/10/2026-10-25_aws-continuum-for-code-vulnerabilities-is-now-generally-available.md) `2026-10-25`
+- [AWS Continuum for code vulnerabilities is now generally available](../../news/2026/10/2026-10-26_aws-continuum-for-code-vulnerabilities-is-now-generally-available.md) `2026-10-26`
