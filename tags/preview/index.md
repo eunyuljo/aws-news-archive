@@ -8,6 +8,6 @@ nav_exclude: false
 
 총 3건
 
-- [PostgreSQL 19 RC1 is now available in Amazon RDS Database Preview Environment](../../news/2026/10/2026-10-26_postgresql-19-rc1-is-now-available-in-amazon-rds-database-preview-environment.md) `2026-10-26` [GA] [preview] [price-reduction] [new-region]
-- [AWS Transform announces Azure-to-AWS cloud-native code conversion](../../news/2026/10/2026-10-26_aws-transform-announces-azure-to-aws-cloud-native-code-conversion.md) `2026-10-26` [preview] [new-region]
-- [AWS announces AWS Interconnect - last mile preview with Megaport](../../news/2026/10/2026-10-26_aws-announces-aws-interconnect-last-mile-preview-with-megaport.md) `2026-10-26` [GA] [preview] [new-region] [performance]
+- [PostgreSQL 19 RC1 is now available in Amazon RDS Database Preview Environment](../../news/2026/10/2026-10-27_postgresql-19-rc1-is-now-available-in-amazon-rds-database-preview-environment.md) `2026-10-27` [GA] [preview] [price-reduction] [new-region]
+- [AWS Transform announces Azure-to-AWS cloud-native code conversion](../../news/2026/10/2026-10-27_aws-transform-announces-azure-to-aws-cloud-native-code-conversion.md) `2026-10-27` [preview] [new-region]
+- [AWS announces AWS Interconnect - last mile preview with Megaport](../../news/2026/10/2026-10-27_aws-announces-aws-interconnect-last-mile-preview-with-megaport.md) `2026-10-27` [GA] [preview] [new-region] [performance]

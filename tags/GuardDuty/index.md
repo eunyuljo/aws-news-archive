@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Continuum for code vulnerabilities is now generally available](../../news/2026/10/2026-10-26_aws-continuum-for-code-vulnerabilities-is-now-generally-available.md) `2026-10-26` [GA] [new-region] [performance] [security] [ai-ml]
+- [AWS Continuum for code vulnerabilities is now generally available](../../news/2026/10/2026-10-27_aws-continuum-for-code-vulnerabilities-is-now-generally-available.md) `2026-10-27` [GA] [new-region] [performance] [security] [ai-ml]
