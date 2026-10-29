@@ -8,5 +8,5 @@ nav_exclude: false
 
 총 2건
 
-- [AWS CloudFormation now simplifies stack update rollback operations](../../news/2026/10/2026-10-28_aws-cloudformation-now-simplifies-stack-update-rollback-operations.md) `2026-10-28` [price-reduction] [new-region] [ai-ml]
-- [Amazon MWAA now available in Mexico (Central) Region](../../news/2026/10/2026-10-28_amazon-mwaa-now-available-in-mexico-central-region.md) `2026-10-28` [GA] [new-region] [performance]
+- [AWS CloudFormation now simplifies stack update rollback operations](../../news/2026/10/2026-10-29_aws-cloudformation-now-simplifies-stack-update-rollback-operations.md) `2026-10-29` [price-reduction] [new-region] [ai-ml]
+- [Amazon MWAA now available in Mexico (Central) Region](../../news/2026/10/2026-10-29_amazon-mwaa-now-available-in-mexico-central-region.md) `2026-10-29` [GA] [new-region] [performance]

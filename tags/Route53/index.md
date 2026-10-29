@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Network Firewall now supports Route 53 Resolved IP Validation](../../news/2026/10/2026-10-28_aws-network-firewall-now-supports-route-53-resolved-ip-validation.md) `2026-10-28` [new-region] [security]
+- [AWS Network Firewall now supports Route 53 Resolved IP Validation](../../news/2026/10/2026-10-29_aws-network-firewall-now-supports-route-53-resolved-ip-validation.md) `2026-10-29` [new-region] [security]
