@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Backup adds restore testing support for Amazon Redshift](../../news/2026/10/2026-10-29_aws-backup-adds-restore-testing-support-for-amazon-redshift.md) `2026-10-29` [new-region] [security]
+- [AWS Backup adds restore testing support for Amazon Redshift](../../news/2026/10/2026-10-30_aws-backup-adds-restore-testing-support-for-amazon-redshift.md) `2026-10-30` [new-region] [security]
