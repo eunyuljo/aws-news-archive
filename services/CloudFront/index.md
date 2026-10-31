@@ -5,11 +5,12 @@ parent: Services
 
 # CloudFront — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-10-05
+총 **2건** | 최근 업데이트: 2026-10-31
 
 ---
 
 
 ## 2026
 
-- [AWS Network Security Manager is now generally available in US East (N. Virginia) Region](../../news/2026/10/2026-10-05_aws-network-security-manager-is-now-generally-available-in-us-east-n-virginia-re.md) `2026-10-05`
+- [AWS WAF announces automatic SDK integration for Amazon CloudFront distributions](../../news/2026/10/2026-10-31_aws-waf-announces-automatic-sdk-integration-for-amazon-cloudfront-distributions.md) `2026-10-31`
+- [Amazon CloudFront now provides viewer ISP and post-quantum TLS details](../../news/2026/10/2026-10-31_amazon-cloudfront-now-provides-viewer-isp-and-post-quantum-tls-details.md) `2026-10-31`
