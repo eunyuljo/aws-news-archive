@@ -8,5 +8,5 @@ nav_exclude: false
 
 총 2건
 
-- [AWS Backup now supports cross-account management and cross-account backup in the AWS European Sovereign Cloud](../../news/2026/11/2026-11-01_aws-backup-now-supports-cross-account-management-and-cross-account-backup-in-the.md) `2026-11-01` [new-region]
-- [Web Search now available on Kiro in AWS GovCloud (US)](../../news/2026/11/2026-11-01_web-search-now-available-on-kiro-in-aws-govcloud-us.md) `2026-11-01` [GA]
+- [AWS Backup now supports cross-account management and cross-account backup in the AWS European Sovereign Cloud](../../news/2026/11/2026-11-02_aws-backup-now-supports-cross-account-management-and-cross-account-backup-in-the.md) `2026-11-02` [new-region]
+- [Web Search now available on Kiro in AWS GovCloud (US)](../../news/2026/11/2026-11-02_web-search-now-available-on-kiro-in-aws-govcloud-us.md) `2026-11-02` [GA]
