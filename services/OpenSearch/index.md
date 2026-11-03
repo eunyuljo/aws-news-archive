@@ -5,12 +5,12 @@ parent: Services
 
 # OpenSearch — AWS 뉴스
 
-총 **2건** | 최근 업데이트: 2026-11-02
+총 **2건** | 최근 업데이트: 2026-11-03
 
 ---
 
 
 ## 2026
 
-- [Amazon OpenSearch Serverless now supports a 5-second default refresh interval](../../news/2026/11/2026-11-02_amazon-opensearch-serverless-now-supports-a-5-second-default-refresh-interval.md) `2026-11-02`
-- [Introducing time series collections for the next generation of Amazon OpenSearch Serverless](../../news/2026/11/2026-11-02_introducing-time-series-collections-for-the-next-generation-of-amazon-opensearch.md) `2026-11-02`
+- [Amazon OpenSearch Serverless now supports a 5-second default refresh interval](../../news/2026/11/2026-11-03_amazon-opensearch-serverless-now-supports-a-5-second-default-refresh-interval.md) `2026-11-03`
+- [Introducing time series collections for the next generation of Amazon OpenSearch Serverless](../../news/2026/11/2026-11-03_introducing-time-series-collections-for-the-next-generation-of-amazon-opensearch.md) `2026-11-03`

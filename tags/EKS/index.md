@@ -8,6 +8,6 @@ nav_exclude: false
 
 총 3건
 
-- [Amazon EMR on EKS reduces EMR charge by 30 percent](../../news/2026/11/2026-11-02_amazon-emr-on-eks-reduces-emr-charge-by-30-percent.md) `2026-11-02` [price-reduction] [new-region]
-- [Amazon EKS Auto Mode now supports Kubernetes Gateway API](../../news/2026/11/2026-11-02_amazon-eks-auto-mode-now-supports-kubernetes-gateway-api.md) `2026-11-02` [GA] [new-region]
-- [Amazon EKS Dashboard now provides fleet-wide visibility into certificate authority (CA) rotation](../../news/2026/11/2026-11-02_amazon-eks-dashboard-now-provides-fleet-wide-visibility-into-certificate-authori.md) `2026-11-02` [price-reduction] [new-region]
+- [Amazon EMR on EKS reduces EMR charge by 30 percent](../../news/2026/11/2026-11-03_amazon-emr-on-eks-reduces-emr-charge-by-30-percent.md) `2026-11-03` [price-reduction] [new-region]
+- [Amazon EKS Auto Mode now supports Kubernetes Gateway API](../../news/2026/11/2026-11-03_amazon-eks-auto-mode-now-supports-kubernetes-gateway-api.md) `2026-11-03` [GA] [new-region]
+- [Amazon EKS Dashboard now provides fleet-wide visibility into certificate authority (CA) rotation](../../news/2026/11/2026-11-03_amazon-eks-dashboard-now-provides-fleet-wide-visibility-into-certificate-authori.md) `2026-11-03` [price-reduction] [new-region]

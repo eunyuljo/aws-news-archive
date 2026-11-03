@@ -8,8 +8,8 @@ nav_exclude: false
 
 총 5건
 
-- [Amazon S3 server access log delivery to Amazon CloudWatch Logs now available in five additional AWS Regions](../../news/2026/11/2026-11-02_amazon-s3-server-access-log-delivery-to-amazon-cloudwatch-logs-now-available-in-.md) `2026-11-02` [GA] [new-region] [security]
-- [AWS Transform adds storage migration assessments for Amazon S3, EBS, EFS, and FSx](../../news/2026/11/2026-11-02_aws-transform-adds-storage-migration-assessments-for-amazon-s3-ebs-efs-and-fsx.md) `2026-11-02` [price-reduction] [new-region] [performance]
-- [Amazon OpenSearch Service introduces intelligent ingestion for logs and documents in Amazon S3](../../news/2026/11/2026-11-02_amazon-opensearch-service-introduces-intelligent-ingestion-for-logs-and-document.md) `2026-11-02` [new-region]
-- [Amazon Connect Customer automatically saves in-progress emails as drafts](../../news/2026/11/2026-11-02_amazon-connect-customer-automatically-saves-in-progress-emails-as-drafts.md) `2026-11-02`
-- [Amazon Bedrock expands API support and introduces Cross-Region Inferencing for OpenAI models in AWS GovCloud (US)](../../news/2026/11/2026-11-02_amazon-bedrock-expands-api-support-and-introduces-cross-region-inferencing-for-o.md) `2026-11-02` [GA] [price-reduction] [new-region] [performance] [ai-ml]
+- [AWS Transform adds storage migration assessments for Amazon S3, EBS, EFS, and FSx](../../news/2026/11/2026-11-03_aws-transform-adds-storage-migration-assessments-for-amazon-s3-ebs-efs-and-fsx.md) `2026-11-03` [price-reduction] [new-region] [performance]
+- [Amazon OpenSearch Service introduces intelligent ingestion for logs and documents in Amazon S3](../../news/2026/11/2026-11-03_amazon-opensearch-service-introduces-intelligent-ingestion-for-logs-and-document.md) `2026-11-03` [new-region]
+- [Amazon Connect Customer automatically saves in-progress emails as drafts](../../news/2026/11/2026-11-03_amazon-connect-customer-automatically-saves-in-progress-emails-as-drafts.md) `2026-11-03`
+- [Amazon Bedrock expands API support and introduces Cross-Region Inferencing for OpenAI models in AWS GovCloud (US)](../../news/2026/11/2026-11-03_amazon-bedrock-expands-api-support-and-introduces-cross-region-inferencing-for-o.md) `2026-11-03` [GA] [price-reduction] [new-region] [performance] [ai-ml]
+- [Announcing AWS for Fluent Bit 3.0.0 based on Fluent Bit 4.1.1](../../news/2026/11/2026-11-03_announcing-aws-for-fluent-bit-300-based-on-fluent-bit-411.md) `2026-11-03` [GA] [performance] [security]
