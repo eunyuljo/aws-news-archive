@@ -5,15 +5,15 @@ parent: Services
 
 # SageMaker — AWS 뉴스
 
-총 **5건** | 최근 업데이트: 2026-11-03
+총 **5건** | 최근 업데이트: 2026-11-04
 
 ---
 
 
 ## 2026
 
-- [Amazon SageMaker AI now supports serverless model customization for Muse Glimmer, Qwen 3.8 and Ministral 3 models](../../news/2026/11/2026-11-03_amazon-sagemaker-ai-now-supports-serverless-model-customization-for-muse-glimmer.md) `2026-11-03`
-- [Amazon SageMaker AI announces training session APIs for serverless model customization](../../news/2026/11/2026-11-03_amazon-sagemaker-ai-announces-training-session-apis-for-serverless-model-customi.md) `2026-11-03`
-- [SageMaker MLflow Apps now support MLflow 3.16](../../news/2026/11/2026-11-03_sagemaker-mlflow-apps-now-support-mlflow-316.md) `2026-11-03`
-- [Amazon SageMaker AI now supports SOCI-indexed images to start training jobs in seconds](../../news/2026/11/2026-11-03_amazon-sagemaker-ai-now-supports-soci-indexed-images-to-start-training-jobs-in-s.md) `2026-11-03`
-- [Amazon SageMaker AI inference now supports GPU partitioning for real-time endpoints](../../news/2026/11/2026-11-03_amazon-sagemaker-ai-inference-now-supports-gpu-partitioning-for-real-time-endpoi.md) `2026-11-03`
+- [Amazon SageMaker AI now supports serverless model customization for Muse Glimmer, Qwen 3.8 and Ministral 3 models](../../news/2026/11/2026-11-04_amazon-sagemaker-ai-now-supports-serverless-model-customization-for-muse-glimmer.md) `2026-11-04`
+- [Amazon SageMaker AI announces training session APIs for serverless model customization](../../news/2026/11/2026-11-04_amazon-sagemaker-ai-announces-training-session-apis-for-serverless-model-customi.md) `2026-11-04`
+- [SageMaker MLflow Apps now support MLflow 3.16](../../news/2026/11/2026-11-04_sagemaker-mlflow-apps-now-support-mlflow-316.md) `2026-11-04`
+- [Amazon SageMaker AI now supports SOCI-indexed images to start training jobs in seconds](../../news/2026/11/2026-11-04_amazon-sagemaker-ai-now-supports-soci-indexed-images-to-start-training-jobs-in-s.md) `2026-11-04`
+- [Amazon SageMaker AI inference now supports GPU partitioning for real-time endpoints](../../news/2026/11/2026-11-04_amazon-sagemaker-ai-inference-now-supports-gpu-partitioning-for-real-time-endpoi.md) `2026-11-04`
