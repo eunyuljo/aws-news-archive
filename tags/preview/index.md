@@ -8,5 +8,5 @@ nav_exclude: false
 
 총 2건
 
-- [AWS announces AWS Interconnect - last mile preview with Megaport](../../news/2026/11/2026-11-04_aws-announces-aws-interconnect-last-mile-preview-with-megaport.md) `2026-11-04` [GA] [preview] [new-region] [performance]
-- [Amazon Connect Customer supports inline attachment previews](../../news/2026/11/2026-11-04_amazon-connect-customer-supports-inline-attachment-previews.md) `2026-11-04` [preview] [new-region]
+- [Amazon Connect Customer supports inline attachment previews](../../news/2026/11/2026-11-05_amazon-connect-customer-supports-inline-attachment-previews.md) `2026-11-05` [preview] [new-region]
+- [AWS announces AWS Interconnect - last mile preview with Equinix](../../news/2026/11/2026-11-05_aws-announces-aws-interconnect-last-mile-preview-with-equinix.md) `2026-11-05` [GA] [preview] [new-region] [performance]

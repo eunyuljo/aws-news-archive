@@ -5,12 +5,11 @@ parent: Services
 
 # CloudFormation — AWS 뉴스
 
-총 **2건** | 최근 업데이트: 2026-11-04
+총 **1건** | 최근 업데이트: 2026-11-05
 
 ---
 
 
 ## 2026
 
-- [AWS CloudFormation now simplifies stack update rollback operations](../../news/2026/11/2026-11-04_aws-cloudformation-now-simplifies-stack-update-rollback-operations.md) `2026-11-04`
-- [Amazon MWAA now available in Mexico (Central) Region](../../news/2026/11/2026-11-04_amazon-mwaa-now-available-in-mexico-central-region.md) `2026-11-04`
+- [AWS DataSync Enhanced mode supports OpenID Connect (OIDC) for Google Cloud and Microsoft Azure](../../news/2026/11/2026-11-05_aws-datasync-enhanced-mode-supports-openid-connect-oidc-for-google-cloud-and-mic.md) `2026-11-05`

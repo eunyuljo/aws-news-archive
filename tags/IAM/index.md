@@ -8,8 +8,8 @@ nav_exclude: false
 
 총 5건
 
-- [AWS IAM Identity Center now supports cross-Region trusted identity propagation](../../news/2026/11/2026-11-04_aws-iam-identity-center-now-supports-cross-region-trusted-identity-propagation.md) `2026-11-04` [price-reduction] [new-region] [security]
-- [Amazon SageMaker Unified Studio adds light mode support for IDC-based domains](../../news/2026/11/2026-11-04_amazon-sagemaker-unified-studio-adds-light-mode-support-for-idc-based-domains.md) `2026-11-04` [GA] [new-region] [security]
-- [Public endpoints for Amazon ElastiCache Serverless now in AWS GovCloud (US)](../../news/2026/11/2026-11-04_public-endpoints-for-amazon-elasticache-serverless-now-in-aws-govcloud-us.md) `2026-11-04` [GA] [new-region] [security]
-- [Amazon Quick on desktop now uses your organization's existing Amazon Quick sign-in](../../news/2026/11/2026-11-04_amazon-quick-on-desktop-now-uses-your-organizations-existing-amazon-quick-sign-i.md) `2026-11-04` [new-region] [security]
-- [Amazon WorkSpaces for AI agents now supports Linux and Windows 11 cloud desktops](../../news/2026/11/2026-11-04_amazon-workspaces-for-ai-agents-now-supports-linux-and-windows-11-cloud-desktops.md) `2026-11-04` [security] [ai-ml]
+- [AWS IAM Identity Center now supports cross-Region trusted identity propagation](../../news/2026/11/2026-11-05_aws-iam-identity-center-now-supports-cross-region-trusted-identity-propagation.md) `2026-11-05` [price-reduction] [new-region] [security]
+- [Amazon SageMaker Unified Studio adds light mode support for IDC-based domains](../../news/2026/11/2026-11-05_amazon-sagemaker-unified-studio-adds-light-mode-support-for-idc-based-domains.md) `2026-11-05` [GA] [new-region] [security]
+- [Public endpoints for Amazon ElastiCache Serverless now in AWS GovCloud (US)](../../news/2026/11/2026-11-05_public-endpoints-for-amazon-elasticache-serverless-now-in-aws-govcloud-us.md) `2026-11-05` [GA] [new-region] [security]
+- [Amazon Quick on desktop now uses your organization's existing Amazon Quick sign-in](../../news/2026/11/2026-11-05_amazon-quick-on-desktop-now-uses-your-organizations-existing-amazon-quick-sign-i.md) `2026-11-05` [new-region] [security]
+- [Amazon WorkSpaces for AI agents now supports Linux and Windows 11 cloud desktops](../../news/2026/11/2026-11-05_amazon-workspaces-for-ai-agents-now-supports-linux-and-windows-11-cloud-desktops.md) `2026-11-05` [security] [ai-ml]

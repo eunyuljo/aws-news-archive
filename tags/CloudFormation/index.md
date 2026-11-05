@@ -6,7 +6,6 @@ nav_exclude: false
 
 # 태그: CloudFormation
 
-총 2건
+총 1건
 
-- [AWS CloudFormation now simplifies stack update rollback operations](../../news/2026/11/2026-11-04_aws-cloudformation-now-simplifies-stack-update-rollback-operations.md) `2026-11-04` [price-reduction] [new-region] [ai-ml]
-- [Amazon MWAA now available in Mexico (Central) Region](../../news/2026/11/2026-11-04_amazon-mwaa-now-available-in-mexico-central-region.md) `2026-11-04` [GA] [new-region] [performance]
+- [AWS DataSync Enhanced mode supports OpenID Connect (OIDC) for Google Cloud and Microsoft Azure](../../news/2026/11/2026-11-05_aws-datasync-enhanced-mode-supports-openid-connect-oidc-for-google-cloud-and-mic.md) `2026-11-05` [new-region] [security]

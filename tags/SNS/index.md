@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Security Hub CSPM now supports the Cyber Risk Institute profile version 2.2](../../news/2026/10/2026-10-27_aws-security-hub-cspm-now-supports-the-cyber-risk-institute-profile-version-22.md) `2026-10-27` [GA] [price-reduction] [new-region] [security]
+- [AWS announces AWS Interconnect - last mile preview with Equinix](../../news/2026/11/2026-11-05_aws-announces-aws-interconnect-last-mile-preview-with-equinix.md) `2026-11-05` [GA] [preview] [new-region] [performance]

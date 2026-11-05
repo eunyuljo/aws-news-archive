@@ -6,7 +6,6 @@ nav_exclude: false
 
 # 태그: OpenSearch
 
-총 2건
+총 1건
 
-- [Amazon OpenSearch Serverless now supports a 5-second default refresh interval](../../news/2026/11/2026-11-04_amazon-opensearch-serverless-now-supports-a-5-second-default-refresh-interval.md) `2026-11-04` [new-region] [performance] [ai-ml]
-- [Introducing time series collections for the next generation of Amazon OpenSearch Serverless](../../news/2026/11/2026-11-04_introducing-time-series-collections-for-the-next-generation-of-amazon-opensearch.md) `2026-11-04` [GA] [price-reduction] [new-region] [security]
+- [Introducing time series collections for the next generation of Amazon OpenSearch Serverless](../../news/2026/11/2026-11-05_introducing-time-series-collections-for-the-next-generation-of-amazon-opensearch.md) `2026-11-05` [GA] [price-reduction] [new-region] [security]

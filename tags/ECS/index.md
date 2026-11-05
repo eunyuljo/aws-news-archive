@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon ECS adds LiveTaskCount and removes the charge for RunningTaskCount metric](../../news/2026/10/2026-10-26_amazon-ecs-adds-livetaskcount-and-removes-the-charge-for-runningtaskcount-metric.md) `2026-10-26` [GA] [new-region]
+- [Amazon ECS Managed Daemons can now collect json-file logs from application containers on Amazon ECS Managed Instances](../../news/2026/11/2026-11-05_amazon-ecs-managed-daemons-can-now-collect-json-file-logs-from-application-conta.md) `2026-11-05` [GA] [price-reduction] [new-region]
