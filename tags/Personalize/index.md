@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Elemental MediaTailor now supports Low-Latency HLS ad insertion](../../news/2026/09/2026-09-24_aws-elemental-mediatailor-now-supports-low-latency-hls-ad-insertion.md) `2026-09-24` [GA] [new-region] [performance]
+- [Amazon Q Developer in console is now the AWS assistant](../../news/2026/11/2026-11-06_amazon-q-developer-in-console-is-now-the-aws-assistant.md) `2026-11-06`

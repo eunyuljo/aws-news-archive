@@ -5,11 +5,11 @@ parent: Services
 
 # Personalize — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-09-24
+총 **1건** | 최근 업데이트: 2026-11-06
 
 ---
 
 
 ## 2026
 
-- [AWS Elemental MediaTailor now supports Low-Latency HLS ad insertion](../../news/2026/09/2026-09-24_aws-elemental-mediatailor-now-supports-low-latency-hls-ad-insertion.md) `2026-09-24`
+- [Amazon Q Developer in console is now the AWS assistant](../../news/2026/11/2026-11-06_amazon-q-developer-in-console-is-now-the-aws-assistant.md) `2026-11-06`

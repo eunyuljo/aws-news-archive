@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Cognito now supports self-service provisioned API rate limits](../../news/2026/07/2026-07-17_amazon-cognito-now-supports-self-service-provisioned-api-rate-limits.md) `2026-07-17` [new-region]
+- [Amazon Cognito announces 99.99% Service Level Agreement for the Plus feature plan](../../news/2026/11/2026-11-06_amazon-cognito-announces-9999-service-level-agreement-for-the-plus-feature-plan.md) `2026-11-06`

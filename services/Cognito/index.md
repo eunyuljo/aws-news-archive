@@ -5,11 +5,11 @@ parent: Services
 
 # Cognito — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-07-17
+총 **1건** | 최근 업데이트: 2026-11-06
 
 ---
 
 
 ## 2026
 
-- [Amazon Cognito now supports self-service provisioned API rate limits](../../news/2026/07/2026-07-17_amazon-cognito-now-supports-self-service-provisioned-api-rate-limits.md) `2026-07-17`
+- [Amazon Cognito announces 99.99% Service Level Agreement for the Plus feature plan](../../news/2026/11/2026-11-06_amazon-cognito-announces-9999-service-level-agreement-for-the-plus-feature-plan.md) `2026-11-06`

@@ -8,5 +8,5 @@ nav_exclude: false
 
 총 2건
 
-- [AWS Backup adds restore testing support for Amazon Redshift](../../news/2026/11/2026-11-05_aws-backup-adds-restore-testing-support-for-amazon-redshift.md) `2026-11-05` [new-region] [security]
-- [Amazon Redshift announces hands-off automated cross-region backups](../../news/2026/11/2026-11-05_amazon-redshift-announces-hands-off-automated-cross-region-backups.md) `2026-11-05` [new-region]
+- [AWS Backup adds restore testing support for Amazon Redshift](../../news/2026/11/2026-11-06_aws-backup-adds-restore-testing-support-for-amazon-redshift.md) `2026-11-06` [new-region] [security]
+- [Amazon Redshift announces hands-off automated cross-region backups](../../news/2026/11/2026-11-06_amazon-redshift-announces-hands-off-automated-cross-region-backups.md) `2026-11-06` [new-region]

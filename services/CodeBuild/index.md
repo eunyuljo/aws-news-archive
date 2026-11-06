@@ -5,11 +5,11 @@ parent: Services
 
 # CodeBuild — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-07-16
+총 **1건** | 최근 업데이트: 2026-11-06
 
 ---
 
 
 ## 2026
 
-- [AWS CodeBuild now supports Amazon Linux 2023 for on-demand build hosts](../../news/2026/07/2026-07-16_aws-codebuild-now-supports-amazon-linux-2023-for-on-demand-build-hosts.md) `2026-07-16`
+- [AWS CodeConnections is now available in the AWS GovCloud (US-West) Region](../../news/2026/11/2026-11-06_aws-codeconnections-is-now-available-in-the-aws-govcloud-us-west-region.md) `2026-11-06`
