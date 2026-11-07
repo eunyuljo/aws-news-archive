@@ -5,13 +5,13 @@ parent: Services
 
 # CloudWatch — AWS 뉴스
 
-총 **3건** | 최근 업데이트: 2026-11-06
+총 **3건** | 최근 업데이트: 2026-11-07
 
 ---
 
 
 ## 2026
 
-- [AWS Glue Data Catalog now supports Apache Iceberg table optimization in the US West (N. California) Region](../../news/2026/11/2026-11-06_aws-glue-data-catalog-now-supports-apache-iceberg-table-optimization-in-the-us-w.md) `2026-11-06`
-- [Managed Prometheus collectors now support Amazon MSK consumer-group metrics](../../news/2026/11/2026-11-06_managed-prometheus-collectors-now-support-amazon-msk-consumer-group-metrics.md) `2026-11-06`
-- [Amazon CloudWatch now supports API keys for OpenTelemetry traces](../../news/2026/11/2026-11-06_amazon-cloudwatch-now-supports-api-keys-for-opentelemetry-traces.md) `2026-11-06`
+- [AWS Glue Data Catalog now supports Apache Iceberg table optimization in the US West (N. California) Region](../../news/2026/11/2026-11-07_aws-glue-data-catalog-now-supports-apache-iceberg-table-optimization-in-the-us-w.md) `2026-11-07`
+- [Managed Prometheus collectors now support Amazon MSK consumer-group metrics](../../news/2026/11/2026-11-07_managed-prometheus-collectors-now-support-amazon-msk-consumer-group-metrics.md) `2026-11-07`
+- [Amazon CloudWatch now supports API keys for OpenTelemetry traces](../../news/2026/11/2026-11-07_amazon-cloudwatch-now-supports-api-keys-for-opentelemetry-traces.md) `2026-11-07`

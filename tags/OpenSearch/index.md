@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Introducing time series collections for the next generation of Amazon OpenSearch Serverless](../../news/2026/11/2026-11-06_introducing-time-series-collections-for-the-next-generation-of-amazon-opensearch.md) `2026-11-06` [GA] [price-reduction] [new-region] [security]
+- [Introducing time series collections for the next generation of Amazon OpenSearch Serverless](../../news/2026/11/2026-11-07_introducing-time-series-collections-for-the-next-generation-of-amazon-opensearch.md) `2026-11-07` [GA] [price-reduction] [new-region] [security]

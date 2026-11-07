@@ -5,11 +5,11 @@ parent: Services
 
 # Lex — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-10-12
+총 **1건** | 최근 업데이트: 2026-11-07
 
 ---
 
 
 ## 2026
 
-- [AWS Deadline Cloud now supports expressions in job templates](../../news/2026/10/2026-10-12_aws-deadline-cloud-now-supports-expressions-in-job-templates.md) `2026-10-12`
+- [Amazon Simple Email Service is now available in six new AWS Regions](../../news/2026/11/2026-11-07_amazon-simple-email-service-is-now-available-in-six-new-aws-regions.md) `2026-11-07`

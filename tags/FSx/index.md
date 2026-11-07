@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon FSx for Lustre delivers 16x higher metadata IOPS on Intelligent-Tiering file systems](../../news/2026/11/2026-11-06_amazon-fsx-for-lustre-delivers-16x-higher-metadata-iops-on-intelligent-tiering-f.md) `2026-11-06` [GA] [price-reduction] [new-region] [performance] [ai-ml]
+- [Amazon FSx for Lustre delivers 16x higher metadata IOPS on Intelligent-Tiering file systems](../../news/2026/11/2026-11-07_amazon-fsx-for-lustre-delivers-16x-higher-metadata-iops-on-intelligent-tiering-f.md) `2026-11-07` [GA] [price-reduction] [new-region] [performance] [ai-ml]

@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Deadline Cloud now supports expressions in job templates](../../news/2026/10/2026-10-12_aws-deadline-cloud-now-supports-expressions-in-job-templates.md) `2026-10-12` [new-region]
+- [Amazon Simple Email Service is now available in six new AWS Regions](../../news/2026/11/2026-11-07_amazon-simple-email-service-is-now-available-in-six-new-aws-regions.md) `2026-11-07` [GA] [price-reduction] [new-region]
