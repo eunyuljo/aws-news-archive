@@ -5,11 +5,11 @@ parent: Services
 
 # SecretsManager — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-10-15
+총 **1건** | 최근 업데이트: 2026-11-09
 
 ---
 
 
 ## 2026
 
-- [Improve your secrets security posture with actionable recommendations in the AWS Secrets Manager console](../../news/2026/10/2026-10-15_improve-your-secrets-security-posture-with-actionable-recommendations-in-the-aws.md) `2026-10-15`
+- [Amazon MWAA Serverless supports Apache Airflow connections and variables](../../news/2026/11/2026-11-09_amazon-mwaa-serverless-supports-apache-airflow-connections-and-variables.md) `2026-11-09`

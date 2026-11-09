@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Improve your secrets security posture with actionable recommendations in the AWS Secrets Manager console](../../news/2026/10/2026-10-15_improve-your-secrets-security-posture-with-actionable-recommendations-in-the-aws.md) `2026-10-15` [GA] [price-reduction] [new-region] [security]
+- [Amazon MWAA Serverless supports Apache Airflow connections and variables](../../news/2026/11/2026-11-09_amazon-mwaa-serverless-supports-apache-airflow-connections-and-variables.md) `2026-11-09` [new-region]
