@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Simple Email Service is now available in six new AWS Regions](../../news/2026/11/2026-11-09_amazon-simple-email-service-is-now-available-in-six-new-aws-regions.md) `2026-11-09` [GA] [price-reduction] [new-region]
+- [Amazon Simple Email Service is now available in six new AWS Regions](../../news/2026/11/2026-11-10_amazon-simple-email-service-is-now-available-in-six-new-aws-regions.md) `2026-11-10` [GA] [price-reduction] [new-region]

@@ -6,7 +6,6 @@ nav_exclude: false
 
 # 태그: DocumentDB
 
-총 2건
+총 1건
 
-- [Amazon DocumentDB (with MongoDB compatibility) now supports retryable writes](../../news/2026/10/2026-10-08_amazon-documentdb-with-mongodb-compatibility-now-supports-retryable-writes.md) `2026-10-08` [new-region]
-- [Amazon DocumentDB (with MongoDB compatibility) adds support for 5 MongoDB aggregation stages and change stream capabilities in version 8.0.2](../../news/2026/10/2026-10-08_amazon-documentdb-with-mongodb-compatibility-adds-support-for-5-mongodb-aggregat.md) `2026-10-08` [new-region] [performance]
+- [Amazon DocumentDB Serverless now provides up to 35% higher throughput](../../news/2026/11/2026-11-10_amazon-documentdb-serverless-now-provides-up-to-35-higher-throughput.md) `2026-11-10` [GA] [new-region] [performance]
