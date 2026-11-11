@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon MWAA Serverless supports Apache Airflow connections and variables](../../news/2026/11/2026-11-10_amazon-mwaa-serverless-supports-apache-airflow-connections-and-variables.md) `2026-11-10` [new-region]
+- [Amazon MWAA Serverless supports Apache Airflow connections and variables](../../news/2026/11/2026-11-11_amazon-mwaa-serverless-supports-apache-airflow-connections-and-variables.md) `2026-11-11` [new-region]

@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Elemental MediaConvert adds a native integration with AWS Elemental Inference Smart Subtitles](../../news/2026/11/2026-11-10_aws-elemental-mediaconvert-adds-a-native-integration-with-aws-elemental-inferenc.md) `2026-11-10` [new-region] [ai-ml]
+- [AWS Elemental MediaConvert adds a native integration with AWS Elemental Inference Smart Subtitles](../../news/2026/11/2026-11-11_aws-elemental-mediaconvert-adds-a-native-integration-with-aws-elemental-inferenc.md) `2026-11-11` [new-region] [ai-ml]

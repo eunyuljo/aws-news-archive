@@ -6,10 +6,9 @@ nav_exclude: false
 
 # 태그: Bedrock
 
-총 5건
+총 4건
 
-- [AWS Step Functions workflows now available as AI agent tools](../../news/2026/11/2026-11-10_aws-step-functions-workflows-now-available-as-ai-agent-tools.md) `2026-11-10` [GA] [new-region] [ai-ml]
-- [Daybreak Red from OpenAI now available to eligible customers on Amazon Bedrock in AWS GovCloud (US-East)](../../news/2026/11/2026-11-10_daybreak-red-from-openai-now-available-to-eligible-customers-on-amazon-bedrock-i.md) `2026-11-10` [GA] [security] [ai-ml]
-- [Agent Registry is now generally available in AWS GovCloud (US-West) Region](../../news/2026/11/2026-11-10_agent-registry-is-now-generally-available-in-aws-govcloud-us-west-region.md) `2026-11-10` [GA] [new-region] [security] [ai-ml]
-- [Kimi K3.1 Pro (Highspeed) now available on Amazon Bedrock](../../news/2026/11/2026-11-10_kimi-k31-pro-highspeed-now-available-on-amazon-bedrock.md) `2026-11-10` [GA] [price-reduction] [new-region] [performance] [security] [ai-ml]
-- [Amazon Bedrock now offers Claude Mythos 5.2 to Eligible Customers in AWS GovCloud (US)](../../news/2026/11/2026-11-10_amazon-bedrock-now-offers-claude-mythos-52-to-eligible-customers-in-aws-govcloud.md) `2026-11-10` [new-region] [security] [ai-ml]
+- [Agent Registry is now generally available in AWS GovCloud (US-West) Region](../../news/2026/11/2026-11-11_agent-registry-is-now-generally-available-in-aws-govcloud-us-west-region.md) `2026-11-11` [GA] [new-region] [security] [ai-ml]
+- [Kimi K3.1 Pro (Highspeed) now available on Amazon Bedrock](../../news/2026/11/2026-11-11_kimi-k31-pro-highspeed-now-available-on-amazon-bedrock.md) `2026-11-11` [GA] [price-reduction] [new-region] [performance] [security] [ai-ml]
+- [Amazon Bedrock now offers Claude Mythos 5.2 to Eligible Customers in AWS GovCloud (US)](../../news/2026/11/2026-11-11_amazon-bedrock-now-offers-claude-mythos-52-to-eligible-customers-in-aws-govcloud.md) `2026-11-11` [new-region] [security] [ai-ml]
+- [Amazon Bedrock adds bedrock-runtime endpoint support for Daybreak models](../../news/2026/11/2026-11-11_amazon-bedrock-adds-bedrock-runtime-endpoint-support-for-daybreak-models.md) `2026-11-11` [new-region] [performance] [security] [ai-ml]

@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Cognito announces 99.99% Service Level Agreement for the Plus feature plan](../../news/2026/11/2026-11-10_amazon-cognito-announces-9999-service-level-agreement-for-the-plus-feature-plan.md) `2026-11-10`
+- [Amazon Cognito announces 99.99% Service Level Agreement for the Plus feature plan](../../news/2026/11/2026-11-11_amazon-cognito-announces-9999-service-level-agreement-for-the-plus-feature-plan.md) `2026-11-11`

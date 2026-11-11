@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon EKS Capabilities now supports Argo CD Notifications](../../news/2026/11/2026-11-10_amazon-eks-capabilities-now-supports-argo-cd-notifications.md) `2026-11-10` [GA] [new-region] [security]
+- [Amazon EKS Capabilities now supports Argo CD Notifications](../../news/2026/11/2026-11-11_amazon-eks-capabilities-now-supports-argo-cd-notifications.md) `2026-11-11` [GA] [new-region] [security]
