@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS announces AWS Interconnect - last mile preview with Equinix](../../news/2026/11/2026-11-11_aws-announces-aws-interconnect-last-mile-preview-with-equinix.md) `2026-11-11` [GA] [preview] [new-region] [performance]
+- [AWS announces AWS Interconnect - last mile preview with Equinix](../../news/2026/11/2026-11-12_aws-announces-aws-interconnect-last-mile-preview-with-equinix.md) `2026-11-12` [GA] [preview] [new-region] [performance]

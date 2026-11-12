@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon DynamoDB global tables now support disassociating replicas](../../news/2026/11/2026-11-02_amazon-dynamodb-global-tables-now-support-disassociating-replicas.md) `2026-11-02` [new-region]
+- [AWS Emulator is now available for building and testing AWS applications locally](../../news/2026/11/2026-11-12_aws-emulator-is-now-available-for-building-and-testing-aws-applications-locally.md) `2026-11-12` [GA] [new-region]

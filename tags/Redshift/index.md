@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Redshift expands SUPER data type to store strings up to 16 million bytes](../../news/2026/11/2026-11-11_amazon-redshift-expands-super-data-type-to-store-strings-up-to-16-million-bytes.md) `2026-11-11` [new-region]
+- [Amazon Redshift expands SUPER data type to store strings up to 16 million bytes](../../news/2026/11/2026-11-12_amazon-redshift-expands-super-data-type-to-store-strings-up-to-16-million-bytes.md) `2026-11-12` [new-region]
