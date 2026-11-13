@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Network Firewall now supports Route 53 Resolved IP Validation](../../news/2026/11/2026-11-02_aws-network-firewall-now-supports-route-53-resolved-ip-validation.md) `2026-11-02` [new-region] [security]
+- [Amazon Route 53 Domains now supports self-service restore for expired and deleted domains](../../news/2026/11/2026-11-13_amazon-route-53-domains-now-supports-self-service-restore-for-expired-and-delete.md) `2026-11-13` [price-reduction]

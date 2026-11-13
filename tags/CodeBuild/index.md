@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS CodeConnections is now available in the AWS GovCloud (US-West) Region](../../news/2026/11/2026-11-12_aws-codeconnections-is-now-available-in-the-aws-govcloud-us-west-region.md) `2026-11-12` [GA] [new-region]
+- [AWS CodeConnections is now available in the AWS GovCloud (US-West) Region](../../news/2026/11/2026-11-13_aws-codeconnections-is-now-available-in-the-aws-govcloud-us-west-region.md) `2026-11-13` [GA] [new-region]

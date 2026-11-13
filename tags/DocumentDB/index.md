@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon DocumentDB Serverless now provides up to 35% higher throughput](../../news/2026/11/2026-11-12_amazon-documentdb-serverless-now-provides-up-to-35-higher-throughput.md) `2026-11-12` [GA] [new-region] [performance]
+- [Amazon DocumentDB Serverless now provides up to 35% higher throughput](../../news/2026/11/2026-11-13_amazon-documentdb-serverless-now-provides-up-to-35-higher-throughput.md) `2026-11-13` [GA] [new-region] [performance]
