@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Analytics services now support Workday Data Cloud integration](../../news/2026/11/2026-11-14_aws-analytics-services-now-support-workday-data-cloud-integration.md) `2026-11-14` [new-region] [security] [ai-ml]
+- [AWS Analytics services now support Workday Data Cloud integration](../../news/2026/11/2026-11-15_aws-analytics-services-now-support-workday-data-cloud-integration.md) `2026-11-15` [new-region] [security] [ai-ml]

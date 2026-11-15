@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Emulator is now available for building and testing AWS applications locally](../../news/2026/11/2026-11-14_aws-emulator-is-now-available-for-building-and-testing-aws-applications-locally.md) `2026-11-14` [GA] [new-region]
+- [AWS Emulator is now available for building and testing AWS applications locally](../../news/2026/11/2026-11-15_aws-emulator-is-now-available-for-building-and-testing-aws-applications-locally.md) `2026-11-15` [GA] [new-region]
