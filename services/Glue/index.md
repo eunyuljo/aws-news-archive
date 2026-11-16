@@ -5,11 +5,11 @@ parent: Services
 
 # Glue — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-11-15
+총 **1건** | 최근 업데이트: 2026-11-16
 
 ---
 
 
 ## 2026
 
-- [AWS Analytics services now support Workday Data Cloud integration](../../news/2026/11/2026-11-15_aws-analytics-services-now-support-workday-data-cloud-integration.md) `2026-11-15`
+- [AWS Analytics services now support Workday Data Cloud integration](../../news/2026/11/2026-11-16_aws-analytics-services-now-support-workday-data-cloud-integration.md) `2026-11-16`

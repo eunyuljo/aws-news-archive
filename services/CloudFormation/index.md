@@ -5,11 +5,12 @@ parent: Services
 
 # CloudFormation — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-11-15
+총 **2건** | 최근 업데이트: 2026-11-16
 
 ---
 
 
 ## 2026
 
-- [Amazon Cognito now supports user pool session management](../../news/2026/11/2026-11-15_amazon-cognito-now-supports-user-pool-session-management.md) `2026-11-15`
+- [Amazon Cognito now supports user pool session management](../../news/2026/11/2026-11-16_amazon-cognito-now-supports-user-pool-session-management.md) `2026-11-16`
+- [AWS WAF advanced rate-based rules are now available in AWS GovCloud (US), Thailand, and Mexico](../../news/2026/11/2026-11-16_aws-waf-advanced-rate-based-rules-are-now-available-in-aws-govcloud-us-thailand-.md) `2026-11-16`

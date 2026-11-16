@@ -5,15 +5,15 @@ parent: Services
 
 # EKS — AWS 뉴스
 
-총 **5건** | 최근 업데이트: 2026-11-15
+총 **5건** | 최근 업데이트: 2026-11-16
 
 ---
 
 
 ## 2026
 
-- [AWS DMS Schema Conversion expands offline source conversion to Oracle](../../news/2026/11/2026-11-15_aws-dms-schema-conversion-expands-offline-source-conversion-to-oracle.md) `2026-11-15`
-- [Announcing Accelerated Compute Insights for Amazon CloudWatch](../../news/2026/11/2026-11-15_announcing-accelerated-compute-insights-for-amazon-cloudwatch.md) `2026-11-15`
-- [Amazon EKS Provisioned Control Plane now offers a 24 GB etcd database on 4XL and 8XL tiers](../../news/2026/11/2026-11-15_amazon-eks-provisioned-control-plane-now-offers-a-24-gb-etcd-database-on-4xl-and.md) `2026-11-15`
-- [AWS Backup now supports resource modifiers for Amazon EKS restores](../../news/2026/11/2026-11-15_aws-backup-now-supports-resource-modifiers-for-amazon-eks-restores.md) `2026-11-15`
-- [AWS Glue announces automatic version upgrades for Apache Spark jobs](../../news/2026/11/2026-11-15_aws-glue-announces-automatic-version-upgrades-for-apache-spark-jobs.md) `2026-11-15`
+- [AWS DMS Schema Conversion expands offline source conversion to Oracle](../../news/2026/11/2026-11-16_aws-dms-schema-conversion-expands-offline-source-conversion-to-oracle.md) `2026-11-16`
+- [Announcing Accelerated Compute Insights for Amazon CloudWatch](../../news/2026/11/2026-11-16_announcing-accelerated-compute-insights-for-amazon-cloudwatch.md) `2026-11-16`
+- [Amazon EKS Provisioned Control Plane now offers a 24 GB etcd database on 4XL and 8XL tiers](../../news/2026/11/2026-11-16_amazon-eks-provisioned-control-plane-now-offers-a-24-gb-etcd-database-on-4xl-and.md) `2026-11-16`
+- [AWS Backup now supports resource modifiers for Amazon EKS restores](../../news/2026/11/2026-11-16_aws-backup-now-supports-resource-modifiers-for-amazon-eks-restores.md) `2026-11-16`
+- [AWS Glue announces automatic version upgrades for Apache Spark jobs](../../news/2026/11/2026-11-16_aws-glue-announces-automatic-version-upgrades-for-apache-spark-jobs.md) `2026-11-16`

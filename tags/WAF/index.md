@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Network Security Manager now available in AWS European Sovereign Cloud and Additional New Regions](../../news/2026/11/2026-11-15_aws-network-security-manager-now-available-in-aws-european-sovereign-cloud-and-a.md) `2026-11-15` [GA] [new-region] [security]
+- [AWS Network Security Manager now available in AWS European Sovereign Cloud and Additional New Regions](../../news/2026/11/2026-11-16_aws-network-security-manager-now-available-in-aws-european-sovereign-cloud-and-a.md) `2026-11-16` [GA] [new-region] [security]

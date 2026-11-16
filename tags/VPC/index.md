@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Network Firewall launches next-generation firewall policy](../../news/2026/11/2026-11-15_aws-network-firewall-launches-next-generation-firewall-policy.md) `2026-11-15` [GA] [new-region] [security]
+- [AWS Network Firewall launches next-generation firewall policy](../../news/2026/11/2026-11-16_aws-network-firewall-launches-next-generation-firewall-policy.md) `2026-11-16` [GA] [new-region] [security]

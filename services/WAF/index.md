@@ -5,11 +5,11 @@ parent: Services
 
 # WAF — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-11-15
+총 **1건** | 최근 업데이트: 2026-11-16
 
 ---
 
 
 ## 2026
 
-- [AWS Network Security Manager now available in AWS European Sovereign Cloud and Additional New Regions](../../news/2026/11/2026-11-15_aws-network-security-manager-now-available-in-aws-european-sovereign-cloud-and-a.md) `2026-11-15`
+- [AWS Network Security Manager now available in AWS European Sovereign Cloud and Additional New Regions](../../news/2026/11/2026-11-16_aws-network-security-manager-now-available-in-aws-european-sovereign-cloud-and-a.md) `2026-11-16`
