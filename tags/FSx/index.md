@@ -6,7 +6,6 @@ nav_exclude: false
 
 # 태그: FSx
 
-총 2건
+총 1건
 
-- [Amazon FSx for Lustre delivers 16x higher metadata IOPS on Intelligent-Tiering file systems](../../news/2026/11/2026-11-16_amazon-fsx-for-lustre-delivers-16x-higher-metadata-iops-on-intelligent-tiering-f.md) `2026-11-16` [GA] [price-reduction] [new-region] [performance] [ai-ml]
-- [Amazon FSx for Lustre lowers the entry cost of Intelligent-Tiering file systems by 75%](../../news/2026/11/2026-11-16_amazon-fsx-for-lustre-lowers-the-entry-cost-of-intelligent-tiering-file-systems-.md) `2026-11-16` [GA] [price-reduction] [new-region] [performance] [ai-ml]
+- [Amazon FSx for Lustre now offers a 75% lower minimum throughput capacity and metadata IOPS for Intelligent-Tiering file systems](../../news/2026/11/2026-11-17_amazon-fsx-for-lustre-now-offers-a-75-lower-minimum-throughput-capacity-and-meta.md) `2026-11-17` [GA] [price-reduction] [new-region] [performance] [ai-ml]

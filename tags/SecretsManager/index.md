@@ -6,7 +6,6 @@ nav_exclude: false
 
 # 태그: SecretsManager
 
-총 2건
+총 1건
 
-- [Amazon MWAA Serverless supports Apache Airflow connections and variables](../../news/2026/11/2026-11-16_amazon-mwaa-serverless-supports-apache-airflow-connections-and-variables.md) `2026-11-16` [new-region]
-- [AWS Secrets Manager now supports cross-account replication](../../news/2026/11/2026-11-16_aws-secrets-manager-now-supports-cross-account-replication.md) `2026-11-16` [new-region] [security]
+- [AWS Secrets Manager now supports cross-account replication](../../news/2026/11/2026-11-17_aws-secrets-manager-now-supports-cross-account-replication.md) `2026-11-17` [new-region] [security]

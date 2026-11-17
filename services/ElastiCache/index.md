@@ -5,11 +5,11 @@ parent: Services
 
 # ElastiCache — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-11-16
+총 **1건** | 최근 업데이트: 2026-11-17
 
 ---
 
 
 ## 2026
 
-- [Amazon ElastiCache Serverless now supports vector, full-text and hybrid searches plus aggregations](../../news/2026/11/2026-11-16_amazon-elasticache-serverless-now-supports-vector-full-text-and-hybrid-searches-.md) `2026-11-16`
+- [Amazon ElastiCache Serverless now supports vector, full-text and hybrid searches plus aggregations](../../news/2026/11/2026-11-17_amazon-elasticache-serverless-now-supports-vector-full-text-and-hybrid-searches-.md) `2026-11-17`

@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Cognito extends multi-Region replication to AWS GovCloud (US) Regions](../../news/2026/11/2026-11-02_amazon-cognito-extends-multi-region-replication-to-aws-govcloud-us-regions.md) `2026-11-02` [new-region] [security]
+- [Amazon EBS now supports associating additional KMS keys with snapshots](../../news/2026/11/2026-11-17_amazon-ebs-now-supports-associating-additional-kms-keys-with-snapshots.md) `2026-11-17` [new-region] [security]
