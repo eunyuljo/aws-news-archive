@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Polly Generative engine upgraded with more natural speech, 14 new voices, and 2 new languages](../../news/2026/11/2026-11-02_polly-generative-engine-upgraded-with-more-natural-speech-14-new-voices-and-2-ne.md) `2026-11-02` [GA] [new-region] [performance] [ai-ml]
+- [AWS Transform now accelerates migration deals for Migration Acceleration Program (MAP) benefits](../../news/2026/11/2026-11-18_aws-transform-now-accelerates-migration-deals-for-migration-acceleration-program.md) `2026-11-18` [GA] [new-region] [performance]

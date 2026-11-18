@@ -6,8 +6,6 @@ nav_exclude: false
 
 # 태그: CloudWatch
 
-총 3건
+총 1건
 
-- [Amazon DocumentDB (with MongoDB compatibility) now supports post-quantum TLS, wildcard indexes, and $unionWith in version 8.0.3](../../news/2026/11/2026-11-17_amazon-documentdb-with-mongodb-compatibility-now-supports-post-quantum-tls-wildc.md) `2026-11-17` [new-region]
-- [Amazon OpenSearch Service now lets you validate and roll back version upgrades](../../news/2026/11/2026-11-17_amazon-opensearch-service-now-lets-you-validate-and-roll-back-version-upgrades.md) `2026-11-17` [new-region] [performance]
-- [Amazon OpenSearch Service announces managed cross-Region disaster recovery](../../news/2026/11/2026-11-17_amazon-opensearch-service-announces-managed-cross-region-disaster-recovery.md) `2026-11-17` [new-region] [security]
+- [Amazon WorkSpaces Advisor now helps you find issues before your users notice them (Public Preview)](../../news/2026/11/2026-11-18_amazon-workspaces-advisor-now-helps-you-find-issues-before-your-users-notice-the.md) `2026-11-18` [GA] [preview] [new-region] [performance]

@@ -8,9 +8,9 @@ nav_exclude: false
 
 총 6건
 
-- [Agent Registry is now generally available in AWS GovCloud (US-West) Region](../../news/2026/11/2026-11-17_agent-registry-is-now-generally-available-in-aws-govcloud-us-west-region.md) `2026-11-17` [GA] [new-region] [security] [ai-ml]
-- [Kimi K3.1 Pro (Highspeed) now available on Amazon Bedrock](../../news/2026/11/2026-11-17_kimi-k31-pro-highspeed-now-available-on-amazon-bedrock.md) `2026-11-17` [GA] [price-reduction] [new-region] [performance] [security] [ai-ml]
-- [Amazon Bedrock now offers Claude Mythos 5.2 to Eligible Customers in AWS GovCloud (US)](../../news/2026/11/2026-11-17_amazon-bedrock-now-offers-claude-mythos-52-to-eligible-customers-in-aws-govcloud.md) `2026-11-17` [new-region] [security] [ai-ml]
-- [Amazon Bedrock adds bedrock-runtime endpoint support for Daybreak models](../../news/2026/11/2026-11-17_amazon-bedrock-adds-bedrock-runtime-endpoint-support-for-daybreak-models.md) `2026-11-17` [new-region] [performance] [security] [ai-ml]
-- [The next generation AgentCore runtime is now the default](../../news/2026/11/2026-11-17_the-next-generation-agentcore-runtime-is-now-the-default.md) `2026-11-17` [new-region]
-- [Amazon Bedrock AgentCore Identity now supports OAuth 2.0 discovery URLs](../../news/2026/11/2026-11-17_amazon-bedrock-agentcore-identity-now-supports-oauth-20-discovery-urls.md) `2026-11-17` [GA] [price-reduction] [new-region]
+- [Amazon Bedrock AgentCore Identity now supports OAuth 2.0 discovery URLs](../../news/2026/11/2026-11-18_amazon-bedrock-agentcore-identity-now-supports-oauth-20-discovery-urls.md) `2026-11-18` [GA] [price-reduction] [new-region]
+- [OpenAI GPT-6.2 Astra, and GPT-6.2 Sol are now generally available on Amazon Bedrock](../../news/2026/11/2026-11-18_openai-gpt-62-astra-and-gpt-62-sol-are-now-generally-available-on-amazon-bedrock.md) `2026-11-18` [GA] [price-reduction] [new-region] [performance] [ai-ml]
+- [Amazon Bedrock AgentCore now offers free monthly web search queries](../../news/2026/11/2026-11-18_amazon-bedrock-agentcore-now-offers-free-monthly-web-search-queries.md) `2026-11-18` [price-reduction] [new-region]
+- [Amazon Bedrock AgentCore Memory now provides full session summaries](../../news/2026/11/2026-11-18_amazon-bedrock-agentcore-memory-now-provides-full-session-summaries.md) `2026-11-18` [new-region]
+- [Amazon Bedrock AgentCore Memory now supports short-term memory retention of up to 10 years](../../news/2026/11/2026-11-18_amazon-bedrock-agentcore-memory-now-supports-short-term-memory-retention-of-up-t.md) `2026-11-18` [new-region] [security]
+- [Customize AWS Elemental Inference with custom models, prompts, and decisions](../../news/2026/11/2026-11-18_customize-aws-elemental-inference-with-custom-models-prompts-and-decisions.md) `2026-11-18` [price-reduction] [new-region] [ai-ml]

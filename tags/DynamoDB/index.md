@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Emulator is now available for building and testing AWS applications locally](../../news/2026/11/2026-11-17_aws-emulator-is-now-available-for-building-and-testing-aws-applications-locally.md) `2026-11-17` [GA] [new-region]
+- [Amazon DynamoDB caching is now available with Amazon ElastiCache Serverless for Valkey](../../news/2026/11/2026-11-18_amazon-dynamodb-caching-is-now-available-with-amazon-elasticache-serverless-for-.md) `2026-11-18` [GA] [price-reduction] [new-region] [performance] [security]

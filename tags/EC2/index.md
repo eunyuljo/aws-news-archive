@@ -6,13 +6,17 @@ nav_exclude: false
 
 # 태그: EC2
 
-총 8건
+총 12건
 
-- [Amazon EKS Auto Mode and Karpenter now support Dynamic Resource Allocation](../../news/2026/11/2026-11-17_amazon-eks-auto-mode-and-karpenter-now-support-dynamic-resource-allocation.md) `2026-11-17` [GA] [price-reduction] [new-region] [performance] [ai-ml]
-- [CloudWatch PromQL alarms now support EC2 and Application Auto Scaling](../../news/2026/11/2026-11-17_cloudwatch-promql-alarms-now-support-ec2-and-application-auto-scaling.md) `2026-11-17` [new-region]
-- [Amazon EC2 G7 instances now available in additional regions](../../news/2026/11/2026-11-17_amazon-ec2-g7-instances-now-available-in-additional-regions.md) `2026-11-17` [GA] [new-region] [performance] [ai-ml]
-- [Amazon EKS Auto Mode now supports security groups for Pods](../../news/2026/11/2026-11-17_amazon-eks-auto-mode-now-supports-security-groups-for-pods.md) `2026-11-17` [new-region] [security]
-- [EC2 Image Builder console now integrates with the DevOps Agent for troubleshooting and resource creation](../../news/2026/11/2026-11-17_ec2-image-builder-console-now-integrates-with-the-devops-agent-for-troubleshooti.md) `2026-11-17` [new-region] [ai-ml]
-- [AWS Systems Manager simplifies onboarding of Google Cloud VMs for centralized management](../../news/2026/11/2026-11-17_aws-systems-manager-simplifies-onboarding-of-google-cloud-vms-for-centralized-ma.md) `2026-11-17`
-- [AgentCore runtime instances are now available in six more AWS Regions](../../news/2026/11/2026-11-17_agentcore-runtime-instances-are-now-available-in-six-more-aws-regions.md) `2026-11-17` [GA] [price-reduction] [new-region] [performance]
-- [AWS announces Networking Flexible Cost Allocation for Amazon VPC](../../news/2026/11/2026-11-17_aws-announces-networking-flexible-cost-allocation-for-amazon-vpc.md) `2026-11-17` [price-reduction] [new-region]
+- [EC2 Image Builder console now integrates with the DevOps Agent for troubleshooting and resource creation](../../news/2026/11/2026-11-18_ec2-image-builder-console-now-integrates-with-the-devops-agent-for-troubleshooti.md) `2026-11-18` [new-region] [ai-ml]
+- [AWS Systems Manager simplifies onboarding of Google Cloud VMs for centralized management](../../news/2026/11/2026-11-18_aws-systems-manager-simplifies-onboarding-of-google-cloud-vms-for-centralized-ma.md) `2026-11-18`
+- [AgentCore runtime instances are now available in six more AWS Regions](../../news/2026/11/2026-11-18_agentcore-runtime-instances-are-now-available-in-six-more-aws-regions.md) `2026-11-18` [GA] [price-reduction] [new-region] [performance]
+- [AWS announces Networking Flexible Cost Allocation for Amazon VPC](../../news/2026/11/2026-11-18_aws-announces-networking-flexible-cost-allocation-for-amazon-vpc.md) `2026-11-18` [price-reduction] [new-region]
+- [AWS Security Hub now detects when vulnerable software is running on Amazon EC2 instances](../../news/2026/11/2026-11-18_aws-security-hub-now-detects-when-vulnerable-software-is-running-on-amazon-ec2-i.md) `2026-11-18` [price-reduction] [new-region] [security]
+- [AWS Workload Credentials Provider adds container support for ACM certificates](../../news/2026/11/2026-11-18_aws-workload-credentials-provider-adds-container-support-for-acm-certificates.md) `2026-11-18` [security]
+- [Amazon EKS Auto Mode now rightsizes Pods to reduce compute costs (Preview)](../../news/2026/11/2026-11-18_amazon-eks-auto-mode-now-rightsizes-pods-to-reduce-compute-costs-preview.md) `2026-11-18` [preview] [price-reduction] [new-region]
+- [Cost Optimization Hub now supports stopping idle Amazon EC2 instances](../../news/2026/11/2026-11-18_cost-optimization-hub-now-supports-stopping-idle-amazon-ec2-instances.md) `2026-11-18` [price-reduction] [new-region]
+- [Amazon EVS launches support for r7i.metal instances, external principal storage, and an Agent Skill](../../news/2026/11/2026-11-18_amazon-evs-launches-support-for-r7imetal-instances-external-principal-storage-an.md) `2026-11-18` [GA] [new-region] [ai-ml]
+- [AWS Security Hub now infers resource criticality from installed software and usage](../../news/2026/11/2026-11-18_aws-security-hub-now-infers-resource-criticality-from-installed-software-and-usa.md) `2026-11-18` [price-reduction] [new-region] [security]
+- [Amazon EC2 C8ine instances are now available in AWS Europe (Ireland) region](../../news/2026/11/2026-11-18_amazon-ec2-c8ine-instances-are-now-available-in-aws-europe-ireland-region.md) `2026-11-18` [GA] [new-region] [performance] [security]
+- [Amazon EC2 C8gn instances are now available in AWS Israel (Tel Aviv) region](../../news/2026/11/2026-11-18_amazon-ec2-c8gn-instances-are-now-available-in-aws-israel-tel-aviv-region.md) `2026-11-18` [GA] [price-reduction] [new-region] [performance] [ai-ml]

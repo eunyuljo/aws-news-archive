@@ -6,7 +6,10 @@ nav_exclude: false
 
 # 태그: Config
 
-총 2건
+총 5건
 
-- [Amazon SES now supports higher limits for email identities, tenants, and configuration sets](../../news/2026/11/2026-11-17_amazon-ses-now-supports-higher-limits-for-email-identities-tenants-and-configura.md) `2026-11-17` [new-region] [ai-ml]
-- [AWS Cloud WAN now supports BGP communities on Direct Connect attachments for routing policy](../../news/2026/11/2026-11-17_aws-cloud-wan-now-supports-bgp-communities-on-direct-connect-attachments-for-rou.md) `2026-11-17` [new-region]
+- [AWS Transform now provides F5 BIG-IP load balancer migration](../../news/2026/11/2026-11-18_aws-transform-now-provides-f5-big-ip-load-balancer-migration.md) `2026-11-18` [price-reduction] [new-region]
+- [AWS announces consistent sharing controls for credits, Savings Plans, and Reserved Instances](../../news/2026/11/2026-11-18_aws-announces-consistent-sharing-controls-for-credits-savings-plans-and-reserved.md) `2026-11-18` [price-reduction] [new-region]
+- [Amazon Corretto November 2026 Critical Security Patch Updates](../../news/2026/11/2026-11-18_amazon-corretto-november-2026-critical-security-patch-updates.md) `2026-11-18` [GA] [price-reduction] [security]
+- [AWS Config announces managed conformance packs](../../news/2026/11/2026-11-18_aws-config-announces-managed-conformance-packs.md) `2026-11-18` [new-region] [security] [ai-ml]
+- [Amazon ECR now supports global authentication tokens for private registries](../../news/2026/11/2026-11-18_amazon-ecr-now-supports-global-authentication-tokens-for-private-registries.md) `2026-11-18` [new-region] [performance]
