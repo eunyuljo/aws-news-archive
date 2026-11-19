@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon Simple Email Service is now available in six new AWS Regions](../../news/2026/11/2026-11-16_amazon-simple-email-service-is-now-available-in-six-new-aws-regions.md) `2026-11-16` [GA] [price-reduction] [new-region]
+- [AWS Clean Rooms supports writing PySpark job results to intermediate tables](../../news/2026/11/2026-11-19_aws-clean-rooms-supports-writing-pyspark-job-results-to-intermediate-tables.md) `2026-11-19` [GA] [new-region] [ai-ml]

@@ -6,7 +6,6 @@ nav_exclude: false
 
 # 태그: SageMaker
 
-총 2건
+총 1건
 
-- [Amazon SageMaker Unified Studio now supports layout customization for designations](../../news/2026/11/2026-11-18_amazon-sagemaker-unified-studio-now-supports-layout-customization-for-designatio.md) `2026-11-18` [new-region] [ai-ml]
-- [Amazon SageMaker AI now supports KV cache-aware routing for real-time inference endpoints](../../news/2026/11/2026-11-18_amazon-sagemaker-ai-now-supports-kv-cache-aware-routing-for-real-time-inference-.md) `2026-11-18` [new-region] [ai-ml]
+- [Amazon SageMaker HyperPod Inference now supports NVIDIA Dynamo for disaggregated and multi-node inference](../../news/2026/11/2026-11-19_amazon-sagemaker-hyperpod-inference-now-supports-nvidia-dynamo-for-disaggregated.md) `2026-11-19` [performance] [ai-ml]

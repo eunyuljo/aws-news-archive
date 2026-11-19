@@ -5,11 +5,11 @@ parent: Services
 
 # Lex — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-11-16
+총 **1건** | 최근 업데이트: 2026-11-19
 
 ---
 
 
 ## 2026
 
-- [Amazon Simple Email Service is now available in six new AWS Regions](../../news/2026/11/2026-11-16_amazon-simple-email-service-is-now-available-in-six-new-aws-regions.md) `2026-11-16`
+- [AWS Clean Rooms supports writing PySpark job results to intermediate tables](../../news/2026/11/2026-11-19_aws-clean-rooms-supports-writing-pyspark-job-results-to-intermediate-tables.md) `2026-11-19`

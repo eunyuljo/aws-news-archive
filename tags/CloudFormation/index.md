@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS WAF advanced rate-based rules are now available in AWS GovCloud (US), Thailand, and Mexico](../../news/2026/11/2026-11-18_aws-waf-advanced-rate-based-rules-are-now-available-in-aws-govcloud-us-thailand-.md) `2026-11-18` [GA] [new-region]
+- [AWS IAM account access manager is now even easier to deploy and use](../../news/2026/11/2026-11-19_aws-iam-account-access-manager-is-now-even-easier-to-deploy-and-use.md) `2026-11-19` [price-reduction] [new-region] [performance] [security]
