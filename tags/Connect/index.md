@@ -8,9 +8,9 @@ nav_exclude: false
 
 총 6건
 
-- [Amazon Connect Health medical coding is now available in public preview](../../news/2026/11/2026-11-19_amazon-connect-health-medical-coding-is-now-available-in-public-preview.md) `2026-11-19` [GA] [preview] [new-region] [ai-ml]
-- [AWS Elemental MediaConnect expands routing control and protocol support](../../news/2026/11/2026-11-19_aws-elemental-mediaconnect-expands-routing-control-and-protocol-support.md) `2026-11-19` [new-region]
-- [Amazon Connect Customer now supports case and calculated template variables](../../news/2026/11/2026-11-19_amazon-connect-customer-now-supports-case-and-calculated-template-variables.md) `2026-11-19` [new-region]
-- [Amazon WorkSpaces provides a new Windows client experience](../../news/2026/11/2026-11-19_amazon-workspaces-provides-a-new-windows-client-experience.md) `2026-11-19` [preview] [price-reduction] [new-region]
-- [AWS announces general availability of AWS Interconnect - multicloud connectivity with Microsoft Azure](../../news/2026/11/2026-11-19_aws-announces-general-availability-of-aws-interconnect-multicloud-connectivity-w.md) `2026-11-19` [GA] [preview] [new-region] [performance]
-- [AWS DevOps Agent now supports Slack code channels and Microsoft Teams two-way conversations](../../news/2026/11/2026-11-19_aws-devops-agent-now-supports-slack-code-channels-and-microsoft-teams-two-way-co.md) `2026-11-19` [GA] [new-region]
+- [Amazon Polly now supports voice cloning](../../news/2026/11/2026-11-20_amazon-polly-now-supports-voice-cloning.md) `2026-11-20` [GA] [new-region] [ai-ml]
+- [Amazon Connect Customer now provides AI chat summaries in the CCP](../../news/2026/11/2026-11-20_amazon-connect-customer-now-provides-ai-chat-summaries-in-the-ccp.md) `2026-11-20` [GA] [security] [ai-ml]
+- [Second-generation AWS Outposts racks now supported in the AWS European Sovereign Cloud (Germany) Region](../../news/2026/11/2026-11-20_second-generation-aws-outposts-racks-now-supported-in-the-aws-european-sovereign.md) `2026-11-20` [new-region] [performance]
+- [AWS expands Amazon Connect Customer Competency to Software Partners](../../news/2026/11/2026-11-20_aws-expands-amazon-connect-customer-competency-to-software-partners.md) `2026-11-20` [ai-ml]
+- [Amazon MSK Connect now supports restarting existing connectors](../../news/2026/11/2026-11-20_amazon-msk-connect-now-supports-restarting-existing-connectors.md) `2026-11-20` [price-reduction] [new-region]
+- [AWS DevOps Agent now supports Slack code channels and Microsoft Teams two-way conversations](../../news/2026/11/2026-11-20_aws-devops-agent-now-supports-slack-code-channels-and-microsoft-teams-two-way-co.md) `2026-11-20` [GA] [new-region]

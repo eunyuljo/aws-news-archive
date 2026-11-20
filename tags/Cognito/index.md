@@ -6,6 +6,7 @@ nav_exclude: false
 
 # 태그: Cognito
 
-총 1건
+총 2건
 
-- [Amazon Cognito now supports OAuth 2.0 token exchange](../../news/2026/11/2026-11-18_amazon-cognito-now-supports-oauth-20-token-exchange.md) `2026-11-18` [new-region] [ai-ml]
+- [Amazon Cognito now supports dynamic client registration](../../news/2026/11/2026-11-20_amazon-cognito-now-supports-dynamic-client-registration.md) `2026-11-20` [new-region] [ai-ml]
+- [Amazon Cognito now supports client ID metadata documents](../../news/2026/11/2026-11-20_amazon-cognito-now-supports-client-id-metadata-documents.md) `2026-11-20` [new-region] [ai-ml]

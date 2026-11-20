@@ -8,5 +8,5 @@ nav_exclude: false
 
 총 2건
 
-- [Amazon WorkSpaces Advisor now helps you find issues before your users notice them (Public Preview)](../../news/2026/11/2026-11-19_amazon-workspaces-advisor-now-helps-you-find-issues-before-your-users-notice-the.md) `2026-11-19` [GA] [preview] [new-region] [performance]
-- [Amazon SageMaker AI now supports cross-Region inference routing](../../news/2026/11/2026-11-19_amazon-sagemaker-ai-now-supports-cross-region-inference-routing.md) `2026-11-19` [new-region] [ai-ml]
+- [Amazon SageMaker AI now supports cross-Region inference routing](../../news/2026/11/2026-11-20_amazon-sagemaker-ai-now-supports-cross-region-inference-routing.md) `2026-11-20` [new-region] [ai-ml]
+- [AWS AppConfig launches support for managing native AI model and AI prompt configuration](../../news/2026/11/2026-11-20_aws-appconfig-launches-support-for-managing-native-ai-model-and-ai-prompt-config.md) `2026-11-20` [GA] [performance] [ai-ml]

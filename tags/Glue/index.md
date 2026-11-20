@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Analytics services now support Workday Data Cloud integration](../../news/2026/11/2026-11-17_aws-analytics-services-now-support-workday-data-cloud-integration.md) `2026-11-17` [new-region] [security] [ai-ml]
+- [Amazon EMR Serverless introduces Flex execution](../../news/2026/11/2026-11-20_amazon-emr-serverless-introduces-flex-execution.md) `2026-11-20` [price-reduction] [new-region]

@@ -5,11 +5,11 @@ parent: Services
 
 # CloudFront — AWS 뉴스
 
-총 **1건** | 최근 업데이트: 2026-11-19
+총 **1건** | 최근 업데이트: 2026-11-20
 
 ---
 
 
 ## 2026
 
-- [AWS WAF announces simplified onboarding for Bot Control targeted protection](../../news/2026/11/2026-11-19_aws-waf-announces-simplified-onboarding-for-bot-control-targeted-protection.md) `2026-11-19`
+- [Amazon CloudFront adds IP based routing and connection logs to SaaS Manager](../../news/2026/11/2026-11-20_amazon-cloudfront-adds-ip-based-routing-and-connection-logs-to-saas-manager.md) `2026-11-20`

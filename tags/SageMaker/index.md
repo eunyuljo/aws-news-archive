@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [Amazon SageMaker HyperPod Inference now supports NVIDIA Dynamo for disaggregated and multi-node inference](../../news/2026/11/2026-11-19_amazon-sagemaker-hyperpod-inference-now-supports-nvidia-dynamo-for-disaggregated.md) `2026-11-19` [performance] [ai-ml]
+- [Amazon SageMaker AI now detects rising response times, idle GPUs, and missed optimizations on your generative AI inference endpoints](../../news/2026/11/2026-11-20_amazon-sagemaker-ai-now-detects-rising-response-times-idle-gpus-and-missed-optim.md) `2026-11-20` [GA] [price-reduction] [performance] [ai-ml]

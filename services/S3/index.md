@@ -5,25 +5,21 @@ parent: Services
 
 # S3 — AWS 뉴스
 
-총 **15건** | 최근 업데이트: 2026-11-19
+총 **11건** | 최근 업데이트: 2026-11-20
 
 ---
 
 
 ## 2026
 
-- [Amazon S3 Vectors now supports hybrid search combining vector and full text for more relevant search results](../../news/2026/11/2026-11-19_amazon-s3-vectors-now-supports-hybrid-search-combining-vector-and-full-text-for-.md) `2026-11-19`
-- [Amazon S3 Storage Lens now tracks S3 Intelligent-Tiering access tiers](../../news/2026/11/2026-11-19_amazon-s3-storage-lens-now-tracks-s3-intelligent-tiering-access-tiers.md) `2026-11-19`
-- [AWS Split Cost Allocation Data now supports Amazon S3](../../news/2026/11/2026-11-19_aws-split-cost-allocation-data-now-supports-amazon-s3.md) `2026-11-19`
-- [AWS Transform now supports migration to AWS Outposts](../../news/2026/11/2026-11-19_aws-transform-now-supports-migration-to-aws-outposts.md) `2026-11-19`
-- [AWS Split Cost Allocation Data now supports Amazon S3](../../news/2026/11/2026-11-19_aws-split-cost-allocation-data-now-supports-amazon-s3.md) `2026-11-19`
-- [Amazon S3 now provides post-quantum TLS visibility in AWS CloudTrail](../../news/2026/11/2026-11-19_amazon-s3-now-provides-post-quantum-tls-visibility-in-aws-cloudtrail.md) `2026-11-19`
-- [Amazon S3 adds post-quantum TLS key exchange support to additional S3 endpoints](../../news/2026/11/2026-11-19_amazon-s3-adds-post-quantum-tls-key-exchange-support-to-additional-s3-endpoints.md) `2026-11-19`
-- [Amazon OpenSearch Ingestion Service now supports next-generation time series collections](../../news/2026/11/2026-11-19_amazon-opensearch-ingestion-service-now-supports-next-generation-time-series-col.md) `2026-11-19`
-- [Amazon SageMaker now supports AI data preparation capabilities to build high-quality datasets for model development](../../news/2026/11/2026-11-19_amazon-sagemaker-now-supports-ai-data-preparation-capabilities-to-build-high-qua.md) `2026-11-19`
-- [Amazon EMR 8.2 is now available](../../news/2026/11/2026-11-19_amazon-emr-82-is-now-available.md) `2026-11-19`
-- [Amazon S3 Replication adds exclusions and Multi-Region key resolution](../../news/2026/11/2026-11-19_amazon-s3-replication-adds-exclusions-and-multi-region-key-resolution.md) `2026-11-19`
-- [AWS Control Tower now supports existing Amazon S3 bucket for log delivery](../../news/2026/11/2026-11-19_aws-control-tower-now-supports-existing-amazon-s3-bucket-for-log-delivery.md) `2026-11-19`
-- [Amazon Aurora DSQL now supports audit logging](../../news/2026/11/2026-11-19_amazon-aurora-dsql-now-supports-audit-logging.md) `2026-11-19`
-- [Amazon RDS now supports fast storage volume initialization](../../news/2026/11/2026-11-19_amazon-rds-now-supports-fast-storage-volume-initialization.md) `2026-11-19`
-- [Amazon CloudFront standard logging now supports CMCD and additional log fields](../../news/2026/11/2026-11-19_amazon-cloudfront-standard-logging-now-supports-cmcd-and-additional-log-fields.md) `2026-11-19`
+- [Amazon EMR 8.2 is now available](../../news/2026/11/2026-11-20_amazon-emr-82-is-now-available.md) `2026-11-20`
+- [Amazon S3 Replication adds exclusions and Multi-Region key resolution](../../news/2026/11/2026-11-20_amazon-s3-replication-adds-exclusions-and-multi-region-key-resolution.md) `2026-11-20`
+- [AWS Control Tower now supports existing Amazon S3 bucket for log delivery](../../news/2026/11/2026-11-20_aws-control-tower-now-supports-existing-amazon-s3-bucket-for-log-delivery.md) `2026-11-20`
+- [Amazon Aurora DSQL now supports audit logging](../../news/2026/11/2026-11-20_amazon-aurora-dsql-now-supports-audit-logging.md) `2026-11-20`
+- [Amazon RDS now supports fast storage volume initialization](../../news/2026/11/2026-11-20_amazon-rds-now-supports-fast-storage-volume-initialization.md) `2026-11-20`
+- [Amazon CloudFront standard logging now supports CMCD and additional log fields](../../news/2026/11/2026-11-20_amazon-cloudfront-standard-logging-now-supports-cmcd-and-additional-log-fields.md) `2026-11-20`
+- [Amazon S3 Tables now support promoting replicas to writable tables](../../news/2026/11/2026-11-20_amazon-s3-tables-now-support-promoting-replicas-to-writable-tables.md) `2026-11-20`
+- [Amazon Bedrock AgentCore Identity adds private certificate authority support](../../news/2026/11/2026-11-20_amazon-bedrock-agentcore-identity-adds-private-certificate-authority-support.md) `2026-11-20`
+- [Announcing Data as a Service for AWS Marketplace](../../news/2026/11/2026-11-20_announcing-data-as-a-service-for-aws-marketplace.md) `2026-11-20`
+- [AWS WAF launches new Security Analytics Dashboard for real-time investigations](../../news/2026/11/2026-11-20_aws-waf-launches-new-security-analytics-dashboard-for-real-time-investigations.md) `2026-11-20`
+- [Announcing the general availability of a new AWS Local Zone in Bogotá, Colombia](../../news/2026/11/2026-11-20_announcing-the-general-availability-of-a-new-aws-local-zone-in-bogotá-colombia.md) `2026-11-20`
