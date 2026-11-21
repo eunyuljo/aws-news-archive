@@ -5,12 +5,12 @@ parent: Services
 
 # CloudFormation — AWS 뉴스
 
-총 **2건** | 최근 업데이트: 2026-11-20
+총 **2건** | 최근 업데이트: 2026-11-21
 
 ---
 
 
 ## 2026
 
-- [AWS IAM account access manager is now even easier to deploy and use](../../news/2026/11/2026-11-20_aws-iam-account-access-manager-is-now-even-easier-to-deploy-and-use.md) `2026-11-20`
-- [AWS CloudFormation StackSets adds progress visibility to simplify tracking deployments at scale](../../news/2026/11/2026-11-20_aws-cloudformation-stacksets-adds-progress-visibility-to-simplify-tracking-deplo.md) `2026-11-20`
+- [Amazon Route 53 private hosted zones now support public DNS fallback](../../news/2026/11/2026-11-21_amazon-route-53-private-hosted-zones-now-support-public-dns-fallback.md) `2026-11-21`
+- [AWS CloudFormation increases the default stacks per account quota to 300,000](../../news/2026/11/2026-11-21_aws-cloudformation-increases-the-default-stacks-per-account-quota-to-300000.md) `2026-11-21`

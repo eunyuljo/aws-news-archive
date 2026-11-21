@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Backup extends logically air-gapped vault support for Amazon Neptune to three additional AWS Regions](../../news/2026/08/2026-08-19_aws-backup-extends-logically-air-gapped-vault-support-for-amazon-neptune-to-thre.md) `2026-08-19` [GA] [new-region] [security]
+- [Amazon Neptune Serverless now delivers up to 30% better performance and smarter scaling](../../news/2026/11/2026-11-21_amazon-neptune-serverless-now-delivers-up-to-30-better-performance-and-smarter-s.md) `2026-11-21` [price-reduction] [new-region] [performance] [ai-ml]

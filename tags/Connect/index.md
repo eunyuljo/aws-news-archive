@@ -6,11 +6,10 @@ nav_exclude: false
 
 # 태그: Connect
 
-총 6건
+총 5건
 
-- [Amazon Polly now supports voice cloning](../../news/2026/11/2026-11-20_amazon-polly-now-supports-voice-cloning.md) `2026-11-20` [GA] [new-region] [ai-ml]
-- [Amazon Connect Customer now provides AI chat summaries in the CCP](../../news/2026/11/2026-11-20_amazon-connect-customer-now-provides-ai-chat-summaries-in-the-ccp.md) `2026-11-20` [GA] [security] [ai-ml]
-- [Second-generation AWS Outposts racks now supported in the AWS European Sovereign Cloud (Germany) Region](../../news/2026/11/2026-11-20_second-generation-aws-outposts-racks-now-supported-in-the-aws-european-sovereign.md) `2026-11-20` [new-region] [performance]
-- [AWS expands Amazon Connect Customer Competency to Software Partners](../../news/2026/11/2026-11-20_aws-expands-amazon-connect-customer-competency-to-software-partners.md) `2026-11-20` [ai-ml]
-- [Amazon MSK Connect now supports restarting existing connectors](../../news/2026/11/2026-11-20_amazon-msk-connect-now-supports-restarting-existing-connectors.md) `2026-11-20` [price-reduction] [new-region]
-- [AWS DevOps Agent now supports Slack code channels and Microsoft Teams two-way conversations](../../news/2026/11/2026-11-20_aws-devops-agent-now-supports-slack-code-channels-and-microsoft-teams-two-way-co.md) `2026-11-20` [GA] [new-region]
+- [AWS DevOps Agent now supports Slack code channels and Microsoft Teams two-way conversations](../../news/2026/11/2026-11-21_aws-devops-agent-now-supports-slack-code-channels-and-microsoft-teams-two-way-co.md) `2026-11-21` [GA] [new-region]
+- [Announcing a new skill for AI agents in Amazon Textract Core](../../news/2026/11/2026-11-21_announcing-a-new-skill-for-ai-agents-in-amazon-textract-core.md) `2026-11-21` [new-region] [ai-ml]
+- [Second-generation AWS Outposts racks now supported in the AWS Asia Pacific (Osaka)](../../news/2026/11/2026-11-21_second-generation-aws-outposts-racks-now-supported-in-the-aws-asia-pacific-osaka.md) `2026-11-21` [new-region] [performance]
+- [Amazon Connect Customer expands how teams track and act on service level agreements for cases](../../news/2026/11/2026-11-21_amazon-connect-customer-expands-how-teams-track-and-act-on-service-level-agreeme.md) `2026-11-21` [new-region] [performance]
+- [Demand Center now available in AWS Partner Central](../../news/2026/11/2026-11-21_demand-center-now-available-in-aws-partner-central.md) `2026-11-21` [GA] [performance] [ai-ml]

@@ -8,4 +8,4 @@ nav_exclude: false
 
 총 1건
 
-- [AWS Elemental Inference now generates contextual metadata from live video in real time](../../news/2026/09/2026-09-24_aws-elemental-inference-now-generates-contextual-metadata-from-live-video-in-rea.md) `2026-09-24` [new-region] [ai-ml]
+- [AWS Partner Central Agents now help partners create and manage Partner Central and Marketplace support cases](../../news/2026/11/2026-11-21_aws-partner-central-agents-now-help-partners-create-and-manage-partner-central-a.md) `2026-11-21` [GA] [performance] [ai-ml]
